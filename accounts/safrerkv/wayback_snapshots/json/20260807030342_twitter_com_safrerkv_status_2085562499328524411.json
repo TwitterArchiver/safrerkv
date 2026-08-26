@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085244371281354904",
+    "created_at": "2026-08-07T03:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085562499328524411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085562499328524411",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085244371281354904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 发了什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085244371281354904",
+        "created_at": "2026-08-07T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085562499328524411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085562499328524411",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085244371281354904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 发了什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063159075572158465",
+        "conversation_id": "2085244371281354904",
+        "created_at": "2026-08-06T05:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085244371281354904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085244371281354904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1342,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（发布了一个滚木帖子）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 257,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户可以关注大号谢谢咯~\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1180,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

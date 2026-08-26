@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2082445494371148027",
+    "created_at": "2026-07-29T12:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082445494371148027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "まのさば"
+        },
+        {
+          "end": 117,
+          "start": 108,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082445494371148027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082293586637566150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: ◆誕生日◆  \n\n共犯の皆様。\n\n本日は囚人番号667\n「橘シェリー」が生まれてしまった日です。\n記念イラストを公開いたします。\n誕生日おめでとうございます。\n\n#まのさば  #まのさば二次創作 にも、お祝いのコメント・イラストが寄せられ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082293580669009920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXK-qnaQAAZqBS.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082445494371148027",
+        "created_at": "2026-07-29T12:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082445494371148027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "まのさば"
+            },
+            {
+              "end": 117,
+              "start": 108,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082445494371148027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082293586637566150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: ◆誕生日◆  \n\n共犯の皆様。\n\n本日は囚人番号667\n「橘シェリー」が生まれてしまった日です。\n記念イラストを公開いたします。\n誕生日おめでとうございます。\n\n#まのさば  #まのさば二次創作 にも、お祝いのコメント・イラストが寄せられ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082293580669009920"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082293586637566150",
+        "created_at": "2026-07-29T02:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082293586637566150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "まのさば"
+            },
+            {
+              "end": 97,
+              "start": 88,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hX9xCdtPoA",
+              "end": 161,
+              "expanded_url": "https://x.com/13witch_Trials/status/2082293586637566150/photo/1",
+              "media_key": "3_2082293580669009920",
+              "start": 138,
+              "url": "https://t.co/hX9xCdtPoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082293586637566150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1428,
+          "impression_count": 641763,
+          "like_count": 24113,
+          "quote_count": 432,
+          "reply_count": 151,
+          "retweet_count": 7021
+        },
+        "reply_settings": "everyone",
+        "text": "◆誕生日◆  \n\n共犯の皆様。\n\n本日は囚人番号667\n「橘シェリー」が生まれてしまった日です。\n記念イラストを公開いたします。\n誕生日おめでとうございます。\n\n#まのさば  #まのさば二次創作 にも、お祝いのコメント・イラストが寄せられておりますので、\nぜひご覧ください。 https://t.co/hX9xCdtPoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 209,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam/Switch版発売中。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nShop：https://t.co/3ZvBm16ybz\nLink：https://t.co/Nj5V4ScWW9\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 174,
+                "start": 158,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 96,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 73,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 125,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 102,
+                "url": "https://t.co/3ZvBm16ybz"
+              },
+              {
+                "display_url": "x.gd/T4Vle",
+                "end": 154,
+                "expanded_url": "https://x.gd/T4Vle",
+                "start": 131,
+                "url": "https://t.co/Nj5V4ScWW9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2074871445977715074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263730,
+          "following_count": 54,
+          "like_count": 3609,
+          "listed_count": 412,
+          "media_count": 756,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

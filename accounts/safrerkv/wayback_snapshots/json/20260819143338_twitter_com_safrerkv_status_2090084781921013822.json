@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090070119800017095",
+    "created_at": "2026-08-19T14:33:38.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090084781921013822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821867488784916480",
+          "start": 0,
+          "username": "shuo156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090084781921013822",
+    "in_reply_to_user_id": "1821867488784916480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090076177557840000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo156 mj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090070119800017095",
+        "created_at": "2026-08-19T14:33:38.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090084781921013822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821867488784916480",
+              "start": 0,
+              "username": "shuo156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090084781921013822",
+        "in_reply_to_user_id": "1821867488784916480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090076177557840000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo156 mj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821867488784916480",
+        "conversation_id": "2090070119800017095",
+        "created_at": "2026-08-19T13:59:27.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090076177557840000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090076177557840000",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090070119800017095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv mj（测效果不用回）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090084781921013822",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 647,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T11:14:17.000Z",
+        "description": "高中生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ovowe.cn",
+                "end": 23,
+                "expanded_url": "https://ovowe.cn/",
+                "start": 0,
+                "url": "https://t.co/ws8vC5HrMB"
+              }
+            ]
+          }
+        },
+        "id": "1821867488784916480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090078248025628974",
+        "name": "秋秋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821867488784916480/1784975504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090074267622776832/hYqL922u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/ws8vC5HrMB",
+        "username": "shuo156",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

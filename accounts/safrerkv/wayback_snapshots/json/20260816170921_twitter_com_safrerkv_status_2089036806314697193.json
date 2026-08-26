@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089036806314697193",
+    "created_at": "2026-08-16T17:09:21.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089036806314697193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1720665183188922368",
+          "start": 43,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/msksml8964/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/msksml8964/status/2086778852072902899",
+          "start": 49,
+          "url": "https://t.co/DB166IzJoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089036806314697193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086778852072902899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/DB166IzJoK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089036806314697193",
+        "created_at": "2026-08-16T17:09:21.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089036806314697193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/msksml8964/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/msksml8964/status/2086778852072902899",
+              "start": 49,
+              "url": "https://t.co/DB166IzJoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089036806314697193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086778852072902899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/DB166IzJoK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021385985612001280",
+        "conversation_id": "2086778852072902899",
+        "created_at": "2026-08-10T11:37:03.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086778852072902899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yumeialinlin/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/yumeialinlin/status/2086613753953689803",
+              "start": 49,
+              "url": "https://t.co/ECIRc3YI0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086778852072902899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086613753953689803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/ECIRc3YI0x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089036806314697193",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 527,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T00:49:25.000Z",
+        "description": "非礼勿视，非礼勿听。在下东方彧卿，无心唐突，若有冒犯还请见谅。",
+        "id": "2021385985612001280",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2089006905142460626",
+        "name": "东方彧卿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021385985612001280/1770771337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 407,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 934
+        },
+        "url": "",
+        "username": "msksml8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089036821422391329",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8973129,
+          "following_count": 6,
+          "like_count": 131,
+          "listed_count": 7364,
+          "media_count": 9263466,
+          "tweet_count": 136123363
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

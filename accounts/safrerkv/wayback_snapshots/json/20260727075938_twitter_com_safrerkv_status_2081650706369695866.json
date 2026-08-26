@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081650706369695866",
+    "created_at": "2026-07-27T07:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081650706369695866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081650706369695866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼抖人慢慢洗你那傻子isa和一滴泪🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081650706369695866",
+        "created_at": "2026-07-27T07:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081650706369695866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081650706369695866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼抖人慢慢洗你那傻子isa和一滴泪🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 175,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      }
+    ]
+  }
+}

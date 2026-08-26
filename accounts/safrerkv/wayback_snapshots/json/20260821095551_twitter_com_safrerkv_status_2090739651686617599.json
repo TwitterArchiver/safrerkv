@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090378306168254791",
+    "created_at": "2026-08-21T09:55:51.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090739651686617599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495779805735923715",
+          "start": 0,
+          "username": "Fundamental_YA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090739651686617599",
+    "in_reply_to_user_id": "1495779805735923715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090694304574624238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fundamental_YA 不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090378306168254791",
+        "created_at": "2026-08-21T09:55:51.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090739651686617599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495779805735923715",
+              "start": 0,
+              "username": "Fundamental_YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090739651686617599",
+        "in_reply_to_user_id": "1495779805735923715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090694304574624238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fundamental_YA 不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495779805735923715",
+        "conversation_id": "2090378306168254791",
+        "created_at": "2026-08-21T06:55:40.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090694304574624238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090694304574624238",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090378306168254791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 九月九日忆山东兄弟啊喂，重阳节。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090739651686617599",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 699,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T15:18:05.000Z",
+        "description": "zh(SC/TC) | en | ja\n\n🧬 混迹于医学（主要）与计算机之间 | 🏙 基沃托斯居民（国际服）+ 葱厨 | ⚠️ EN/JP DLC加载中，见谅。\n\n🧬 医学(メイン)とプログラミングの二刀流 | 🏙 キヴォトス住民（グローバル）＆葱厨 | ⚠️ 語学力バグってたらごめん！\n\n运营商原因网站凉了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fundamental-ya.v6.navy",
+                "end": 23,
+                "expanded_url": "http://fundamental-ya.v6.navy",
+                "start": 0,
+                "url": "https://t.co/aahLdW6Syt"
+              }
+            ]
+          }
+        },
+        "id": "1495779805735923715",
+        "is_identity_verified": false,
+        "location": "中国,辽宁",
+        "most_recent_tweet_id": "2090698102810583116",
+        "name": "飯だ饅頭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495779805735923715/1658593315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901648339478990848/L0ELRfYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 122,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/aahLdW6Syt",
+        "username": "Fundamental_YA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

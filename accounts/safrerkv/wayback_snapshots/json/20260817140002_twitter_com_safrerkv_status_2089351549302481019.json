@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089296556969410561"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089351549302481019",
+    "created_at": "2026-08-17T14:00:02.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089351549302481019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046117898377379840",
+          "start": 4,
+          "username": "kawaii_imai"
+        },
+        {
+          "end": 34,
+          "id": "1905126166488608768",
+          "start": 21,
+          "username": "QQ2158278027"
+        },
+        {
+          "end": 49,
+          "id": "1875906425517662208",
+          "start": 39,
+          "username": "Asuka080s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJ6iWKKE9F",
+          "end": 88,
+          "expanded_url": "https://x.com/safrerkv/status/2089351549302481019/photo/1",
+          "media_key": "3_2089296556969410561",
+          "start": 65,
+          "url": "https://t.co/HJ6iWKKE9F"
+        },
+        {
+          "display_url": "x.com/safrerkv/statu…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/safrerkv/status/2088886733937213864",
+          "start": 89,
+          "url": "https://t.co/j0rt7tFhNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089351549302481019",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089296556969410561"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088886733937213864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一等奖：@kawaii_imai\n二等奖：@QQ2158278027\n三等奖：@Asuka080s\n请私信发我收款码or赞赏码喵 https://t.co/HJ6iWKKE9F https://t.co/j0rt7tFhNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2089296556969410561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6sJiSbwAEAU-m.png",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089296556969410561"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089351549302481019",
+        "created_at": "2026-08-17T14:00:02.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089351549302481019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046117898377379840",
+              "start": 4,
+              "username": "kawaii_imai"
+            },
+            {
+              "end": 34,
+              "id": "1905126166488608768",
+              "start": 21,
+              "username": "QQ2158278027"
+            },
+            {
+              "end": 49,
+              "id": "1875906425517662208",
+              "start": 39,
+              "username": "Asuka080s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ6iWKKE9F",
+              "end": 88,
+              "expanded_url": "https://x.com/safrerkv/status/2089351549302481019/photo/1",
+              "media_key": "3_2089296556969410561",
+              "start": 65,
+              "url": "https://t.co/HJ6iWKKE9F"
+            },
+            {
+              "display_url": "x.com/safrerkv/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/safrerkv/status/2088886733937213864",
+              "start": 89,
+              "url": "https://t.co/j0rt7tFhNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089351549302481019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089296556969410561"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一等奖：@kawaii_imai\n二等奖：@QQ2158278027\n三等奖：@Asuka080s\n请私信发我收款码or赞赏码喵 https://t.co/HJ6iWKKE9F https://t.co/j0rt7tFhNZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T07:13:01.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088886733937213864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088886733937213864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3298,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "192fo了 打算再开一个抽奖 8月17号晚上10点开奖\n一等奖：20r微信转账\n二等奖：15r微信转账\n三等奖：10r微信转账\n参与方式 关注 转帖 评论"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图 没有被fo到请私信我喵 关注我的我喜欢你喵 目标1000fo~ 关注相融谢谢喵",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089351549302481019",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 596,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089215331722264888",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 289,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T05:14:23.000Z",
+        "description": "",
+        "id": "1905126166488608768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089311662402875447",
+        "name": "爱猫小能手",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905126166488608768/1743065598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905179968516296704/Y00TtNqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "QQ2158278027",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "“北海的花儿开了，我推你去走走”",
+        "id": "1875906425517662208",
+        "is_identity_verified": false,
+        "location": "你的床底",
+        "most_recent_tweet_id": "2089348217767149946",
+        "name": "槲寄生.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875906425517662208/1778934782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088282175213113344/u30eewWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 44,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "Asuka080s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

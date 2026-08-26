@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090777570153566581",
+    "created_at": "2026-08-21T13:06:11.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090787551477182952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090787551477182952",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090787424037482793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 感谢教主撒嘛😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090777570153566581",
+        "created_at": "2026-08-21T13:06:11.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090787551477182952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787551477182952",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090787424037482793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 感谢教主撒嘛😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2090777570153566581",
+        "created_at": "2026-08-21T13:05:41.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090787424037482793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787424037482793",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090777570153566581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 可怜的信徒啊……为教主大人的瞥视而敬见吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090787551477182952",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 705,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "“因恐惧而瑟瑟发抖人们啊，听我说……”\n这里是教主sama，间宫卓司人间体\n尼古丁重度依赖🤤🤤🤤\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2090787424037482793",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787060244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 203,
+          "like_count": 1758,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

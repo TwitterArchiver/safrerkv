@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088619512597999766",
+    "created_at": "2026-08-16T13:11:28.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088976940577505322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944404050906316800",
+          "start": 0,
+          "username": "F7Uj6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088976940577505322",
+    "in_reply_to_user_id": "1944404050906316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088972324741550281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F7Uj6y 感谢你的支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T13:11:28.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088976940577505322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944404050906316800",
+              "start": 0,
+              "username": "F7Uj6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088976940577505322",
+        "in_reply_to_user_id": "1944404050906316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088972324741550281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F7Uj6y 感谢你的支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944404050906316800",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T12:53:08.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088972324741550281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088972324741550281",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619512597999766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088976940577505322",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 509,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T14:30:45.000Z",
+        "description": "叫我叶子ᗜ֊ᗜ🍃🌿🍀☘️🌱\n09  坐标重庆\n生理性别男 ‖ 心理性别男\ngay  ‖  LGBTQ+全肯定\n抑郁症患者  焦虑症患者 ‖ 不割手\n\nhttps://t.co/olDOaMTObs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/leaf0911",
+                "end": 98,
+                "expanded_url": "http://t.me/leaf0911",
+                "start": 75,
+                "url": "https://t.co/olDOaMTObs"
+              }
+            ]
+          }
+        },
+        "id": "1944404050906316800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088972324741550281",
+        "name": "leaf",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944404050906316800/1786451257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 45,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "F7Uj6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

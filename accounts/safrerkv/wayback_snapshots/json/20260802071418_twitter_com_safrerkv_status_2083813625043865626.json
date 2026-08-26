@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083813613782106113"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083813625043865626",
+    "created_at": "2026-08-02T07:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083813625043865626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qL8ndWldMz",
+          "end": 23,
+          "expanded_url": "https://x.com/safrerkv/status/2083813625043865626/photo/1",
+          "media_key": "3_2083813613782106113",
+          "start": 0,
+          "url": "https://t.co/qL8ndWldMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083813625043865626",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qL8ndWldMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "3_2083813613782106113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsxcPObAAESlaV.jpg",
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083813613782106113"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083813625043865626",
+        "created_at": "2026-08-02T07:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083813625043865626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qL8ndWldMz",
+              "end": 23,
+              "expanded_url": "https://x.com/safrerkv/status/2083813625043865626/photo/1",
+              "media_key": "3_2083813613782106113",
+              "start": 0,
+              "url": "https://t.co/qL8ndWldMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083813625043865626",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qL8ndWldMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 235,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      }
+    ]
+  }
+}

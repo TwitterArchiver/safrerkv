@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090646456252420195",
+    "created_at": "2026-08-21T05:36:15.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090674318418358729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066758908233027584",
+          "start": 0,
+          "username": "a_username_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090674318418358729",
+    "in_reply_to_user_id": "2066758908233027584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090672756971213193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_username_owo 早喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090646456252420195",
+        "created_at": "2026-08-21T05:36:15.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090674318418358729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066758908233027584",
+              "start": 0,
+              "username": "a_username_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090674318418358729",
+        "in_reply_to_user_id": "2066758908233027584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090672756971213193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_username_owo 早喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2090646456252420195",
+        "created_at": "2026-08-21T05:30:02.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090672756971213193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090672756971213193",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090646456252420195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 早上好喵～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090674318418358729",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 693,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "我有可能快活不下去了喵，急需一個新的對象幫我度過這段時期喵🥺",
+        "id": "2066758908233027584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090672756971213193",
+        "name": "可愛的小男孩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066758908233027584/1786120525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084977115293003776/BXHR2rR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 111,
+          "like_count": 19156,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

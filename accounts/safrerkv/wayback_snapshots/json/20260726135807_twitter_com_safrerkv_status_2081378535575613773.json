@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081006631782130156",
+    "created_at": "2026-07-26T13:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081378535575613773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081378535575613773",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081006631782130156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 吓哭了这么多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081006589188993024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE4d5vbcAAnHcj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081006631782130156",
+        "created_at": "2026-07-26T13:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378535575613773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378535575613773",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081006631782130156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 吓哭了这么多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081006589188993024"
+          ]
+        },
+        "author_id": "1967736228725575681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081006631782130156",
+        "created_at": "2026-07-25T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081006631782130156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GeavZks1P",
+              "end": 27,
+              "expanded_url": "https://x.com/shier6639/status/2081006631782130156/photo/1",
+              "media_key": "3_2081006589188993024",
+              "start": 4,
+              "url": "https://t.co/3GeavZks1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081006631782130156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5245,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃点。 https://t.co/3GeavZks1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 158,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 162,
+          "like_count": 2994,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

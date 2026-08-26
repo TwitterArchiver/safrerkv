@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083011524717916389",
+    "created_at": "2026-07-31T02:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083011524717916389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083011524717916389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082862308624367912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: 我每次点上烟的时候我都觉得自己特帅，青少年一定要多多模仿我哟，快来快来向大姐姐我学习吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083011524717916389",
+        "created_at": "2026-07-31T02:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083011524717916389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083011524717916389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082862308624367912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: 我每次点上烟的时候我都觉得自己特帅，青少年一定要多多模仿我哟，快来快来向大姐姐我学习吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2082862308624367912",
+        "created_at": "2026-07-30T16:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082862308624367912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082862308624367912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次点上烟的时候我都觉得自己特帅，青少年一定要多多模仿我哟，快来快来向大姐姐我学习吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 217,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 678,
+          "like_count": 28846,
+          "listed_count": 7,
+          "media_count": 2516,
+          "tweet_count": 27756
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

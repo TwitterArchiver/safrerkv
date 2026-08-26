@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074719643277873152"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074719748018102316",
+    "created_at": "2026-07-08T04:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074719748018102316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PaetdS575V",
+          "end": 38,
+          "expanded_url": "https://x.com/safrerkv/status/2074719748018102316/photo/1",
+          "media_key": "3_2074719643277873152",
+          "start": 15,
+          "url": "https://t.co/PaetdS575V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074719748018102316",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "yunyun love😍😍😍 https://t.co/PaetdS575V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074719643277873152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrihfIaUAAI73A.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074719643277873152"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074719748018102316",
+        "created_at": "2026-07-08T04:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074719748018102316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaetdS575V",
+              "end": 38,
+              "expanded_url": "https://x.com/safrerkv/status/2074719748018102316/photo/1",
+              "media_key": "3_2074719643277873152",
+              "start": 15,
+              "url": "https://t.co/PaetdS575V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074719748018102316",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yunyun love😍😍😍 https://t.co/PaetdS575V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 123,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      }
+    ]
+  }
+}

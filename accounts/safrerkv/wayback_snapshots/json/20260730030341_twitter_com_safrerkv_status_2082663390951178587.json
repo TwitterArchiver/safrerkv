@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2082663390951178587",
+    "created_at": "2026-07-30T03:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082663390951178587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062499145267605504",
+          "start": 3,
+          "username": "AZKi_VDiVA"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ホロライブ「AZKi」の誕生日記念商品です。※ボイスは受注締め切り後も購入及びダウンロード可能ですが、予告なく販売を終了する場合がございます。",
+          "display_url": "shop.hololivepro.com/products/azki_…",
+          "end": 90,
+          "expanded_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 67,
+          "status": 200,
+          "title": "AZKi 誕生日記念2026",
+          "unwound_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+          "url": "https://t.co/CSc6glC6vq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082663390951178587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082662469474951200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AZKi_VDiVA: 🎂AZKi誕生日記念2026グッズ販売中🎂\n\n小悪魔あずぬいのサンプル写真到着📸✨\n\n🔽商品ページ🔽\nhttps://t.co/CSc6glC6vq\n\n✅購入は【8月3日(月) 18:00まで】\n\n💜2層アクリルパネル\n💜ランダムラバーキーホルダ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082500809351405569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaHc9naoAEBWCW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2082663390951178587",
+        "created_at": "2026-07-30T03:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082663390951178587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062499145267605504",
+              "start": 3,
+              "username": "AZKi_VDiVA"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ホロライブ「AZKi」の誕生日記念商品です。※ボイスは受注締め切り後も購入及びダウンロード可能ですが、予告なく販売を終了する場合がございます。",
+              "display_url": "shop.hololivepro.com/products/azki_…",
+              "end": 90,
+              "expanded_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "AZKi 誕生日記念2026",
+              "unwound_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+              "url": "https://t.co/CSc6glC6vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082663390951178587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082662469474951200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AZKi_VDiVA: 🎂AZKi誕生日記念2026グッズ販売中🎂\n\n小悪魔あずぬいのサンプル写真到着📸✨\n\n🔽商品ページ🔽\nhttps://t.co/CSc6glC6vq\n\n✅購入は【8月3日(月) 18:00まで】\n\n💜2層アクリルパネル\n💜ランダムラバーキーホルダ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082500809351405569"
+          ]
+        },
+        "author_id": "1062499145267605504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2082662469474951200",
+        "created_at": "2026-07-30T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082662469474951200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ホロライブ「AZKi」の誕生日記念商品です。※ボイスは受注締め切り後も購入及びダウンロード可能ですが、予告なく販売を終了する場合がございます。",
+              "display_url": "shop.hololivepro.com/products/azki_…",
+              "end": 74,
+              "expanded_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080440514051239936/lU4Gxu1i?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "AZKi 誕生日記念2026",
+              "unwound_url": "https://shop.hololivepro.com/products/azki_birthday_2026",
+              "url": "https://t.co/CSc6glC6vq"
+            },
+            {
+              "display_url": "pic.x.com/JunvN6Nb9n",
+              "end": 189,
+              "expanded_url": "https://x.com/AZKi_VDiVA/status/2082662469474951200/photo/1",
+              "media_key": "3_2082500809351405569",
+              "start": 166,
+              "url": "https://t.co/JunvN6Nb9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082662469474951200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10036,
+          "like_count": 449,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "🎂AZKi誕生日記念2026グッズ販売中🎂\n\n小悪魔あずぬいのサンプル写真到着📸✨\n\n🔽商品ページ🔽\nhttps://t.co/CSc6glC6vq\n\n✅購入は【8月3日(月) 18:00まで】\n\n💜2層アクリルパネル\n💜ランダムラバーキーホルダー\n💜ぬいぐるみキーホルダー\n💜おそろいブレスレット\n\nぜひ手に入れてねーっっ‼️🫶 https://t.co/JunvN6Nb9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 213,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T00:15:11.000Z",
+        "description": "ホロライブ(@hololivetv)所属のAZKiです。歌うことが大好き。タグ #AZKi ファンアートは #AZKiART 私と一緒に世界を創ってくれる ファンのみんなは #開拓者 ⚒️ パパは@ksk_st",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "AZKi"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "AZKiART"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "開拓者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "hololivetv"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "ksk_st"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC0TXe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+                "start": 0,
+                "url": "https://t.co/yd3bOc1rfW"
+              }
+            ]
+          }
+        },
+        "id": "1062499145267605504",
+        "name": "AZKi",
+        "pinned_tweet_id": "2072292886818042132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039357571904249856/JbrLwsNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913031,
+          "following_count": 988,
+          "like_count": 30505,
+          "listed_count": 10238,
+          "media_count": 4464,
+          "tweet_count": 23305
+        },
+        "url": "https://t.co/yd3bOc1rfW",
+        "username": "AZKi_VDiVA",
+        "verified": true
+      }
+    ]
+  }
+}

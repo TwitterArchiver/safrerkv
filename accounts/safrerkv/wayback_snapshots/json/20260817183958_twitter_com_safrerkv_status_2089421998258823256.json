@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089421998258823256",
+    "created_at": "2026-08-17T18:39:58.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089421998258823256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2079958754057986048",
+          "start": 3,
+          "username": "RethaOpaliaq"
+        },
+        {
+          "end": 27,
+          "id": "2070858923431825408",
+          "start": 18,
+          "username": "safrerkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089421998258823256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089344420231422426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RethaOpaliaq: @safrerkv 应该没人比我玩的开了吧🏕️😁我福不黑不信你看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089421998258823256",
+        "created_at": "2026-08-17T18:39:58.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089421998258823256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2079958754057986048",
+              "start": 3,
+              "username": "RethaOpaliaq"
+            },
+            {
+              "end": 27,
+              "id": "2070858923431825408",
+              "start": 18,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089421998258823256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089344420231422426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RethaOpaliaq: @safrerkv 应该没人比我玩的开了吧🏕️😁我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079958754057986048",
+        "conversation_id": "2089211870268055576",
+        "created_at": "2026-08-17T13:31:42.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089344420231422426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089344420231422426",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089211870268055576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 应该没人比我玩的开了吧🏕️😁我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标1000fo~ 关注相融谢谢喵 炮友@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089421998258823256",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 609,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T15:57:19.000Z",
+        "description": "05女大线下接待 本人aiai照都在✈ 喝🍵可以深入哟\n\n同⛱️城🌹上🇨🇳椚~下方👇👇可联系✈：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixi807",
+                "end": 23,
+                "expanded_url": "http://t.me/xixi807",
+                "start": 0,
+                "url": "https://t.co/tjw7AwEvle"
+              }
+            ]
+          }
+        },
+        "id": "2079958754057986048",
+        "is_identity_verified": false,
+        "location": "距离2.5km👉✈",
+        "most_recent_tweet_id": "2089344420722143281",
+        "name": "康歆🌸同城上门♥线下选妃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089344424643858432/pWPGMg9A_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/tjw7AwEvle",
+        "username": "RethaOpaliaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

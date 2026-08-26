@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090769234326614519",
+    "created_at": "2026-08-21T14:47:03.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090812931902746667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079944185298436097",
+          "start": 0,
+          "username": "Johnsmithuxlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090812931902746667",
+    "in_reply_to_user_id": "2079944185298436097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090810144909115890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnsmithuxlj 姐妹你辱女了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090769234326614519",
+        "created_at": "2026-08-21T14:47:03.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090812931902746667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079944185298436097",
+              "start": 0,
+              "username": "Johnsmithuxlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090812931902746667",
+        "in_reply_to_user_id": "2079944185298436097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090810144909115890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnsmithuxlj 姐妹你辱女了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079944185298436097",
+        "conversation_id": "2090769234326614519",
+        "created_at": "2026-08-21T14:35:58.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090810144909115890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090810144909115890",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090769234326614519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 你怎么能定义女性力量？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090812931902746667",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 710,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T14:59:40.000Z",
+        "description": "喜欢二次元中国人反对共产党专政",
+        "id": "2079944185298436097",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2090811749771489725",
+        "name": "习近平（互fo）",
+        "pinned_tweet_id": "2084563792612978823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079944185298436097/1785353208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082548414995173377/uDyoj2WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 246,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "Johnsmithuxlj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

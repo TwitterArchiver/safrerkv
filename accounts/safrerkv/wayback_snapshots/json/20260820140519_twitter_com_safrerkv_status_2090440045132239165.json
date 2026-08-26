@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090440045132239165",
+    "created_at": "2026-08-20T14:05:19.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090440045132239165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3183181424",
+          "start": 3,
+          "username": "MayesConfession"
+        },
+        {
+          "end": 30,
+          "id": "2070858923431825408",
+          "start": 21,
+          "username": "safrerkv"
+        },
+        {
+          "end": 58,
+          "id": "412100005",
+          "start": 48,
+          "username": "tiagolvr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090440045132239165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090319266587574657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MayesConfession: @safrerkv 30+果然太涩了cz 我真顶不住 @tiagolvr7 7f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090440045132239165",
+        "created_at": "2026-08-20T14:05:19.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090440045132239165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3183181424",
+              "start": 3,
+              "username": "MayesConfession"
+            },
+            {
+              "end": 30,
+              "id": "2070858923431825408",
+              "start": 21,
+              "username": "safrerkv"
+            },
+            {
+              "end": 58,
+              "id": "412100005",
+              "start": 48,
+              "username": "tiagolvr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090440045132239165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090319266587574657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MayesConfession: @safrerkv 30+果然太涩了cz 我真顶不住 @tiagolvr7 7f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3183181424",
+        "conversation_id": "2090024726831743113",
+        "created_at": "2026-08-20T06:05:24.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090319266587574657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 37,
+              "id": "412100005",
+              "start": 27,
+              "username": "tiagolvr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090319266587574657",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090024726831743113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 30+果然太涩了cz 我真顶不住 @tiagolvr7 7f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090440045132239165",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 678,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-02T17:24:37.000Z",
+        "description": "Hope to make new friends here",
+        "id": "3183181424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090319956613402938",
+        "name": "Emily",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3183181424/1730767694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853600158380072960/7bfAF0RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 78,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "MayesConfession",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-14T08:12:23.000Z",
+        "description": "本人90后老师，由于教学压力大，生活中有点反差，喜欢年纪相差不多或者成熟稳重的男士👄，有共同话题，👨‍💼文明交流🫶🏻色而不淫👱🏻‍♀️淫而不乱~\n本人tg✈️：   https://t.co/mZVCcqMfrr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xiaoyu054100",
+                "end": 106,
+                "expanded_url": "https://telegram.me/xiaoyu054100",
+                "start": 83,
+                "url": "https://t.co/mZVCcqMfrr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "r2d6.top",
+                "end": 23,
+                "expanded_url": "https://r2d6.top",
+                "start": 0,
+                "url": "https://t.co/zsfgycjoVg"
+              }
+            ]
+          }
+        },
+        "id": "412100005",
+        "is_identity_verified": false,
+        "location": "5km               已入驻X官方约啪平台👉",
+        "most_recent_tweet_id": "2087375285801132263",
+        "name": "晓瑜是老师",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087374642243899392/weSrtF8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 422,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/zsfgycjoVg",
+        "username": "tiagolvr7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090100224416973205",
+    "created_at": "2026-08-20T04:49:44.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090300226326368442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1686257482199449602",
+          "start": 0,
+          "username": "yekongVstars"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090300226326368442",
+    "in_reply_to_user_id": "1686257482199449602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090291949790285826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yekongVstars 老板是mj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090100224416973205",
+        "created_at": "2026-08-20T04:49:44.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090300226326368442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686257482199449602",
+              "start": 0,
+              "username": "yekongVstars"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090300226326368442",
+        "in_reply_to_user_id": "1686257482199449602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090291949790285826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yekongVstars 老板是mj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686257482199449602",
+        "conversation_id": "2090100224416973205",
+        "created_at": "2026-08-20T04:16:51.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090291949790285826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090291949790285826",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100224416973205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 🤓万一老板是蜘蛛侠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090300226326368442",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 659,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T06:08:29.000Z",
+        "description": "Vme50🥺",
+        "id": "1686257482199449602",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090295046713286828",
+        "name": "yekongVstars",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686257482199449602/1775016088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039191381265248256/a82F99RG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 72,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "yekongVstars",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

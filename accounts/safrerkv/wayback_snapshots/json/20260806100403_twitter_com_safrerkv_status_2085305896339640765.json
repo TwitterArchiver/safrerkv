@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085305887267360769"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2084932534828429692",
+    "created_at": "2026-08-06T10:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085305896339640765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysrplaD7HK",
+          "end": 33,
+          "expanded_url": "https://x.com/safrerkv/status/2085305896339640765/photo/1",
+          "media_key": "3_2085305887267360769",
+          "start": 10,
+          "url": "https://t.co/ysrplaD7HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085305896339640765",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084932534828429692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup https://t.co/ysrplaD7HK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2085305887267360769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB-p_KaEAEQUBg.png",
+        "width": 600
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2084932523361226752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8rFWOa0AAwVpb.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085305887267360769"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2084932534828429692",
+        "created_at": "2026-08-06T10:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085305896339640765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysrplaD7HK",
+              "end": 33,
+              "expanded_url": "https://x.com/safrerkv/status/2085305896339640765/photo/1",
+              "media_key": "3_2085305887267360769",
+              "start": 10,
+              "url": "https://t.co/ysrplaD7HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085305896339640765",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084932534828429692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup https://t.co/ysrplaD7HK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084932523361226752"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2084932534828429692",
+        "created_at": "2026-08-05T09:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084932534828429692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldHcJLqXVG",
+              "end": 29,
+              "expanded_url": "https://x.com/jianlvup/status/2084932534828429692/photo/1",
+              "media_key": "3_2084932523361226752",
+              "start": 6,
+              "url": "https://t.co/ldHcJLqXVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084932534828429692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 1000215,
+          "like_count": 4309,
+          "quote_count": 7,
+          "reply_count": 967,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "是好女孩吗 https://t.co/ldHcJLqXVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 238,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2084932534828429692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19908,
+          "following_count": 1609,
+          "like_count": 89225,
+          "listed_count": 67,
+          "media_count": 3998,
+          "tweet_count": 7719
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

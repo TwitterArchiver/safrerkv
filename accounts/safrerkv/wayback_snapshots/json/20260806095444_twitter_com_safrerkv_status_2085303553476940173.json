@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085303553476940173",
+    "created_at": "2026-08-06T09:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085303553476940173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085303553476940173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084630360579834314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 不管你多小众多牛逼你用完湿巾能忍住不去把身边能擦的全部擦一遍？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085303553476940173",
+        "created_at": "2026-08-06T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085303553476940173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085303553476940173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084630360579834314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 不管你多小众多牛逼你用完湿巾能忍住不去把身边能擦的全部擦一遍？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2084630360579834314",
+        "created_at": "2026-08-04T13:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084630360579834314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084630360579834314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 436656,
+          "like_count": 6243,
+          "quote_count": 9,
+          "reply_count": 671,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "不管你多小众多牛逼你用完湿巾能忍住不去把身边能擦的全部擦一遍？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 238,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 497,
+          "like_count": 38885,
+          "listed_count": 3,
+          "media_count": 1005,
+          "tweet_count": 5054
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

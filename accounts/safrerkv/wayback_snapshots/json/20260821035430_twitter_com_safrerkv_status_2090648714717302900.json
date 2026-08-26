@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2090648714717302900",
+    "created_at": "2026-08-21T03:54:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090648714717302900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 122,
+          "tag": "arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "794253237880815617",
+          "start": 3,
+          "username": "arcaea_jp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Arcaea's 4th Main Story Act II Pack, \"Divine Oblivion\", arrives on ...",
+          "display_url": "youtu.be/lpFOdkLgHi4",
+          "end": 120,
+          "expanded_url": "https://youtu.be/lpFOdkLgHi4",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "300152247407 6133544752240551 ＜＜ | ＞＞ CATASTROPHE INVOKED",
+          "unwound_url": "https://www.youtube.com/watch?v=lpFOdkLgHi4&feature=youtu.be",
+          "url": "https://t.co/dC5MWhnPXp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090648714717302900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2029
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090453810359447948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arcaea_jp: ”──知り給え、再び死は訪れると。”\n\nArcaea Main Story《Act II》。\n8月27日、Ver. 7.0──『Divine Oblivion』\n\nhttps://t.co/dC5MWhnPXp\n\n#arcaea https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 146666,
+        "height": 1080,
+        "media_key": "13_2090436821360480256",
+        "preview_image_url": "https://pbs.twimg.com/media/HQK5cg_WwAA2thN.jpg",
+        "public_metrics": {
+          "view_count": 69624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090436821360480256/vid/avc1/1280x720/mg3sQ2Ndet_NXfc1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090436821360480256/vid/avc1/1920x1080/i049AcNE8KqheCPe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090436821360480256/vid/avc1/640x360/pcscCsP1H3CINGqE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090436821360480256/pl/ZdILIsRn8gBWuInr.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090436821360480256/vid/avc1/480x270/C9koy5Jn3u5dRoxU.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2090648714717302900",
+        "created_at": "2026-08-21T03:54:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090648714717302900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 122,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "794253237880815617",
+              "start": 3,
+              "username": "arcaea_jp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Arcaea's 4th Main Story Act II Pack, \"Divine Oblivion\", arrives on ...",
+              "display_url": "youtu.be/lpFOdkLgHi4",
+              "end": 120,
+              "expanded_url": "https://youtu.be/lpFOdkLgHi4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "300152247407 6133544752240551 ＜＜ | ＞＞ CATASTROPHE INVOKED",
+              "unwound_url": "https://www.youtube.com/watch?v=lpFOdkLgHi4&feature=youtu.be",
+              "url": "https://t.co/dC5MWhnPXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090648714717302900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2029
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090453810359447948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arcaea_jp: ”──知り給え、再び死は訪れると。”\n\nArcaea Main Story《Act II》。\n8月27日、Ver. 7.0──『Divine Oblivion』\n\nhttps://t.co/dC5MWhnPXp\n\n#arcaea https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090436821360480256"
+          ]
+        },
+        "author_id": "794253237880815617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2090453810359447948",
+        "created_at": "2026-08-20T15:00:01.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090453810359447948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 107,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Arcaea's 4th Main Story Act II Pack, \"Divine Oblivion\", arrives on ...",
+              "display_url": "youtu.be/lpFOdkLgHi4",
+              "end": 105,
+              "expanded_url": "https://youtu.be/lpFOdkLgHi4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090412258472214528/PViFd_T-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "300152247407 6133544752240551 ＜＜ | ＞＞ CATASTROPHE INVOKED",
+              "unwound_url": "https://www.youtube.com/watch?v=lpFOdkLgHi4&feature=youtu.be",
+              "url": "https://t.co/dC5MWhnPXp"
+            },
+            {
+              "display_url": "pic.x.com/7RRfd1NDBj",
+              "end": 138,
+              "expanded_url": "https://x.com/arcaea_jp/status/2090453810359447948/video/1",
+              "media_key": "13_2090436821360480256",
+              "start": 115,
+              "url": "https://t.co/7RRfd1NDBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090453810359447948",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2090436821360480256",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 350640,
+          "like_count": 4049,
+          "quote_count": 361,
+          "reply_count": 28,
+          "retweet_count": 2029
+        },
+        "reply_settings": "everyone",
+        "text": "”──知り給え、再び死は訪れると。”\n\nArcaea Main Story《Act II》。\n8月27日、Ver. 7.0──『Divine Oblivion』\n\nhttps://t.co/dC5MWhnPXp\n\n#arcaea https://t.co/7RRfd1NDBj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090648714717302900",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 692,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-03T19:01:43.000Z",
+        "description": "リズムゲーム「Arcaea」の日本語公式アカウントです。\nハッシュタグは #arcaea #arcaea_art にて。\n\nスタッフ: @lowiro_staff\nアプリ: https://t.co/U7N2ktpWAZ\n問い合わせ先: contact@lowiro.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "arcaea"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "arcaea_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "lowiro_staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arcaea.app",
+                "end": 110,
+                "expanded_url": "http://arcaea.app",
+                "start": 87,
+                "url": "https://t.co/U7N2ktpWAZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com",
+                "end": 23,
+                "expanded_url": "http://arcaea.lowiro.com",
+                "start": 0,
+                "url": "https://t.co/gWkVUOBOCO"
+              }
+            ]
+          }
+        },
+        "id": "794253237880815617",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090620506613358616",
+        "name": "Arcaea公式",
+        "pinned_tweet_id": "2090453810359447948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/794253237880815617/1655987471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103981080565239808/FxtXDquZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177169,
+          "following_count": 27,
+          "like_count": 55,
+          "listed_count": 953,
+          "media_count": 1085,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/gWkVUOBOCO",
+        "username": "arcaea_jp",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083812393180860618",
+    "created_at": "2026-08-02T07:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083812393180860618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747291885100744704",
+          "start": 3,
+          "username": "gracexiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083812393180860618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083506810242417073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gracexiya: 每次看见“滚烫的精液”我都很无语\n吞过唾液吗？拧过鼻涕吗？尿过吗？\n别反驳我精液温温的 逻辑思维\n射出来的温度高还是活着的人高\n阴道里也是温热的 你烫个der啊\n\n一天天滚烫的精液 \n我还灼热的月经 炙热的口水 热辣的鼻涕咧\n求你们能不能别再闹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083812393180860618",
+        "created_at": "2026-08-02T07:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083812393180860618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747291885100744704",
+              "start": 3,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083812393180860618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083506810242417073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gracexiya: 每次看见“滚烫的精液”我都很无语\n吞过唾液吗？拧过鼻涕吗？尿过吗？\n别反驳我精液温温的 逻辑思维\n射出来的温度高还是活着的人高\n阴道里也是温热的 你烫个der啊\n\n一天天滚烫的精液 \n我还灼热的月经 炙热的口水 热辣的鼻涕咧\n求你们能不能别再闹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747291885100744704",
+        "conversation_id": "2083506810242417073",
+        "created_at": "2026-08-01T10:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083506810242417073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083506810242417073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 227101,
+          "like_count": 2220,
+          "quote_count": 8,
+          "reply_count": 90,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "每次看见“滚烫的精液”我都很无语\n吞过唾液吗？拧过鼻涕吗？尿过吗？\n别反驳我精液温温的 逻辑思维\n射出来的温度高还是活着的人高\n阴道里也是温热的 你烫个der啊\n\n一天天滚烫的精液 \n我还灼热的月经 炙热的口水 热辣的鼻涕咧\n求你们能不能别再闹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 235,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T16:17:30.000Z",
+        "description": "失眠好烦\n三观不正\n什么都发\n不聊骚 \n有对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/grace51066",
+                "end": 23,
+                "expanded_url": "https://ngl.link/grace51066",
+                "start": 0,
+                "url": "https://t.co/TuMWnxWHw6"
+              }
+            ]
+          }
+        },
+        "id": "1747291885100744704",
+        "name": "桉",
+        "pinned_tweet_id": "1920696799951511581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037130171866865664/MfTgtFAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20442,
+          "following_count": 0,
+          "like_count": 28568,
+          "listed_count": 24,
+          "media_count": 994,
+          "tweet_count": 6933
+        },
+        "url": "https://t.co/TuMWnxWHw6",
+        "username": "gracexiya",
+        "verified": true
+      }
+    ]
+  }
+}

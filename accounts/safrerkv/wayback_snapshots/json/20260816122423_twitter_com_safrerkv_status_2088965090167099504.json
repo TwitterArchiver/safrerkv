@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088965080100872192"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088965090167099504",
+    "created_at": "2026-08-16T12:24:23.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088965090167099504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pnMLdVNye2",
+          "end": 23,
+          "expanded_url": "https://x.com/safrerkv/status/2088965090167099504/photo/1",
+          "media_key": "3_2088965080100872192",
+          "start": 0,
+          "url": "https://t.co/pnMLdVNye2"
+        },
+        {
+          "display_url": "x.com/Gag_Order_/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Gag_Order_/status/2088935331466711265",
+          "start": 24,
+          "url": "https://t.co/QKEV5TBVqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088965090167099504",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088965080100872192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088935331466711265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/pnMLdVNye2 https://t.co/QKEV5TBVqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2088965080100872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1-rCuboAA72l9.png",
+        "width": 882
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2088935308737818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1jmHwWsAAEFzb.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088965080100872192"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088965090167099504",
+        "created_at": "2026-08-16T12:24:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088965090167099504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnMLdVNye2",
+              "end": 23,
+              "expanded_url": "https://x.com/safrerkv/status/2088965090167099504/photo/1",
+              "media_key": "3_2088965080100872192",
+              "start": 0,
+              "url": "https://t.co/pnMLdVNye2"
+            },
+            {
+              "display_url": "x.com/Gag_Order_/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Gag_Order_/status/2088935331466711265",
+              "start": 24,
+              "url": "https://t.co/QKEV5TBVqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088965090167099504",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088965080100872192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088935331466711265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pnMLdVNye2 https://t.co/QKEV5TBVqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088935308737818624"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2088935331466711265",
+        "created_at": "2026-08-16T10:26:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088935331466711265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fo3Ti2rpqU",
+              "end": 23,
+              "expanded_url": "https://x.com/Gag_Order_/status/2088935331466711265/photo/1",
+              "media_key": "3_2088935308737818624",
+              "start": 0,
+              "url": "https://t.co/Fo3Ti2rpqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935331466711265",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088935308737818624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fo3Ti2rpqU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088965090167099504",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 505,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088957201473806422",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 272,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

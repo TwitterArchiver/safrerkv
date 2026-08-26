@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088464830508487145",
+    "created_at": "2026-08-15T03:16:32.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088464830508487145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4888777ovo0275…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/4888777ovo02756/status/2088267384582963597",
+          "start": 35,
+          "url": "https://t.co/QC8dDSzmYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088464830508487145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088267384582963597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看见个外国ip评论区底下一堆isa搞得像你翻个墙人家会凑上来舔你一样 https://t.co/QC8dDSzmYo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088464830508487145",
+        "created_at": "2026-08-15T03:16:32.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088464830508487145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4888777ovo0275…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/4888777ovo02756/status/2088267384582963597",
+              "start": 35,
+              "url": "https://t.co/QC8dDSzmYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088464830508487145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088267384582963597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看见个外国ip评论区底下一堆isa搞得像你翻个墙人家会凑上来舔你一样 https://t.co/QC8dDSzmYo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2088267384582963597",
+        "created_at": "2026-08-14T14:11:57.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088267384582963597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088267384582963597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14157,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见个外国ip评论区底下一堆isa搞得像你翻个墙人家会凑上来舔你一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088464830508487145",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 352,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "is_identity_verified": false,
+        "location": "提问箱",
+        "most_recent_tweet_id": "2088421502702264488",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829229897195368455/1781789855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3788,
+          "following_count": 66,
+          "like_count": 2677,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 5833
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

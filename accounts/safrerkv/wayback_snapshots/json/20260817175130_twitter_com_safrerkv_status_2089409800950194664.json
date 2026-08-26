@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089230747584381326",
+    "created_at": "2026-08-17T17:51:30.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089409800950194664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069724173484859392",
+          "start": 0,
+          "username": "lumingze213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089409800950194664",
+    "in_reply_to_user_id": "2069724173484859392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089409381628862898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumingze213 我只是个外卖员喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089230747584381326",
+        "created_at": "2026-08-17T17:51:30.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089409800950194664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069724173484859392",
+              "start": 0,
+              "username": "lumingze213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089409800950194664",
+        "in_reply_to_user_id": "2069724173484859392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089409381628862898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumingze213 我只是个外卖员喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069724173484859392",
+        "conversation_id": "2089230747584381326",
+        "created_at": "2026-08-17T17:49:50.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089409381628862898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089409381628862898",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089230747584381326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 可是。。。我只是个保安而已啊😿为什么讨厌我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 可以来找我聊天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标1000fo~ 关注相融谢谢喵 炮友@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089409800950194664",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 608,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T10:08:52.000Z",
+        "description": "07 12月份 无脑攻击任何辱华（但是我不是粉红，只是看不惯有些人吃着中国饭却要侮辱中国），男女对立，挑起民族对立相关话题😹😹反驳我的人🐴都死了，台湾永远是中国的一部分",
+        "id": "2069724173484859392",
+        "is_identity_verified": false,
+        "location": "卡塞尔学院",
+        "most_recent_tweet_id": "2089409501820833943",
+        "name": "路鸣泽（互fo）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069724173484859392/1786621995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086910889387790336/3srJeLQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 142,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "lumingze213",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

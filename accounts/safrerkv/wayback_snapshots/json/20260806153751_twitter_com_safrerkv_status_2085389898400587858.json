@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085233617119441389",
+    "created_at": "2026-08-06T15:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085389898400587858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085389898400587858",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085233617119441389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 可以盗图 想去哪就去哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2085233611851309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPA87AQaIAAxMGn.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085233617119441389",
+        "created_at": "2026-08-06T15:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085389898400587858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085389898400587858",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085233617119441389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 可以盗图 想去哪就去哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085233611851309056"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2085233617119441389",
+        "created_at": "2026-08-06T05:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085233617119441389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMEz5ekObt",
+              "end": 45,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2085233617119441389/photo/1",
+              "media_key": "3_2085233611851309056",
+              "start": 22,
+              "url": "https://t.co/RMEz5ekObt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085233617119441389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 43786,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 162,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有的女生收入不高，但经常到处旅游啊？ https://t.co/RMEz5ekObt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 247,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97620,
+          "following_count": 2521,
+          "like_count": 7732,
+          "listed_count": 204,
+          "media_count": 721,
+          "tweet_count": 4345
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089978462392230103",
+    "created_at": "2026-08-20T01:32:46.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T02:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090250657068707865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516582189772644352",
+          "start": 0,
+          "username": "Master_HanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090250657068707865",
+    "in_reply_to_user_id": "1516582189772644352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090249989452873923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Master_HanChan 我现在减少下发帖频率和互关应该不会那么容易被封"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089978462392230103",
+        "created_at": "2026-08-20T01:32:46.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090250657068707865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516582189772644352",
+              "start": 0,
+              "username": "Master_HanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090250657068707865",
+        "in_reply_to_user_id": "1516582189772644352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090249989452873923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Master_HanChan 我现在减少下发帖频率和互关应该不会那么容易被封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516582189772644352",
+        "conversation_id": "2089978462392230103",
+        "created_at": "2026-08-20T01:30:07.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090249989452873923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090249989452873923",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090248938234540192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv emm我朋友昨晚和我打电话 说他运营过猛也封了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090250657068707865",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 652,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-20T00:59:14.000Z",
+        "description": "安全运营/渗透测试/恶意程序开发，前厂商仔，主攻免杀与漏洞挖掘。\n副业搞交易，定投纳指标普，偶尔撸毛，PriceAction。\n业余焊板子、玩安卓，欢迎同好交流(欢迎私聊评论互Fo)。",
+        "id": "1516582189772644352",
+        "is_identity_verified": false,
+        "location": "id;whoami;pwd",
+        "most_recent_tweet_id": "2090250169120084317",
+        "name": "Master_寒蝉",
+        "pinned_tweet_id": "2088649950364356748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516582189772644352/1651022671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619947570385784833/LH3Y7mSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 1089,
+          "like_count": 20658,
+          "listed_count": 20,
+          "media_count": 319,
+          "tweet_count": 4330
+        },
+        "url": "",
+        "username": "Master_HanChan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

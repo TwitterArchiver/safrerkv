@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081250857266610519",
+    "created_at": "2026-07-26T10:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081323342586589329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081323342586589329",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081250857266610519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 真奈美hyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2021,
+        "media_key": "3_2081250850866110464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIWnzZaoAAWUvu.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081250857266610519",
+        "created_at": "2026-07-26T10:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081323342586589329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081323342586589329",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081250857266610519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 真奈美hyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081250850866110464"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2081250857266610519",
+        "created_at": "2026-07-26T05:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081250857266610519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3ZfSQeMQu",
+              "end": 31,
+              "expanded_url": "https://x.com/ffynya/status/2081250857266610519/photo/1",
+              "media_key": "3_2081250850866110464",
+              "start": 8,
+              "url": "https://t.co/Y3ZfSQeMQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081250857266610519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7759,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人口多没办法🫠 https://t.co/Y3ZfSQeMQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 146,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜友跨🏳️‍⚧️｜人道主义者｜互关｜不od｜不改花刀｜心理正常｜170cm 50kg｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "地球",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互fo",
+        "pinned_tweet_id": "2080251790172504204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 392,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

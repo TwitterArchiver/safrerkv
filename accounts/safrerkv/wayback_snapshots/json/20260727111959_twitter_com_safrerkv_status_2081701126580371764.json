@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081701126580371764",
+    "created_at": "2026-07-27T11:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081701126580371764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081701126580371764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081548933017563549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 人类能不能不要用精子跟卵子玩合成大煞笔的游戏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081701126580371764",
+        "created_at": "2026-07-27T11:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081701126580371764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081701126580371764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081548933017563549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 人类能不能不要用精子跟卵子玩合成大煞笔的游戏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081548933017563549",
+        "created_at": "2026-07-27T01:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081548933017563549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2081527097173082407",
+              "start": 24,
+              "url": "https://t.co/WXXJbP4ogQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081548933017563549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081527097173082407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类能不能不要用精子跟卵子玩合成大煞笔的游戏了 https://t.co/WXXJbP4ogQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 196,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 313,
+          "like_count": 5134,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3733
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

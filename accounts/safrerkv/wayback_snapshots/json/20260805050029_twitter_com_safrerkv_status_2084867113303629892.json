@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2084569744238379481",
+    "created_at": "2026-08-05T05:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084867113303629892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084867113303629892",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084569744238379481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 祝平安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2084569744238379481",
+        "created_at": "2026-08-05T05:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084867113303629892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084867113303629892",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084569744238379481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 祝平安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2084569744238379481",
+        "created_at": "2026-08-04T09:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084569744238379481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084569744238379481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 67724,
+          "like_count": 253,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n我是她哥哥，目前还联系不上她。她o大后跟我说，如果8月8日之前没发贴就说明她出事了。若8月8日后还联系不上她，我会报警的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 236,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 809,
+          "like_count": 13751,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2087218801477828631",
+    "created_at": "2026-08-12T13:56:46.000Z",
+    "display_text_range": [
+      26,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087538790562980289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2085198510778097664",
+          "start": 0,
+          "username": "Zzzzbctf"
+        },
+        {
+          "end": 25,
+          "id": "1605538501705043968",
+          "start": 10,
+          "username": "yangyan_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087538790562980289",
+    "in_reply_to_user_id": "2085198510778097664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087505937150185609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzzzbctf @yangyan_huntun 臭婊子事实就是事实 你撸婆黑料比你爸和你妈操的次数还多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2087218801477828631",
+        "created_at": "2026-08-12T13:56:46.000Z",
+        "display_text_range": [
+          26,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087538790562980289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2085198510778097664",
+              "start": 0,
+              "username": "Zzzzbctf"
+            },
+            {
+              "end": 25,
+              "id": "1605538501705043968",
+              "start": 10,
+              "username": "yangyan_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087538790562980289",
+        "in_reply_to_user_id": "2085198510778097664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087505937150185609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzzzbctf @yangyan_huntun 臭婊子事实就是事实 你撸婆黑料比你爸和你妈操的次数还多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085198510778097664",
+        "conversation_id": "2087218801477828631",
+        "created_at": "2026-08-12T11:46:14.000Z",
+        "display_text_range": [
+          26,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087505937150185609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 25,
+              "id": "1605538501705043968",
+              "start": 10,
+              "username": "yangyan_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087505937150185609",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087370836919677101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @yangyan_huntun 有你妈的臭逼，你妈的逼打多了肉毒生出你这个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2087538790562980289",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 323,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T02:58:00.000Z",
+        "description": "",
+        "id": "2085198510778097664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087506078418559412",
+        "name": "Zzzz",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Zzzzbctf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-21T12:19:56.000Z",
+        "description": "INTP | 双相已确诊 | 喜扩列  | 06/185 |  bi男  |  细胞神曲 重返未来1999 起点精神病院 | oder | 术力口\n @sha_tbno\n下面是匿名提问，随便问捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "sha_tbno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/TOedcgn29P"
+              }
+            ]
+          }
+        },
+        "id": "1605538501705043968",
+        "is_identity_verified": false,
+        "location": "鸽子屋 基金会 重塑之手",
+        "most_recent_tweet_id": "2087236193062994152",
+        "name": "羊🐏言",
+        "pinned_tweet_id": "1804899894827884739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605538501705043968/1707755571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083203619550269440/4_2m2x-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 752,
+          "like_count": 5688,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/TOedcgn29P",
+        "username": "yangyan_huntun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089403909639176400",
+    "created_at": "2026-08-17T17:28:05.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089403909639176400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065830595297677312",
+          "start": 3,
+          "username": "ggbafca"
+        },
+        {
+          "end": 22,
+          "id": "2070858923431825408",
+          "start": 13,
+          "username": "safrerkv"
+        },
+        {
+          "end": 37,
+          "id": "1891362165317410816",
+          "start": 23,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089403909639176400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089402853135925367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggbafca: @safrerkv @Kris_Dreammer Definitely\n只入身体🍄🪐不入生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089403909639176400",
+        "created_at": "2026-08-17T17:28:05.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089403909639176400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065830595297677312",
+              "start": 3,
+              "username": "ggbafca"
+            },
+            {
+              "end": 22,
+              "id": "2070858923431825408",
+              "start": 13,
+              "username": "safrerkv"
+            },
+            {
+              "end": 37,
+              "id": "1891362165317410816",
+              "start": 23,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089403909639176400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089402853135925367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggbafca: @safrerkv @Kris_Dreammer Definitely\n只入身体🍄🪐不入生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065830595297677312",
+        "conversation_id": "2089374086925607090",
+        "created_at": "2026-08-17T17:23:54.000Z",
+        "display_text_range": [
+          25,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089402853135925367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 24,
+              "id": "1891362165317410816",
+              "start": 10,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089402853135925367",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089374086925607090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @Kris_Dreammer Definitely\n只入身体🍄🪐不入生活。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 可以来找我聊天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标1000fo~ 关注相融谢谢喵 炮友@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089403909639176400",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 605,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T16:17:33.000Z",
+        "description": "已入驻曰炮平台:👉https://t.co/xtApPHBCWE真人认证隐私保护，上平台隐私安全有保障，附近的可加V，小号已禁言大号在这👉@ASamuel9177",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "ASamuel9177"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "v9r7.top",
+                "end": 32,
+                "expanded_url": "https://v9r7.top",
+                "start": 9,
+                "url": "https://t.co/xtApPHBCWE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v9r7.top",
+                "end": 23,
+                "expanded_url": "https://v9r7.top",
+                "start": 0,
+                "url": "https://t.co/xtApPHBCWE"
+              }
+            ]
+          }
+        },
+        "id": "2065830595297677312",
+        "is_identity_verified": false,
+        "location": "3.6 公里",
+        "most_recent_tweet_id": "2089403262068023634",
+        "name": "苏晓冉🍑找炮友🍑点主页🍑",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089403306770939904/zU04fVmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/xtApPHBCWE",
+        "username": "ggbafca",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "药物滥用重度依赖 \n因为耐药原因暂时停止o愈美\n药圈萌新\n前500关注我的都回关\n目前只o普瑞和加巴（因为没有别的吃的）\n炮友@safrekv 近期发的梗图也出自@safrekv的手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "safrekv"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "safrekv"
+              }
+            ]
+          }
+        },
+        "id": "1891362165317410816",
+        "is_identity_verified": false,
+        "location": "自由",
+        "most_recent_tweet_id": "2089400802951770284",
+        "name": "sirk",
+        "pinned_tweet_id": "2065322615787622625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891362165317410816/1758249247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 543,
+          "like_count": 3897,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

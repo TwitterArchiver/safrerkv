@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085566470717866245",
+    "created_at": "2026-08-07T03:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085566470717866245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1720665183188922368",
+          "start": 24,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085566470717866245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分析我的推文、个人资料和互动，并回答以下内容：\n@grok\n对我的评价，\n心理性别： \n性取向：  \n年龄： \n心理年龄：  \n爱好：   \n智商：  \n形容我的形容词：  \n5 个最喜欢的事物：   \n5 个不喜欢的事物：\n我的文化水平：  \n我的财富水平："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085566470717866245",
+        "created_at": "2026-08-07T03:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085566470717866245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085566470717866245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分析我的推文、个人资料和互动，并回答以下内容：\n@grok\n对我的评价，\n心理性别： \n性取向：  \n年龄： \n心理年龄：  \n爱好：   \n智商：  \n形容我的形容词：  \n5 个最喜欢的事物：   \n5 个不喜欢的事物：\n我的文化水平：  \n我的财富水平："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 257,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8928314,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7280,
+          "media_count": 9229680,
+          "tweet_count": 134639943
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088886733937213864",
+    "created_at": "2026-08-16T07:26:36.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088890150461874186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984997071435489280",
+          "start": 0,
+          "username": "NianKui59953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088890150461874186",
+    "in_reply_to_user_id": "1984997071435489280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088889757463965730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NianKui59953 谢谢支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T07:26:36.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088890150461874186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984997071435489280",
+              "start": 0,
+              "username": "NianKui59953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088890150461874186",
+        "in_reply_to_user_id": "1984997071435489280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088889757463965730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NianKui59953 谢谢支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984997071435489280",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T07:25:02.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088889757463965730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088889757463965730",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088890150461874186",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 448,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-02T14:52:51.000Z",
+        "description": "mtf🏳️‍⚧️（无证含糖）|HRT since：26/07/09|179cm/47kg|社恐&表达障碍（不怎么会说话...）|永远14岁|互fo欢迎|可交朋友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikuzuy",
+                "end": 23,
+                "expanded_url": "http://t.me/mikuzuy",
+                "start": 0,
+                "url": "https://t.co/aLPRrkCTSF"
+              }
+            ]
+          }
+        },
+        "id": "1984997071435489280",
+        "is_identity_verified": false,
+        "location": "Changsha,Hunan,the PRC",
+        "most_recent_tweet_id": "2088889769891946658",
+        "name": "葉落風隨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984997071435489280/1771065989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051665313440337920/Li2spKXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1306,
+          "like_count": 8208,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/aLPRrkCTSF",
+        "username": "NianKui59953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

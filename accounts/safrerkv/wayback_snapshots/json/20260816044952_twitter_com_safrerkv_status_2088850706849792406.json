@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088834434682274284",
+    "created_at": "2026-08-16T04:49:52.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088850706849792406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882705285816672256",
+          "start": 0,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088850706849792406",
+    "in_reply_to_user_id": "1882705285816672256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088834434682274284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom779853915031 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2088834424863379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0H16CW0AAqjbw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088834434682274284",
+        "created_at": "2026-08-16T04:49:52.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088850706849792406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882705285816672256",
+              "start": 0,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088850706849792406",
+        "in_reply_to_user_id": "1882705285816672256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088834434682274284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom779853915031 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088834424863379456"
+          ]
+        },
+        "author_id": "1882705285816672256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088834434682274284",
+        "created_at": "2026-08-16T03:45:12.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088834434682274284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYYzMnX3nR",
+              "end": 73,
+              "expanded_url": "https://x.com/tom779853915031/status/2088834434682274284/photo/1",
+              "media_key": "3_2088834424863379456",
+              "start": 50,
+              "url": "https://t.co/MYYzMnX3nR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088834434682274284",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088834424863379456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😱咱200fo啦🎉🎉🎉🎉 谢谢大家支持呀😭咱真的不知道说什么好 恭喜显得太俗气  祝福也不太会说… https://t.co/MYYzMnX3nR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088850706849792406",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 428,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁 | 中度焦虑 | 非资深oder | 友跨 | 非跨 | 可私 | 男 | 心理性别女 | 重度社交恐惧| 日常 | 虚无主义 | 互fo | 偶尔穿穿女装\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088847450232533472",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 405,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089396845478883604",
+    "created_at": "2026-08-17T17:04:52.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089398063920275548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986430182622961666",
+          "start": 0,
+          "username": "LiShun89264bjgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089398063920275548",
+    "in_reply_to_user_id": "1986430182622961666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089397928603570607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiShun89264bjgj 雷霆大图bot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089396845478883604",
+        "created_at": "2026-08-17T17:04:52.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089398063920275548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986430182622961666",
+              "start": 0,
+              "username": "LiShun89264bjgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089398063920275548",
+        "in_reply_to_user_id": "1986430182622961666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089397928603570607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiShun89264bjgj 雷霆大图bot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986430182622961666",
+        "conversation_id": "2089396845478883604",
+        "created_at": "2026-08-17T17:04:19.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089397928603570607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089397928603570607",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089396845478883604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 你每天就发这些雷霆大图吧，净逗我笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 可以来找我聊天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标1000fo~ 关注相融谢谢喵 炮友@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089398063920275548",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 605,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T13:47:30.000Z",
+        "description": "https://t.co/McvnYgiNed\n02，170-100，直男直男直男（重要的事说三遍）\n中度抑郁伴随焦虑，喜欢割手手（成功戒掉了好吧，ps：我很牛逼）\n喜欢听歌，喜欢打游戏\n努力经营自己的糖比生活，骂我默认暗恋我\n只想交朋友谢谢（男女不限）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lishun89624bjgj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lishun89624bjgj",
+                "start": 0,
+                "url": "https://t.co/McvnYgiNed"
+              }
+            ]
+          }
+        },
+        "id": "1986430182622961666",
+        "is_identity_verified": false,
+        "location": "四川，目前暂住广东",
+        "most_recent_tweet_id": "2089397928603570607",
+        "name": "书中人怀中猫",
+        "pinned_tweet_id": "2088672708238377239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986430182622961666/1785850077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986431628340830210/pw7nx0oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 49,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "LiShun89264bjgj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

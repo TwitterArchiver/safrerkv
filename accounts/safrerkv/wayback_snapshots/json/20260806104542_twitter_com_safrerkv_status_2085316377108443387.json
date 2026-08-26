@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085008221966659828",
+    "created_at": "2026-08-06T10:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085316377108443387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601599920276140033",
+          "start": 0,
+          "username": "ayanamirei_may"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085316377108443387",
+    "in_reply_to_user_id": "1601599920276140033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085008221966659828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamirei_may 孩子 你是不是想开普瑞巴林呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085008211346628608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9v698WoAAnLTB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085008221966659828",
+        "created_at": "2026-08-06T10:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085316377108443387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601599920276140033",
+              "start": 0,
+              "username": "ayanamirei_may"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085316377108443387",
+        "in_reply_to_user_id": "1601599920276140033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085008221966659828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamirei_may 孩子 你是不是想开普瑞巴林呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085008211346628608"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "2085008221966659828",
+        "created_at": "2026-08-05T14:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085008221966659828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WS3FuDd43I",
+              "end": 30,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2085008221966659828/photo/1",
+              "media_key": "3_2085008211346628608",
+              "start": 7,
+              "url": "https://t.co/WS3FuDd43I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085008221966659828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12794,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我神经痛 https://t.co/WS3FuDd43I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 241,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "🚪288获得与神交流的机会",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "pinned_tweet_id": "1874382445925245100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24068,
+          "following_count": 145,
+          "like_count": 1114,
+          "listed_count": 53,
+          "media_count": 79,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

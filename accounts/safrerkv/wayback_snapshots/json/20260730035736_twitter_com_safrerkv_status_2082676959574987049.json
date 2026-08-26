@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2082343008066998597",
+    "created_at": "2026-07-30T03:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082676959574987049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082676959574987049",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082343008066998597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 戳到我朋友了 建议删一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2082343008066998597",
+        "created_at": "2026-07-30T03:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082676959574987049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082676959574987049",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082343008066998597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 戳到我朋友了 建议删一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2082343008066998597",
+        "created_at": "2026-07-29T05:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082343008066998597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082343008066998597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6794,
+          "like_count": 195,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "特别害怕那种用个gal头像，给自己起一长串亚比网名，说话毒电波旁若无人的女的，这种人一天十几个小时泡网上估计现实生活烂完了 以为自己很有个性😹😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 216,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 679,
+          "like_count": 28826,
+          "listed_count": 7,
+          "media_count": 2514,
+          "tweet_count": 27744
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

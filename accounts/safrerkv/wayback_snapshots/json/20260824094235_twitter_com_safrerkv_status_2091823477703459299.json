@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2091465469668581491",
+    "created_at": "2026-08-24T09:42:35.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091823477703459299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088845554830970882",
+          "start": 0,
+          "username": "JohmSmithnjbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091823477703459299",
+    "in_reply_to_user_id": "2088845554830970882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091756041180713036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohmSmithnjbu 负六命之人 我一点也不羡慕你有这么多saber"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2091755881402974208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdo5DvbwAAJO2J.jpg",
+        "width": 1080
+      },
+      {
+        "height": 945,
+        "media_key": "3_2091755881402863616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdo5DvaEAA20cW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2091465469668581491",
+        "created_at": "2026-08-24T09:42:35.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091823477703459299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088845554830970882",
+              "start": 0,
+              "username": "JohmSmithnjbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091823477703459299",
+        "in_reply_to_user_id": "2088845554830970882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091756041180713036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohmSmithnjbu 负六命之人 我一点也不羡慕你有这么多saber"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091755881402974208",
+            "3_2091755881402863616"
+          ]
+        },
+        "author_id": "2088845554830970882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091465469668581491",
+        "created_at": "2026-08-24T05:14:37.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091756041180713036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e5RcsqHcU",
+              "end": 36,
+              "expanded_url": "https://x.com/JohmSmithnjbu/status/2091756041180713036/photo/1",
+              "media_key": "3_2091755881402974208",
+              "start": 13,
+              "url": "https://t.co/7e5RcsqHcU"
+            },
+            {
+              "display_url": "pic.x.com/7e5RcsqHcU",
+              "end": 36,
+              "expanded_url": "https://x.com/JohmSmithnjbu/status/2091756041180713036/photo/1",
+              "media_key": "3_2091755881402863616",
+              "start": 13,
+              "url": "https://t.co/7e5RcsqHcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091756041180713036",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091755881402974208"
+          },
+          {
+            "media_key": "3_2091755881402863616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091465469668581491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 🤓👆 https://t.co/7e5RcsqHcU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2091823477703459299",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 736,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T04:30:19.000Z",
+        "description": "日语🇯🇵学习者   自学\n(日语怎么这么难啊！！！)",
+        "id": "2088845554830970882",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091758033605157198",
+        "name": "iii",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089127233969590272/vT9oBfRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "JohmSmithnjbu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

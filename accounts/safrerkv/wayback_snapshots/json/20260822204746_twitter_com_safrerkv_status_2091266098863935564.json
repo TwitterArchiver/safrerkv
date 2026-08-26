@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2091266098863935564",
+    "created_at": "2026-08-22T20:47:46.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T21:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091266098863935564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kris_Dreammer/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Kris_Dreammer/status/2091194924599255251",
+          "start": 13,
+          "url": "https://t.co/nLt2UWx2Iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091266098863935564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091194924599255251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈我要当你的杯子😍😍😍 https://t.co/nLt2UWx2Iv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2091266098863935564",
+        "created_at": "2026-08-22T20:47:46.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091266098863935564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kris_Dreammer/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Kris_Dreammer/status/2091194924599255251",
+              "start": 13,
+              "url": "https://t.co/nLt2UWx2Iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091266098863935564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091194924599255251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈我要当你的杯子😍😍😍 https://t.co/nLt2UWx2Iv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891362165317410816",
+        "conversation_id": "2091194924599255251",
+        "created_at": "2026-08-22T16:04:57.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091194924599255251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/safrerkv/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/safrerkv/status/2091174142968262915",
+              "start": 103,
+              "url": "https://t.co/wWBXYxZZLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091194924599255251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091174142968262915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们就接着骂相融吧 等到你们把他骂到抑郁自闭了 我就想一到阳光走进她黑暗的世界里面 然后就把她开解了 然后呢她的全世界就是我的了呀 \n（冷知识，超绝一串日语cn叫相融，她真是女的，我们是线下的好闺蜜😍😍） https://t.co/wWBXYxZZLv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2091266098863935564",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 729,
+          "like_count": 1971,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "昔日的誓言像潮水一样褪去\n取而代之的是讽刺的真相",
+        "id": "1891362165317410816",
+        "is_identity_verified": false,
+        "location": "下水道",
+        "most_recent_tweet_id": "2091194924599255251",
+        "name": "sirk",
+        "pinned_tweet_id": "2065322615787622625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891362165317410816/1787167995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 545,
+          "like_count": 3914,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1737
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

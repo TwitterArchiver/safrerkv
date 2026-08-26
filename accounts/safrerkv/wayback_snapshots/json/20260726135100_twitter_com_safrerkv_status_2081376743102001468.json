@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2080950566105342155",
+    "created_at": "2026-07-26T13:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081376743102001468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066490052587438080",
+          "start": 0,
+          "username": "sasasakanakawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081376743102001468",
+    "in_reply_to_user_id": "2066490052587438080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080950566105342155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sasasakanakawai 这样对身体不好 给我我帮你处理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080950535172317184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEFfIQa4AAip9Y.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080950551295238144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEFgEUbIAAiDXD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2080950566105342155",
+        "created_at": "2026-07-26T13:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081376743102001468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081376743102001468",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080950566105342155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 这样对身体不好 给我我帮你处理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080950535172317184",
+            "3_2080950551295238144"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080950566105342155",
+        "created_at": "2026-07-25T09:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080950566105342155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ey90nb4QCz",
+              "end": 33,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2080950566105342155/photo/1",
+              "media_key": "3_2080950535172317184",
+              "start": 10,
+              "url": "https://t.co/Ey90nb4QCz"
+            },
+            {
+              "display_url": "pic.x.com/Ey90nb4QCz",
+              "end": 33,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2080950566105342155/photo/1",
+              "media_key": "3_2080950551295238144",
+              "start": 10,
+              "url": "https://t.co/Ey90nb4QCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080950566105342155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6477,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没打过这么富裕的仗 https://t.co/Ey90nb4QCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 156,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 50,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

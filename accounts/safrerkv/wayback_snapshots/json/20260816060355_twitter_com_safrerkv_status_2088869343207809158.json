@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088619512597999766",
+    "created_at": "2026-08-16T06:03:55.000Z",
+    "display_text_range": [
+      24,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088869343207809158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720098116601532416",
+          "start": 0,
+          "username": "nixyng246039"
+        },
+        {
+          "end": 23,
+          "id": "1978428582100938752",
+          "start": 14,
+          "username": "q1anzhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088869343207809158",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088735508012654596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nixyng246039 @q1anzhuo 谢谢支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T06:03:55.000Z",
+        "display_text_range": [
+          24,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088869343207809158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            },
+            {
+              "end": 23,
+              "id": "1978428582100938752",
+              "start": 14,
+              "username": "q1anzhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088869343207809158",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088735508012654596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 @q1anzhuo 谢谢支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-15T21:12:06.000Z",
+        "display_text_range": [
+          20,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088735508012654596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 19,
+              "id": "1978428582100938752",
+              "start": 10,
+              "username": "q1anzhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088735508012654596",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619512597999766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @q1anzhuo 恭喜呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088869343207809158",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 440,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2088743149111857276",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 702,
+          "like_count": 10446,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "叫我小浅就好，这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "密涅瓦的猫头鹰在黄昏时分起飞",
+        "most_recent_tweet_id": "2088820603193303334",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2085148765879767097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 289,
+          "like_count": 3533,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

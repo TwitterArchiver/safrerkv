@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081451021247918525",
+    "created_at": "2026-07-27T08:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081657719501774968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762178935012610048",
+          "start": 0,
+          "username": "rLMj8iYK5v3459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081657719501774968",
+    "in_reply_to_user_id": "1762178935012610048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081451021247918525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rLMj8iYK5v3459 看看雪兔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081451021247918525",
+        "created_at": "2026-07-27T08:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081657719501774968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762178935012610048",
+              "start": 0,
+              "username": "rLMj8iYK5v3459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081657719501774968",
+        "in_reply_to_user_id": "1762178935012610048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081451021247918525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rLMj8iYK5v3459 看看雪兔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762178935012610048",
+        "conversation_id": "2081451021247918525",
+        "created_at": "2026-07-26T18:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081451021247918525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081451021247918525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1513,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁再给我私信发屌我就把我割手血图全发给他^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 179,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，看看比那种滚，直fo就是眼熟你喜欢你😽，查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/9JIUprWKlu"
+              }
+            ]
+          }
+        },
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "pinned_tweet_id": "2080365623264121225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 115,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/9JIUprWKlu",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      }
+    ]
+  }
+}

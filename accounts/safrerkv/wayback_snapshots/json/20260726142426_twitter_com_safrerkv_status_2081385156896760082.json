@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2080924889398276410",
+    "created_at": "2026-07-26T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081385156896760082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068211407296868352",
+          "start": 0,
+          "username": "jiangd110120"
+        },
+        {
+          "end": 24,
+          "id": "2015207927590891520",
+          "start": 14,
+          "username": "chenpapro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081385156896760082",
+    "in_reply_to_user_id": "2068211407296868352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081017742560305561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangd110120 @chenpapro 您咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2080924889398276410",
+        "created_at": "2026-07-26T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081385156896760082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068211407296868352",
+              "start": 0,
+              "username": "jiangd110120"
+            },
+            {
+              "end": 24,
+              "id": "2015207927590891520",
+              "start": 14,
+              "username": "chenpapro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081385156896760082",
+        "in_reply_to_user_id": "2068211407296868352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081017742560305561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangd110120 @chenpapro 您咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068211407296868352",
+        "conversation_id": "2080924889398276410",
+        "created_at": "2026-07-25T14:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081017742560305561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015207927590891520",
+              "start": 0,
+              "username": "chenpapro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081017742560305561",
+        "in_reply_to_user_id": "2015207927590891520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 34796,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080924889398276410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenpapro 护士 不过又是一个可以提高性趣被狠狠凿的情趣衣而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 162,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T05:58:04.000Z",
+        "description": "",
+        "id": "2068211407296868352",
+        "name": "江东",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 349,
+          "like_count": 4256,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "jiangd110120",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:40:09.000Z",
+        "description": "维护男性权益",
+        "id": "2015207927590891520",
+        "name": "陈哥Pro",
+        "pinned_tweet_id": "2078682061863579868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080467966051893248/yeb5BjsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9086,
+          "following_count": 829,
+          "like_count": 267,
+          "listed_count": 27,
+          "media_count": 1591,
+          "tweet_count": 4215
+        },
+        "url": "",
+        "username": "chenpapro",
+        "verified": true
+      }
+    ]
+  }
+}

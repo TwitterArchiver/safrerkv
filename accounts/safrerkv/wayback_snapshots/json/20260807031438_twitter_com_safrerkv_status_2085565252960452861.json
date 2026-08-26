@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085553828255138202",
+    "created_at": "2026-08-07T03:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085565252960452861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085565252960452861",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085553828255138202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 聊完只剩微信团队了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2085553805660393472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFgIvJaEAAiu3R.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085553828255138202",
+        "created_at": "2026-08-07T03:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085565252960452861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085565252960452861",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085553828255138202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 聊完只剩微信团队了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085553805660393472"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2085553828255138202",
+        "created_at": "2026-08-07T02:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085553828255138202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIMJx3cLLw",
+              "end": 30,
+              "expanded_url": "https://x.com/ffynya/status/2085553828255138202/photo/1",
+              "media_key": "3_2085553805660393472",
+              "start": 7,
+              "url": "https://t.co/PIMJx3cLLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085553828255138202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高情商回复😋 https://t.co/PIMJx3cLLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 257,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2083960464967696407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 856,
+          "like_count": 1778,
+          "listed_count": 2,
+          "media_count": 652,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

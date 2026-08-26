@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083010649442127872"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083010776420470894",
+    "created_at": "2026-07-31T02:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083010776420470894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/swqokVJV8k",
+          "end": 38,
+          "expanded_url": "https://x.com/safrerkv/status/2083010776420470894/photo/1",
+          "media_key": "3_2083010649442127872",
+          "start": 15,
+          "url": "https://t.co/swqokVJV8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083010776420470894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能好心赞助 我已经快饿死了 https://t.co/swqokVJV8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2083010649442127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhXJj9akAAaDiK.png",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083010649442127872"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083010776420470894",
+        "created_at": "2026-07-31T02:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083010776420470894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/swqokVJV8k",
+              "end": 38,
+              "expanded_url": "https://x.com/safrerkv/status/2083010776420470894/photo/1",
+              "media_key": "3_2083010649442127872",
+              "start": 15,
+              "url": "https://t.co/swqokVJV8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083010776420470894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能好心赞助 我已经快饿死了 https://t.co/swqokVJV8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 216,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      }
+    ]
+  }
+}

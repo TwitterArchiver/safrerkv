@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090062856590950400"
+      ],
+      "media_source_tweet_id": [
+        "2090062912538685708"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090313327541096928",
+    "created_at": "2026-08-20T05:41:48.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090313327541096928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597574067061760001",
+          "start": 3,
+          "username": "DavisTuka24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QC0hG9TSIR",
+          "end": 102,
+          "expanded_url": "https://x.com/DavisTuka24/status/2090062912538685708/video/1",
+          "media_key": "13_2090062856590950400",
+          "start": 79,
+          "url": "https://t.co/QC0hG9TSIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090313327541096928",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2090062856590950400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1033
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090062912538685708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavisTuka24: If this fish is real, then am right not to eat all fish types https://t.co/QC0hG9TSIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29166,
+        "height": 1280,
+        "media_key": "13_2090062856590950400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090062856590950400/img/ba2YzeHIrU7cjVvD.jpg",
+        "public_metrics": {
+          "view_count": 577155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090062856590950400/vid/avc1/320x568/pPEeSZmdWHc_YwlC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090062856590950400/vid/avc1/480x852/6aH0IcO7UK5iWyb3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090062856590950400/vid/avc1/720x1280/ylhXs6JHTrlRK_J5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090062856590950400/pl/t7S36JcSjhbVJgeQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090062856590950400"
+          ],
+          "media_source_tweet_id": [
+            "2090062912538685708"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090313327541096928",
+        "created_at": "2026-08-20T05:41:48.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090313327541096928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597574067061760001",
+              "start": 3,
+              "username": "DavisTuka24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC0hG9TSIR",
+              "end": 102,
+              "expanded_url": "https://x.com/DavisTuka24/status/2090062912538685708/video/1",
+              "media_key": "13_2090062856590950400",
+              "start": 79,
+              "url": "https://t.co/QC0hG9TSIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090313327541096928",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090062856590950400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1033
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090062912538685708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavisTuka24: If this fish is real, then am right not to eat all fish types https://t.co/QC0hG9TSIR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090062856590950400"
+          ]
+        },
+        "author_id": "1597574067061760001",
+        "conversation_id": "2090062912538685708",
+        "created_at": "2026-08-19T13:06:44.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090062912538685708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC0hG9TSIR",
+              "end": 85,
+              "expanded_url": "https://x.com/DavisTuka24/status/2090062912538685708/video/1",
+              "media_key": "13_2090062856590950400",
+              "start": 62,
+              "url": "https://t.co/QC0hG9TSIR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "000c69ad123213a8"
+        },
+        "id": "2090062912538685708",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090062856590950400"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "Ai",
+            "suggestion_id": "2090259722720956512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3213,
+          "impression_count": 1213674,
+          "like_count": 8103,
+          "quote_count": 242,
+          "reply_count": 208,
+          "retweet_count": 1034
+        },
+        "reply_settings": "everyone",
+        "text": "If this fish is real, then am right not to eat all fish types https://t.co/QC0hG9TSIR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090313327541096928",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 662,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T12:52:20.000Z",
+        "description": "AFRICA MUST UNITE if we are to win against neo-colonialism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gorillashomelandsafaris.com",
+                "end": 23,
+                "expanded_url": "http://www.gorillashomelandsafaris.com",
+                "start": 0,
+                "url": "https://t.co/OuaNE0Utsg"
+              }
+            ]
+          }
+        },
+        "id": "1597574067061760001",
+        "is_identity_verified": false,
+        "location": "Uganda",
+        "most_recent_tweet_id": "2090062912538685708",
+        "name": "Davis M. Tuka",
+        "pinned_tweet_id": "2070926405999681971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597574067061760001/1726030958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050301482315218944/S0YiQAV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5592,
+          "following_count": 3426,
+          "like_count": 28135,
+          "listed_count": 1,
+          "media_count": 1948,
+          "tweet_count": 22281
+        },
+        "url": "https://t.co/OuaNE0Utsg",
+        "username": "DavisTuka24",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

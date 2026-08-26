@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088619512597999766",
+    "created_at": "2026-08-16T12:15:39.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088962893362630885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997243030370398208",
+          "start": 0,
+          "username": "mikaxueliyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088962893362630885",
+    "in_reply_to_user_id": "1997243030370398208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088896208433774694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikaxueliyyy 可以喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T12:15:39.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088962893362630885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997243030370398208",
+              "start": 0,
+              "username": "mikaxueliyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088962893362630885",
+        "in_reply_to_user_id": "1997243030370398208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088896208433774694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikaxueliyyy 可以喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997243030370398208",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T07:50:40.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088896208433774694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088896208433774694",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619512597999766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 抽到我就做好朋友w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088962893362630885",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 505,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-06T09:55:21.000Z",
+        "description": "私は日本が大好きです🇯🇵\n性別:可愛の猫\n私はそうですmtf🍥🏳️‍⚧️これがあると思いますか",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/b41pFe3oIW"
+              }
+            ]
+          }
+        },
+        "id": "1997243030370398208",
+        "is_identity_verified": false,
+        "location": "武道館 ちよだく 東京",
+        "most_recent_tweet_id": "2088947067708473768",
+        "name": "沈黙の中でうっとりしている猫🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032623794482020707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997243030370398208/1785692217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083969445085753345/D6KgRXAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 231,
+          "like_count": 6996,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/b41pFe3oIW",
+        "username": "mikaxueliyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

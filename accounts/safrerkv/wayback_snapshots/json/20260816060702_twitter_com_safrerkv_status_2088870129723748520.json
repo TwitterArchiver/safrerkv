@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088619512597999766",
+    "created_at": "2026-08-16T06:07:02.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088870129723748520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906356680511950848",
+          "start": 0,
+          "username": "TSKrwglq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088870129723748520",
+    "in_reply_to_user_id": "1906356680511950848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088827610407305370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSKrwglq 谢谢支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T06:07:02.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088870129723748520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906356680511950848",
+              "start": 0,
+              "username": "TSKrwglq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088870129723748520",
+        "in_reply_to_user_id": "1906356680511950848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088827610407305370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSKrwglq 谢谢支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906356680511950848",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T03:18:05.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088827610407305370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088827610407305370",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619512597999766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088870129723748520",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 441,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜|双性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "userdebug.xin",
+                "end": 23,
+                "expanded_url": "http://userdebug.xin",
+                "start": 0,
+                "url": "https://t.co/j5YQ201e8t"
+              }
+            ]
+          }
+        },
+        "id": "1906356680511950848",
+        "is_identity_verified": false,
+        "location": "山东精神卫生中心",
+        "most_recent_tweet_id": "2088863735935107505",
+        "name": "霜月🏳️‍⚧️（互fo）",
+        "pinned_tweet_id": "2065811906338914663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906356680511950848/1777478126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443187303981057/53w6BrZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 622,
+          "like_count": 2426,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/j5YQ201e8t",
+        "username": "TSKrwglq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

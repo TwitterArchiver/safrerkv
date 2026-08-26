@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089619835164778885",
+    "created_at": "2026-08-18T07:46:06.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089619835164778885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "936291080",
+          "start": 3,
+          "username": "GlamorboyGlamor"
+        },
+        {
+          "end": 30,
+          "id": "2070858923431825408",
+          "start": 21,
+          "username": "safrerkv"
+        },
+        {
+          "end": 54,
+          "id": "1627472262453403648",
+          "start": 47,
+          "username": "yzj32v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089619835164778885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089553415458476041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlamorboyGlamor: @safrerkv sao货jr没人比她sao ❣️@yzj32v 9d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089619835164778885",
+        "created_at": "2026-08-18T07:46:06.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089619835164778885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "936291080",
+              "start": 3,
+              "username": "GlamorboyGlamor"
+            },
+            {
+              "end": 30,
+              "id": "2070858923431825408",
+              "start": 21,
+              "username": "safrerkv"
+            },
+            {
+              "end": 54,
+              "id": "1627472262453403648",
+              "start": 47,
+              "username": "yzj32v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089619835164778885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089553415458476041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlamorboyGlamor: @safrerkv sao货jr没人比她sao ❣️@yzj32v 9d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936291080",
+        "conversation_id": "2088950397465432501",
+        "created_at": "2026-08-18T03:22:10.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089553415458476041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 33,
+              "id": "1627472262453403648",
+              "start": 26,
+              "username": "yzj32v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089553415458476041",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950397465432501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv sao货jr没人比她sao ❣️@yzj32v 9d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "自残/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标500fo~ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089619835164778885",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 622,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-11-09T07:00:06.000Z",
+        "description": "Am cool and glamorous",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Glamourboy.com.org.me",
+                "end": 22,
+                "expanded_url": "http://Glamourboy.com.org.me",
+                "start": 0,
+                "url": "http://t.co/3jOERExe28"
+              }
+            ]
+          }
+        },
+        "id": "936291080",
+        "is_identity_verified": false,
+        "location": "Baddest and hottest of all",
+        "most_recent_tweet_id": "2089553607133892695",
+        "name": "GLAMO̶̲̥̅̊U̶̲̥̅̊RBOY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/936291080/1364572103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/415163421425152000/UAvmjpB5_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 506,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 830
+        },
+        "url": "http://t.co/3jOERExe28",
+        "username": "GlamorboyGlamor",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-20T00:56:54.000Z",
+        "description": "闲着没事重新做个小号叭，只发以前没发过的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuzijiang10",
+                "end": 23,
+                "expanded_url": "https://t.me/yuzijiang10",
+                "start": 0,
+                "url": "https://t.co/hjR3vjtSIe"
+              }
+            ]
+          }
+        },
+        "id": "1627472262453403648",
+        "is_identity_verified": false,
+        "location": "距离你5km                   本人tg✈",
+        "most_recent_tweet_id": "2089387266640937022",
+        "name": "瑜子酱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088306420760588288/gJUdQISi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/hjR3vjtSIe",
+        "username": "yzj32v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

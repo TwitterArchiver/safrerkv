@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085748313257853324",
+    "created_at": "2026-08-07T15:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085748313257853324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cOniqGBygQ1692…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/cOniqGBygQ16927/status/2085597951762608293",
+          "start": 53,
+          "url": "https://t.co/QlDmeu8rYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085748313257853324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085597951762608293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "立秋秀转账的 我给你删了 七夕秀恩爱的 中秋节我祝你们对象像嫦娥一样奔月 十月谁敢过得比我好 我把你删了 https://t.co/QlDmeu8rYz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085748313257853324",
+        "created_at": "2026-08-07T15:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085748313257853324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cOniqGBygQ1692…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/cOniqGBygQ16927/status/2085597951762608293",
+              "start": 53,
+              "url": "https://t.co/QlDmeu8rYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085748313257853324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085597951762608293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立秋秀转账的 我给你删了 七夕秀恩爱的 中秋节我祝你们对象像嫦娥一样奔月 十月谁敢过得比我好 我把你删了 https://t.co/QlDmeu8rYz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2085597951762608293",
+        "created_at": "2026-08-07T05:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085597951762608293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085597951762608293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1391,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "立秋秀转账的 我给你删了 七夕秀恩爱的 中秋节我祝你们对象像嫦娥一样奔月 十月谁敢过得比我好 我把你删了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 291,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 22,
+          "like_count": 1559,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1474
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

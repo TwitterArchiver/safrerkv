@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083700148631482765",
+    "created_at": "2026-08-02T06:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083804414809427990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063266311254552576",
+          "start": 0,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083804414809427990",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083700148631482765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17nuun 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083700148631482765",
+        "created_at": "2026-08-02T06:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083804414809427990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083804414809427990",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083700148631482765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2083700148631482765",
+        "created_at": "2026-08-01T23:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:42:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083700050090471829",
+          "2083700148631482765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083700148631482765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回家发现父母把我的药全都拿走了，连我抗抑郁药和安眠药都拿走了。\n就连空药盒也被拿走，明知道我需要吃抗抑郁，也知道不能停药也还是拿走了。\n昨晚从ICU听医生说不危险，但是还是联系不上魈诺家属，我决定和家猫回老家取魈诺物品，找身份证和手机。\n结果回家被父母报警，理由是自己家不允许外人过夜\n现在一回家，东西被翻遍了，答应过我的不拿我的药，都是放屁。\n只要我一离开家，我房间的就会被他们翻一遍。\n17已经没有家了。\n17扛不住了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3757,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家发现父母把我的药全都拿走了，连我抗抑郁药和安眠药都拿走了。\n就连空药盒也被拿走，明知道我需要吃抗抑郁，也知道不能停药也还是拿走了。\n昨晚从ICU听医生说不危险，但是还是联系不上魈诺家属，我决定和家猫回老家取魈诺物品，找身份证和手机。\n结果回家被父母报警，理由是自己家不允许外人过夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 228,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 234,
+          "like_count": 1202,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

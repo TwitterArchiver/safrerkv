@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085679247650402570",
+    "created_at": "2026-08-07T10:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085680841188164006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081489262982377472",
+          "start": 0,
+          "username": "kamizakajuukou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085680841188164006",
+    "in_reply_to_user_id": "2081489262982377472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085680740151562649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamizakajuukou 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085679247650402570",
+        "created_at": "2026-08-07T10:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085680841188164006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081489262982377472",
+              "start": 0,
+              "username": "kamizakajuukou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680841188164006",
+        "in_reply_to_user_id": "2081489262982377472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085680740151562649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamizakajuukou 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081489262982377472",
+        "conversation_id": "2085679247650402570",
+        "created_at": "2026-08-07T10:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085680740151562649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680740151562649",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085679247650402570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 50fo咯～ (/^▽^)/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 278,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-26T21:23:32.000Z",
+        "description": "你好 这里是神坂重工 友跨  这里会更新些日常碎碎念 互fo 愿我们都得到幸福\n\n个人信息：艺术生 性别神坂重工 现居东京 祖籍杭城 重度酒精依赖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kamizakajuukou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kamizakajuukou",
+                "start": 0,
+                "url": "https://t.co/hUWSIOdhct"
+              }
+            ]
+          }
+        },
+        "id": "2081489262982377472",
+        "location": "天国",
+        "name": "神坂重工",
+        "pinned_tweet_id": "2083994545038233790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083056667034587136/ILFObDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 188,
+          "like_count": 2241,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/hUWSIOdhct",
+        "username": "kamizakajuukou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089374086925607090",
+    "created_at": "2026-08-17T15:29:35.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089374086925607090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1891362165317410816",
+          "start": 3,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089374086925607090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已夺舍@kris_dreammer ym大王称号😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089374086925607090",
+        "created_at": "2026-08-17T15:29:35.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089374086925607090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1891362165317410816",
+              "start": 3,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089374086925607090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已夺舍@kris_dreammer ym大王称号😈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 可以来找我聊天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标1000fo~ 关注相融谢谢喵 炮友@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089374086925607090",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2088950397465432501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 600,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "药物滥用重度依赖 \n因为耐药原因暂时停止o愈美\n药圈萌新\n前500关注我的都回关\n目前只o普瑞和加巴（因为没有别的吃的）",
+        "id": "1891362165317410816",
+        "is_identity_verified": false,
+        "location": "自由",
+        "most_recent_tweet_id": "2089373632820641906",
+        "name": "kris（戒o愈美版）",
+        "pinned_tweet_id": "2065322615787622625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891362165317410816/1758249247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 539,
+          "like_count": 3896,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2072632255995068703",
+    "created_at": "2026-07-02T10:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072632255995068703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wata_Tabe/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Wata_Tabe/status/2072334417620591090",
+          "start": 15,
+          "url": "https://t.co/mkwHmNILKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072632255995068703",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072334417620591090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Happy Birthday https://t.co/mkwHmNILKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2072263231851421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIobhebYAA2YU2.png",
+        "width": 1162
+      },
+      {
+        "height": 1105,
+        "media_key": "3_2072263249995927552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIoclEakAAGI1S.png",
+        "width": 1859
+      },
+      {
+        "height": 1130,
+        "media_key": "3_2072263261471604736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIodP0bgAA-kRW.png",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2072632255995068703",
+        "created_at": "2026-07-02T10:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072632255995068703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wata_Tabe/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Wata_Tabe/status/2072334417620591090",
+              "start": 15,
+              "url": "https://t.co/mkwHmNILKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072632255995068703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072334417620591090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Happy Birthday https://t.co/mkwHmNILKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072263231851421696",
+            "3_2072263249995927552",
+            "3_2072263261471604736"
+          ]
+        },
+        "author_id": "1390271888887214080",
+        "conversation_id": "2072334417620591090",
+        "created_at": "2026-07-01T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072334417620591090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "わたたべ"
+            },
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "ハッピーヒナヒナメモリーズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj3F48FK5B",
+              "end": 70,
+              "expanded_url": "https://x.com/Wata_Tabe/status/2072334417620591090/photo/1",
+              "media_key": "3_2072263231851421696",
+              "start": 47,
+              "url": "https://t.co/mj3F48FK5B"
+            },
+            {
+              "display_url": "pic.x.com/mj3F48FK5B",
+              "end": 70,
+              "expanded_url": "https://x.com/Wata_Tabe/status/2072334417620591090/photo/1",
+              "media_key": "3_2072263249995927552",
+              "start": 47,
+              "url": "https://t.co/mj3F48FK5B"
+            },
+            {
+              "display_url": "pic.x.com/mj3F48FK5B",
+              "end": 70,
+              "expanded_url": "https://x.com/Wata_Tabe/status/2072334417620591090/photo/1",
+              "media_key": "3_2072263261471604736",
+              "start": 47,
+              "url": "https://t.co/mj3F48FK5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072334417620591090",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 51147,
+          "like_count": 2634,
+          "quote_count": 31,
+          "reply_count": 9,
+          "retweet_count": 761
+        },
+        "reply_settings": "everyone",
+        "text": "～🐣𝓗𝓪𝓹𝓹𝔂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂 𝓗𝓲𝓷𝓪𝓴𝓸🐣～\n#わたたべ\n#ハッピーヒナヒナメモリーズ https://t.co/mj3F48FK5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 117,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T11:47:57.000Z",
+        "description": "苗川采著『私を喰べたい、ひとでなし』公式アカウントです。略称は「わたたべ」。電撃マオウ・カドコミ（旧ComicWalker）等で連載中！漫画の感想等はハッシュタグ #わたたべ アニメの感想は #watatabe を付けてぜひ！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "わたたべ"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "tag": "watatabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "comic-walker.com/contents/detai…",
+                "end": 23,
+                "expanded_url": "https://comic-walker.com/contents/detail/KDCW_AM01201866010000_68/",
+                "start": 0,
+                "url": "https://t.co/5GKuqJHyEQ"
+              }
+            ]
+          }
+        },
+        "id": "1390271888887214080",
+        "name": "『私を喰べたい、ひとでなし』公式🌅最新第12巻重版出来！",
+        "pinned_tweet_id": "2037182800932331852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390276849138212873/AJxt9KOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27641,
+          "following_count": 5,
+          "like_count": 11763,
+          "listed_count": 92,
+          "media_count": 349,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/5GKuqJHyEQ",
+        "username": "Wata_Tabe",
+        "verified": false
+      }
+    ]
+  }
+}

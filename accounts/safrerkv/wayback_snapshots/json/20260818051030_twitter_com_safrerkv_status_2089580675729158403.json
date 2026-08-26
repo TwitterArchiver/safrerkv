@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089240152820629528",
+    "created_at": "2026-08-18T05:10:30.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089580675729158403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715661327476391936",
+          "start": 0,
+          "username": "mingyuekanna721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089580675729158403",
+    "in_reply_to_user_id": "1715661327476391936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089567827795890201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingyuekanna721 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089240152820629528",
+        "created_at": "2026-08-18T05:10:30.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089580675729158403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715661327476391936",
+              "start": 0,
+              "username": "mingyuekanna721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089580675729158403",
+        "in_reply_to_user_id": "1715661327476391936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089567827795890201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingyuekanna721 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715661327476391936",
+        "conversation_id": "2089240152820629528",
+        "created_at": "2026-08-18T04:19:27.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089567827795890201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2089567827795890201",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089240152820629528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 🎉🎉🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "自残/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标500fo~ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089580675729158403",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 616,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T09:28:47.000Z",
+        "description": "ISFP/INFP",
+        "id": "1715661327476391936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089568337319940248",
+        "name": "人形自走验钞机",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715661327476391936/1779785839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089329962910363648/GBJXtOXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 468,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "mingyuekanna721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

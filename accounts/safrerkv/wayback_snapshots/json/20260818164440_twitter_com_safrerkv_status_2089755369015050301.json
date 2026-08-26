@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089745917905916003",
+    "created_at": "2026-08-18T16:44:40.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089755369015050301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078831035694116864",
+          "start": 0,
+          "username": "QiJiGus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089755369015050301",
+    "in_reply_to_user_id": "2078831035694116864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089755272810271043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiJiGus 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2089755235942289408",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQBNUKnaUAAo4_R.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQBNUKnaUAAo4_R.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089745917905916003",
+        "created_at": "2026-08-18T16:44:40.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089755369015050301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078831035694116864",
+              "start": 0,
+              "username": "QiJiGus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089755369015050301",
+        "in_reply_to_user_id": "2078831035694116864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089755272810271043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiJiGus 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089755235942289408"
+          ]
+        },
+        "author_id": "2078831035694116864",
+        "conversation_id": "2089745917905916003",
+        "created_at": "2026-08-18T16:44:17.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089755272810271043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNpLDNXcQi",
+              "end": 35,
+              "expanded_url": "https://x.com/QiJiGus/status/2089755272810271043/photo/1",
+              "media_key": "16_2089755235942289408",
+              "start": 12,
+              "url": "https://t.co/lNpLDNXcQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089755272810271043",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2089755235942289408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089745917905916003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 喵 https://t.co/lNpLDNXcQi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "自残/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089755369015050301",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 641,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T13:18:36.000Z",
+        "description": "🇨🇳/互fo/音乐（特别是摇滚）,游戏,动画重度爱好者/正在学习电吉他🎸中\n\n曾经得过抑郁症",
+        "id": "2078831035694116864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089755272810271043",
+        "name": "奇迹顾",
+        "pinned_tweet_id": "2086873086641774739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078831035694116864/1785880415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078906059419459584/V1B3TZXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 157,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "QiJiGus",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

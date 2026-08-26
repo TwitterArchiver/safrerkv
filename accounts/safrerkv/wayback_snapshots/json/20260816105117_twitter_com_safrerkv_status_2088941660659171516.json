@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088886733937213864",
+    "created_at": "2026-08-16T10:51:17.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088941660659171516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068968471757791232",
+          "start": 0,
+          "username": "isshikiameyguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088941660659171516",
+    "in_reply_to_user_id": "2068968471757791232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088941466387464379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isshikiameyguo 还要71个fo 还差得远喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T10:51:17.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088941660659171516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068968471757791232",
+              "start": 0,
+              "username": "isshikiameyguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088941660659171516",
+        "in_reply_to_user_id": "2068968471757791232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088941466387464379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isshikiameyguo 还要71个fo 还差得远喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068968471757791232",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T10:50:30.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088941466387464379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088941466387464379",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 恭喜，300也快了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088941660659171516",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 488,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T08:06:43.000Z",
+        "description": "",
+        "id": "2068968471757791232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088941466387464379",
+        "name": "清梦",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079364051176759296/4Q6HHtzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "isshikiameyguo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

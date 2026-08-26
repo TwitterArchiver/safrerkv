@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090432997225050585",
+    "created_at": "2026-08-20T13:37:19.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090432997225050585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2081306993478754304",
+          "start": 3,
+          "username": "ChasidyAmofk0"
+        },
+        {
+          "end": 28,
+          "id": "2070858923431825408",
+          "start": 19,
+          "username": "safrerkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090432997225050585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090416363567272276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChasidyAmofk0: @safrerkv 应该没人比我玩的开了吧☠️🦄我福不黑不信你看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090432997225050585",
+        "created_at": "2026-08-20T13:37:19.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090432997225050585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2081306993478754304",
+              "start": 3,
+              "username": "ChasidyAmofk0"
+            },
+            {
+              "end": 28,
+              "id": "2070858923431825408",
+              "start": 19,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090432997225050585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090416363567272276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChasidyAmofk0: @safrerkv 应该没人比我玩的开了吧☠️🦄我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081306993478754304",
+        "conversation_id": "2090369246580658412",
+        "created_at": "2026-08-20T12:31:13.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090416363567272276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090416363567272276",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090369246580658412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 应该没人比我玩的开了吧☠️🦄我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090432997225050585",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 677,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T09:14:45.000Z",
+        "description": "05女大线下接待 本人aiai照都在✈ 喝🍵可以深入哟\n\n同🛑城💋上🎸椚~下方👇👇可联系✈：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixi807",
+                "end": 23,
+                "expanded_url": "http://t.me/xixi807",
+                "start": 0,
+                "url": "https://t.co/UwvP2wN5gq"
+              }
+            ]
+          }
+        },
+        "id": "2081306993478754304",
+        "is_identity_verified": false,
+        "location": "距离2.5km👉✈",
+        "most_recent_tweet_id": "2090416364095705561",
+        "name": "谭蓓🌸同城上门♥线下选妃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090416370315935744/yRt1JqTP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/UwvP2wN5gq",
+        "username": "ChasidyAmofk0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

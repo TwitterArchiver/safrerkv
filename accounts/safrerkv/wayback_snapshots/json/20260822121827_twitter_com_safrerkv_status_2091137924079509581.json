@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090830565658574888",
+    "created_at": "2026-08-22T12:18:27.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091137924079509581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898213358718930944",
+          "start": 0,
+          "username": "OTro176282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091137924079509581",
+    "in_reply_to_user_id": "1898213358718930944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091053172739498402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTro176282 物超所值"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "16_2091053160349462530",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQTpxT0WcAIgofc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQTpxT0WcAIgofc.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090830565658574888",
+        "created_at": "2026-08-22T12:18:27.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091137924079509581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898213358718930944",
+              "start": 0,
+              "username": "OTro176282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091137924079509581",
+        "in_reply_to_user_id": "1898213358718930944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091053172739498402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTro176282 物超所值"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091053160349462530"
+          ]
+        },
+        "author_id": "1898213358718930944",
+        "conversation_id": "2090830565658574888",
+        "created_at": "2026-08-22T06:41:40.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091053172739498402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkwcZSIp5w",
+              "end": 42,
+              "expanded_url": "https://x.com/OTro176282/status/2091053172739498402/photo/1",
+              "media_key": "16_2091053160349462530",
+              "start": 19,
+              "url": "https://t.co/XkwcZSIp5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091053172739498402",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2091053160349462530"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830565658574888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 我只是来看片的。 https://t.co/XkwcZSIp5w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2091137924079509581",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 719,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T03:25:20.000Z",
+        "description": "",
+        "id": "1898213358718930944",
+        "is_identity_verified": false,
+        "location": "Americana, Brasil",
+        "most_recent_tweet_id": "2091053172739498402",
+        "name": "OTro",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898213358718930944/1741409240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016377811607683073/bGyfvRci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "OTro176282",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

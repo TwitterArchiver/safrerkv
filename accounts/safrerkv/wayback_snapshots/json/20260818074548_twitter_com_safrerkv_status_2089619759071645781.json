@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089619759071645781",
+    "created_at": "2026-08-18T07:45:48.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089619759071645781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3356993092",
+          "start": 3,
+          "username": "2727Cennet"
+        },
+        {
+          "end": 25,
+          "id": "2070858923431825408",
+          "start": 16,
+          "username": "safrerkv"
+        },
+        {
+          "end": 52,
+          "id": "1184163199",
+          "start": 41,
+          "username": "DeLfInZiTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089619759071645781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089553411083788609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2727Cennet: @safrerkv sao货ss没人比她sao❣️@DeLfInZiTo 7a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089619759071645781",
+        "created_at": "2026-08-18T07:45:48.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089619759071645781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3356993092",
+              "start": 3,
+              "username": "2727Cennet"
+            },
+            {
+              "end": 25,
+              "id": "2070858923431825408",
+              "start": 16,
+              "username": "safrerkv"
+            },
+            {
+              "end": 52,
+              "id": "1184163199",
+              "start": 41,
+              "username": "DeLfInZiTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089619759071645781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089553411083788609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2727Cennet: @safrerkv sao货ss没人比她sao❣️@DeLfInZiTo 7a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3356993092",
+        "conversation_id": "2088950397465432501",
+        "created_at": "2026-08-18T03:22:09.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089553411083788609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 36,
+              "id": "1184163199",
+              "start": 25,
+              "username": "DeLfInZiTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089553411083788609",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950397465432501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv sao货ss没人比她sao❣️@DeLfInZiTo 7a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "自残/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标500fo~ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089619765421809698",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 622,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-03T15:09:42.000Z",
+        "description": "",
+        "id": "3356993092",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089553609000473071",
+        "name": "gülistan akbaş",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3356993092/1440067907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/634316914421039104/QIUibDf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 408,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 4774
+        },
+        "url": "",
+        "username": "2727Cennet",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-16T03:31:03.000Z",
+        "description": "比我坏的没我帅 比我帅的不存在｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kikijiang0",
+                "end": 23,
+                "expanded_url": "http://t.me/kikijiang0",
+                "start": 0,
+                "url": "https://t.co/c9b4AOeiFd"
+              }
+            ]
+          }
+        },
+        "id": "1184163199",
+        "is_identity_verified": false,
+        "location": "距离你5km                   本人tg✈",
+        "most_recent_tweet_id": "2089387093416182068",
+        "name": "kiki酱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088199140014747648/0esKk988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/c9b4AOeiFd",
+        "username": "DeLfInZiTo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

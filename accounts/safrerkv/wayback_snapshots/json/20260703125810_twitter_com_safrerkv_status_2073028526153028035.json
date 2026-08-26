@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073015459797159936"
+      ],
+      "media_source_tweet_id": [
+        "2073015463970574534"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2073028526153028035",
+    "created_at": "2026-07-03T12:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073028526153028035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1270686711354257410",
+          "start": 3,
+          "username": "nyamura_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LolNhW0F3n",
+          "end": 39,
+          "expanded_url": "https://x.com/nyamura_/status/2073015463970574534/photo/1",
+          "media_key": "3_2073015459797159936",
+          "start": 16,
+          "url": "https://t.co/LolNhW0F3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073028526153028035",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073015463970574534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyamura_: ♡ https://t.co/LolNhW0F3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073015459797159936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTUk88aUAAgtQz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073015459797159936"
+          ],
+          "media_source_tweet_id": [
+            "2073015463970574534"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2073028526153028035",
+        "created_at": "2026-07-03T12:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073028526153028035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1270686711354257410",
+              "start": 3,
+              "username": "nyamura_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LolNhW0F3n",
+              "end": 39,
+              "expanded_url": "https://x.com/nyamura_/status/2073015463970574534/photo/1",
+              "media_key": "3_2073015459797159936",
+              "start": 16,
+              "url": "https://t.co/LolNhW0F3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073028526153028035",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073015463970574534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyamura_: ♡ https://t.co/LolNhW0F3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073015459797159936"
+          ]
+        },
+        "author_id": "1270686711354257410",
+        "conversation_id": "2073015463970574534",
+        "created_at": "2026-07-03T12:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073015463970574534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LolNhW0F3n",
+              "end": 25,
+              "expanded_url": "https://x.com/nyamura_/status/2073015463970574534/photo/1",
+              "media_key": "3_2073015459797159936",
+              "start": 2,
+              "url": "https://t.co/LolNhW0F3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073015463970574534",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7922,
+          "like_count": 465,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/LolNhW0F3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 121,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T11:58:23.000Z",
+        "description": "⟡ NyxmNix CEO \n⟡ 作詞・作曲・歌唱\n⟡ info @nyamura_info ⟡ fa▶︎ #nyamurart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "nyamurart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "nyamura_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyamuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyamuu",
+                "start": 0,
+                "url": "https://t.co/kRg2hnBslj"
+              }
+            ]
+          }
+        },
+        "id": "1270686711354257410",
+        "location": "▶︎ お仕事・ライブ出演ご依頼はメールにて",
+        "name": "nyamura",
+        "pinned_tweet_id": "2066117715031724234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984101679747493894/O9KI8iDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35747,
+          "following_count": 235,
+          "like_count": 10260,
+          "listed_count": 82,
+          "media_count": 449,
+          "tweet_count": 3501
+        },
+        "url": "https://t.co/kRg2hnBslj",
+        "username": "nyamura_",
+        "verified": true
+      }
+    ]
+  }
+}

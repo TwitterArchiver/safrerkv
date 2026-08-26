@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2080645729329070261",
+    "created_at": "2026-07-26T08:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081296533602140502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081296533602140502",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080645729329070261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 你说的对 但是来杯好茶爻一爻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2080645729329070261",
+        "created_at": "2026-07-26T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081296533602140502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081296533602140502",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080645729329070261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 你说的对 但是来杯好茶爻一爻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2080645729329070261",
+        "created_at": "2026-07-24T13:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080645729329070261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080645729329070261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 222,
+                "start": 214,
+                "tag": "佳怡的恋爱日常"
+              }
+            ]
+          },
+          "text": "晚上和我男朋友抱抱的时候，不小心没站稳一起倒在床上，我们四目相对，他突然站起身来，然后从口袋掏出来一个小东西，开始撕包装，我看着还以为是byt，我以为这石头人终于要开窍了，满怀期待的张开双臂躺在床上等着，然后他把东西往杯子里面放进去了，倒了一杯热水，原来是个茶包！然后走过来对我说来杯好茶摇一摇，摇一摇，一边摇头晃脑，啊！！！！！好无语啊，不要在调情的时候搞抽象啊！！！！他像是没学大招的墨菲特的感觉一样！啊啊啊！！！神经！！\n#佳怡的恋爱日常"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 822788,
+          "like_count": 2584,
+          "quote_count": 4,
+          "reply_count": 567,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "晚上和我男朋友抱抱的时候，不小心没站稳一起倒在床上，我们四目相对，他突然站起身来，然后从口袋掏出来一个小东西，开始撕包装，我看着还以为是byt，我以为这石头人终于要开窍了，满怀期待的张开双臂躺在床上等着，然后他把东西往杯子里面放进去了，倒了一杯热水，原来是个茶包！然后走过来对我说来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIcnW"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10023,
+          "following_count": 95,
+          "like_count": 13432,
+          "listed_count": 27,
+          "media_count": 309,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/er9WmJIcnW",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

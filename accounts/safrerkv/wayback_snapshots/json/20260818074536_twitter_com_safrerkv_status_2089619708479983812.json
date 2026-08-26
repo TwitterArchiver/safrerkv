@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2089619708479983812",
+    "created_at": "2026-08-18T07:45:36.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089619708479983812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2500449283",
+          "start": 3,
+          "username": "nisfits1980mf"
+        },
+        {
+          "end": 28,
+          "id": "2070858923431825408",
+          "start": 19,
+          "username": "safrerkv"
+        },
+        {
+          "end": 52,
+          "id": "1139679834269835264",
+          "start": 41,
+          "username": "Kyaaaaaah6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089619708479983812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089553411150954503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nisfits1980mf: @safrerkv 她太涩了jq 我真顶不住@Kyaaaaaah6 6q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2089619708479983812",
+        "created_at": "2026-08-18T07:45:36.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089619708479983812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2500449283",
+              "start": 3,
+              "username": "nisfits1980mf"
+            },
+            {
+              "end": 28,
+              "id": "2070858923431825408",
+              "start": 19,
+              "username": "safrerkv"
+            },
+            {
+              "end": 52,
+              "id": "1139679834269835264",
+              "start": 41,
+              "username": "Kyaaaaaah6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089619708479983812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089553411150954503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nisfits1980mf: @safrerkv 她太涩了jq 我真顶不住@Kyaaaaaah6 6q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2500449283",
+        "conversation_id": "2088950397465432501",
+        "created_at": "2026-08-18T03:22:09.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089553411150954503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 33,
+              "id": "1139679834269835264",
+              "start": 22,
+              "username": "Kyaaaaaah6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089553411150954503",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950397465432501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 她太涩了jq 我真顶不住@Kyaaaaaah6 6q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "自残/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  目标500fo~ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "kris_dreammer"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089619723176800395",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 622,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 543
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-17T02:50:58.000Z",
+        "description": "disconinja\nI feel alright.",
+        "id": "2500449283",
+        "is_identity_verified": false,
+        "location": "Hiroshima Japan ",
+        "most_recent_tweet_id": "2089553603908551114",
+        "name": "Tatsufumi Nishioca",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2500449283/1488687949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/497254995989770243/WTRcanXK_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 319,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "nisfits1980mf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-14T23:43:41.000Z",
+        "description": "和闺蜜一起入推🌈性瘾患者// 本人170 52kg D杯// 闺蜜172 48kg B杯// 目前寻固炮ing 可双飞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/bark5104",
+                "end": 23,
+                "expanded_url": "https://telegram.me/bark5104",
+                "start": 0,
+                "url": "https://t.co/YRjO87e5sj"
+              }
+            ]
+          }
+        },
+        "id": "1139679834269835264",
+        "is_identity_verified": false,
+        "location": "距离你6.5千米                 本人tg✈",
+        "most_recent_tweet_id": "2089374832119148965",
+        "name": "梦欲🦖",
+        "pinned_tweet_id": "2089374832119148965",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080956996250152960/ob3_9fkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6839,
+          "following_count": 421,
+          "like_count": 2484,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/YRjO87e5sj",
+        "username": "Kyaaaaaah6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

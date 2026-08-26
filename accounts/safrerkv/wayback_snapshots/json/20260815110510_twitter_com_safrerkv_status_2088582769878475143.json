@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087831791084371968",
+        "3_2087831791050895361"
+      ],
+      "media_source_tweet_id": [
+        "2087831799305257425",
+        "2087831799305257425"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088582769878475143",
+    "created_at": "2026-08-15T11:05:10.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088582769878475143"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "下海"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "电子女友"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "非绿"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "纯绿"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "线下"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "包夜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2087825892865359872",
+          "start": 3,
+          "username": "Rainkawaiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4UzXsIe2w3",
+          "end": 109,
+          "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+          "media_key": "3_2087831791084371968",
+          "start": 86,
+          "url": "https://t.co/4UzXsIe2w3"
+        },
+        {
+          "display_url": "pic.x.com/4UzXsIe2w3",
+          "end": 109,
+          "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+          "media_key": "3_2087831791050895361",
+          "start": 86,
+          "url": "https://t.co/4UzXsIe2w3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088582769878475143",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087831791084371968"
+      },
+      {
+        "media_key": "3_2087831791050895361"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087831799305257425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainkawaiiii: 你们好！我是小雨！请帮助我！\n转发抽三个52！\n求转发互fo！\n#爸爸活 #门槛妹 #下海 #电子女友 #非绿 #纯绿 #线下 #包夜 https://t.co/4UzXsIe2w3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2087831791084371968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl388JaAAAtvOI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087831791050895361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl388BbMAEN5MY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087831791084371968",
+            "3_2087831791050895361"
+          ],
+          "media_source_tweet_id": [
+            "2087831799305257425",
+            "2087831799305257425"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088582769878475143",
+        "created_at": "2026-08-15T11:05:10.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088582769878475143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "下海"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "电子女友"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "非绿"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "纯绿"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "线下"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "包夜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2087825892865359872",
+              "start": 3,
+              "username": "Rainkawaiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UzXsIe2w3",
+              "end": 109,
+              "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+              "media_key": "3_2087831791084371968",
+              "start": 86,
+              "url": "https://t.co/4UzXsIe2w3"
+            },
+            {
+              "display_url": "pic.x.com/4UzXsIe2w3",
+              "end": 109,
+              "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+              "media_key": "3_2087831791050895361",
+              "start": 86,
+              "url": "https://t.co/4UzXsIe2w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088582769878475143",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087831791084371968"
+          },
+          {
+            "media_key": "3_2087831791050895361"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087831799305257425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainkawaiiii: 你们好！我是小雨！请帮助我！\n转发抽三个52！\n求转发互fo！\n#爸爸活 #门槛妹 #下海 #电子女友 #非绿 #纯绿 #线下 #包夜 https://t.co/4UzXsIe2w3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087831791084371968",
+            "3_2087831791050895361"
+          ]
+        },
+        "author_id": "2087825892865359872",
+        "conversation_id": "2087831799305257425",
+        "created_at": "2026-08-13T09:21:05.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087831799305257425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "下海"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "电子女友"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "非绿"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "纯绿"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "线下"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "包夜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UzXsIe2w3",
+              "end": 91,
+              "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+              "media_key": "3_2087831791084371968",
+              "start": 68,
+              "url": "https://t.co/4UzXsIe2w3"
+            },
+            {
+              "display_url": "pic.x.com/4UzXsIe2w3",
+              "end": 91,
+              "expanded_url": "https://x.com/Rainkawaiiii/status/2087831799305257425/photo/1",
+              "media_key": "3_2087831791050895361",
+              "start": 68,
+              "url": "https://t.co/4UzXsIe2w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087831799305257425",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087831791084371968"
+          },
+          {
+            "media_key": "3_2087831791050895361"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1578,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "你们好！我是小雨！请帮助我！\n转发抽三个52！\n求转发互fo！\n#爸爸活 #门槛妹 #下海 #电子女友 #非绿 #纯绿 #线下 #包夜 https://t.co/4UzXsIe2w3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088582769878475143",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 364,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T09:01:36.000Z",
+        "description": "我是小雨！黑丝爱好者可卖原味 请帮助我🥺🥺🚪88/188/520\n求互转互fo\n谢谢您！",
+        "id": "2087825892865359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088531458017435727",
+        "name": "雨雨雨雨",
+        "pinned_tweet_id": "2087831799305257425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087825892865359872/1786611787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087827186980192256/UW4_8d0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 29,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Rainkawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2081263015987642714",
+    "created_at": "2026-07-26T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081376199423705088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "225443598",
+          "start": 0,
+          "username": "rr2910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081376199423705088",
+    "in_reply_to_user_id": "225443598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081263015987642714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rr2910 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2081263015987642714",
+        "created_at": "2026-07-26T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081376199423705088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "225443598",
+              "start": 0,
+              "username": "rr2910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081376199423705088",
+        "in_reply_to_user_id": "225443598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081263015987642714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rr2910 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "225443598",
+        "conversation_id": "2081263015987642714",
+        "created_at": "2026-07-26T06:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081263015987642714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081263015987642714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 57261,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 364,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了 我弟把我凿了 我现在懵懵的 😤\n\n赶紧看，我要删了……."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/精神分裂/抑郁/米游/二次/女/od",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 154,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-11T15:31:09.000Z",
+        "description": "热爱玩x通过x来找到我的灵魂伴侣（宠粉）",
+        "id": "225443598",
+        "location": "10.12km",
+        "name": "小笨笨^",
+        "pinned_tweet_id": "2081366565002653915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078726038369259520/NA4pinYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 13,
+          "like_count": 2359,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "rr2910",
+        "verified": false
+      }
+    ]
+  }
+}

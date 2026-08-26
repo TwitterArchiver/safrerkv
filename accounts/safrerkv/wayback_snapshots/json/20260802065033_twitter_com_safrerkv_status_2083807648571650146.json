@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083553436424118298",
+    "created_at": "2026-08-02T06:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083807648571650146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682427504513155072",
+          "start": 0,
+          "username": "ygngxio311443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083807648571650146",
+    "in_reply_to_user_id": "1682427504513155072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083553436424118298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygngxio311443 母猪发春了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2083553421819629568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpEzEob0AAgzCB.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083553436424118298",
+        "created_at": "2026-08-02T06:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083807648571650146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682427504513155072",
+              "start": 0,
+              "username": "ygngxio311443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083807648571650146",
+        "in_reply_to_user_id": "1682427504513155072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553436424118298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygngxio311443 母猪发春了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083553421819629568"
+          ]
+        },
+        "author_id": "1682427504513155072",
+        "conversation_id": "2083553436424118298",
+        "created_at": "2026-08-01T14:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553436424118298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/putmvSzpHp",
+              "end": 51,
+              "expanded_url": "https://x.com/ygngxio311443/status/2083553436424118298/photo/1",
+              "media_key": "3_2083553421819629568",
+              "start": 28,
+              "url": "https://t.co/putmvSzpHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553436424118298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 45185,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 66,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "这样找主是不会有人要的。望周知\n而且非常非常非常冒犯。 https://t.co/putmvSzpHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 231,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:29:41.000Z",
+        "description": "intp｜Dom｜双性恋｜虽然很早注册账号但目前刚开始活跃欢迎和我聊天｜https://t.co/VOkqqnR9NJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ygngxio",
+                "end": 59,
+                "expanded_url": "http://ngl.link/ygngxio",
+                "start": 36,
+                "url": "https://t.co/VOkqqnR9NJ"
+              }
+            ]
+          }
+        },
+        "id": "1682427504513155072",
+        "name": "雨宫晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066263700575768576/eFBUzech_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 12,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "ygngxio311443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090116420885745665"
+      ],
+      "media_source_tweet_id": [
+        "2090117674022182983"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090314794025017686",
+    "created_at": "2026-08-20T05:47:37.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090314794025017686"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "かくみやこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1687427254882856961",
+          "start": 3,
+          "username": "hb_vb65216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdcu93CVZG",
+          "end": 57,
+          "expanded_url": "https://x.com/hb_vb65216/status/2090117674022182983/photo/1",
+          "media_key": "3_2090116420885745665",
+          "start": 34,
+          "url": "https://t.co/gdcu93CVZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090314794025017686",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090116420885745665"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090117674022182983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hb_vb65216: #かくみやこ\n也许我们是命中注定呢 https://t.co/gdcu93CVZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2090116420885745665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGVz5YbEAEIP_8.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090116420885745665"
+          ],
+          "media_source_tweet_id": [
+            "2090117674022182983"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090314794025017686",
+        "created_at": "2026-08-20T05:47:37.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090314794025017686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "かくみやこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1687427254882856961",
+              "start": 3,
+              "username": "hb_vb65216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdcu93CVZG",
+              "end": 57,
+              "expanded_url": "https://x.com/hb_vb65216/status/2090117674022182983/photo/1",
+              "media_key": "3_2090116420885745665",
+              "start": 34,
+              "url": "https://t.co/gdcu93CVZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090314794025017686",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090116420885745665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090117674022182983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hb_vb65216: #かくみやこ\n也许我们是命中注定呢 https://t.co/gdcu93CVZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090116420885745665"
+          ]
+        },
+        "author_id": "1687427254882856961",
+        "conversation_id": "2090117674022182983",
+        "created_at": "2026-08-19T16:44:20.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090117674022182983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "かくみやこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdcu93CVZG",
+              "end": 41,
+              "expanded_url": "https://x.com/hb_vb65216/status/2090117674022182983/photo/1",
+              "media_key": "3_2090116420885745665",
+              "start": 18,
+              "url": "https://t.co/gdcu93CVZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090117674022182983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090116420885745665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 15350,
+          "like_count": 2273,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "#かくみやこ\n也许我们是命中注定呢 https://t.co/gdcu93CVZG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090314794025017686",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 662,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-04T11:36:48.000Z",
+        "description": "ヾ(๑╹ヮ╹๑)ﾉ”不擅长任何一门语言所以我会尽量少说话",
+        "id": "1687427254882856961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090297866896253236",
+        "name": "画背景好难",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687427254882856961/1758178628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977030631080312832/QVvd3Fk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 119,
+          "like_count": 1027,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "hb_vb65216",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

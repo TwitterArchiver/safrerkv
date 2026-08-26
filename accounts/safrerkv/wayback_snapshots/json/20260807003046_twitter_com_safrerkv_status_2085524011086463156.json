@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085524011086463156",
+    "created_at": "2026-08-07T00:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085524011086463156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki132831/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Yuki132831/status/2085409843561496747",
+          "start": 84,
+          "url": "https://t.co/ngRbX8RcDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085524011086463156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085409843561496747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我宣誓、从今天起，做文明网民，健康上网，绿色上网，忠于党，忠于人民，绝对落实二十四字核心价值观，不涉黄，不涉毒，不涉赌，文明上网，从我做起，争做21世纪新时代好青年！ https://t.co/ngRbX8RcDd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085524011086463156",
+        "created_at": "2026-08-07T00:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085524011086463156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki132831/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Yuki132831/status/2085409843561496747",
+              "start": 84,
+              "url": "https://t.co/ngRbX8RcDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085524011086463156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085409843561496747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣誓、从今天起，做文明网民，健康上网，绿色上网，忠于党，忠于人民，绝对落实二十四字核心价值观，不涉黄，不涉毒，不涉赌，文明上网，从我做起，争做21世纪新时代好青年！ https://t.co/ngRbX8RcDd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084973651229626368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085409843561496747",
+        "created_at": "2026-08-06T16:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085409843561496747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6De_dian/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/6De_dian/status/2085409374835515477",
+              "start": 84,
+              "url": "https://t.co/T9GFghGtmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085409843561496747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085409374835515477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣誓、从今天起，做文明网民，健康上网，绿色上网，忠于党，忠于人民，绝对落实二十四字核心价值观，不涉黄，不涉毒，不涉赌，文明上网，从我做起，争做21世纪新时代好青年！ https://t.co/T9GFghGtmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 251,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n防炸回fo较慢对不起\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想吐了。3.0。",
+        "pinned_tweet_id": "2084982871211585741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 166,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false
+      }
+    ]
+  }
+}

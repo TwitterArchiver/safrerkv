@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088619512597999766",
+    "created_at": "2026-08-16T06:00:10.000Z",
+    "display_text_range": [
+      30,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088868398692512105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 29,
+          "id": "1893984432270475264",
+          "start": 13,
+          "username": "bailixing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088868398692512105",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088797577059995884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 @bailixing114514 感谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T06:00:10.000Z",
+        "display_text_range": [
+          30,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088868398692512105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 29,
+              "id": "1893984432270475264",
+              "start": 13,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088868398692512105",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088797577059995884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @bailixing114514 感谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088619512597999766",
+        "created_at": "2026-08-16T01:18:45.000Z",
+        "display_text_range": [
+          27,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088797577059995884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 26,
+              "id": "1893984432270475264",
+              "start": 10,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088797577059995884",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619512597999766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @bailixing114514 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088868398692512105",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 438,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088799800133378462",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1512,
+          "like_count": 16537,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "is_identity_verified": false,
+        "location": "浦島トンネル",
+        "most_recent_tweet_id": "2088818333605056799",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2087021453560705351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893984432270475264/1777457188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 690,
+          "like_count": 2124,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

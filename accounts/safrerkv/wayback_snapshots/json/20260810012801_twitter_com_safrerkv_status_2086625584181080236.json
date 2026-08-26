@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2086297914054496386",
+    "created_at": "2026-08-10T01:28:01.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086625584181080236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850858310087684096",
+          "start": 0,
+          "username": "karbshev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086625584181080236",
+    "in_reply_to_user_id": "1850858310087684096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086623491902542233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karbshev 杀死比赛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2086297914054496386",
+        "created_at": "2026-08-10T01:28:01.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086625584181080236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850858310087684096",
+              "start": 0,
+              "username": "karbshev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086625584181080236",
+        "in_reply_to_user_id": "1850858310087684096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086623491902542233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karbshev 杀死比赛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850858310087684096",
+        "conversation_id": "2086297914054496386",
+        "created_at": "2026-08-10T01:19:42.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086623491902542233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086623491902542233",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086297914054496386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 雨姐一出来其他人很明显在硬撑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2086625584181080236",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 316,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-28T11:13:11.000Z",
+        "description": "I love Hatsune Miku Y(^_^)Y\nalso Monika💚 :P\nsuper Animes-Comics-Games-Novels and Tokusatsu fan💝\nfavourite Superhero is Ultraman Jack💪🏻",
+        "id": "1850858310087684096",
+        "is_identity_verified": false,
+        "location": "China🇨🇳",
+        "most_recent_tweet_id": "2086625396636651598",
+        "name": "Karbshev",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850858310087684096/1765564355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850858422427611136/hsFDYOS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 87,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "karbshev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

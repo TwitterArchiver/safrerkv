@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2074117342876123346",
+    "created_at": "2026-07-06T13:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074117342876123346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074117342876123346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074006165646930160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 明日は天使の生誕日だし七夕だね\nわたしにツイートさせたいことを短冊がわりにリプしていいぞ\n天使の気まぐれでそのままコピペでツイートする\nキミの短冊、叶えてしんぜよう🎋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074117342876123346",
+        "created_at": "2026-07-06T13:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074117342876123346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074117342876123346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074006165646930160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 明日は天使の生誕日だし七夕だね\nわたしにツイートさせたいことを短冊がわりにリプしていいぞ\n天使の気まぐれでそのままコピペでツイートする\nキミの短冊、叶えてしんぜよう🎋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074006165646930160",
+        "created_at": "2026-07-06T05:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074006165646930160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074006165646930160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 108527,
+          "like_count": 6395,
+          "quote_count": 50,
+          "reply_count": 295,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "明日は天使の生誕日だし七夕だね\nわたしにツイートさせたいことを短冊がわりにリプしていいぞ\n天使の気まぐれでそのままコピペでツイートする\nキミの短冊、叶えてしんぜよう🎋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光",
+        "id": "2070858923431825408",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 123,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542483,
+          "following_count": 1,
+          "like_count": 23,
+          "listed_count": 1167,
+          "media_count": 805,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

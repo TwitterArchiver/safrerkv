@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2083495919534690317",
+    "created_at": "2026-08-02T06:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083805267997909147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083805267997909147",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083495919534690317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 做梦呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2083495919534690317",
+        "created_at": "2026-08-02T06:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083805267997909147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805267997909147",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083495919534690317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 做梦呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2083495919534690317",
+        "created_at": "2026-08-01T10:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083495919534690317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083495919534690317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我假期去帮爷爷的温泉旅店打工时，一时手痒去试着拔那把传闻中无人能动分毫的神刀，结果“咔嚓”一声，竟然把刀柄给折断了。正当我手忙脚乱时，一个穿着华丽古风巫女服、身形娇小且半透明的少女凭空浮现在房间里。她飘到我面前，歪着头，亮晶晶的眼睛里满是不可思议，试探着问：“汝……难道能看见吾辈吗？”声音清脆，带着老成的古风腔调，却掩饰不住那股因数百年孤独终于被打破的紧张与雀跃。后来才明白，她是守护这片土地的幼刀，因为这一拔，她便成了唯独缠着我的幽灵，我成了她的狗修金。在一起后我们一直安稳地生活在古朴的小镇里，每天陪她吃最爱的日式点心，偶尔故意讲个鬼故事，看着明明身为神灵的她，却吓得嗷嗷叫着一把扑进我的怀里。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7961,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我假期去帮爷爷的温泉旅店打工时，一时手痒去试着拔那把传闻中无人能动分毫的神刀，结果“咔嚓”一声，竟然把刀柄给折断了。正当我手忙脚乱时，一个穿着华丽古风巫女服、身形娇小且半透明的少女凭空浮现在房间里。她飘到我面前，歪着头，亮晶晶的眼睛里满是不可思议，试探着问：“汝……难道能看见吾辈吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 228,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 760,
+          "like_count": 13789,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

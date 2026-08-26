@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088886733937213864",
+    "created_at": "2026-08-16T11:22:48.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088949593279197353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088949593279197353",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088948514953035945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Science_010 感谢支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T11:22:48.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088949593279197353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088949593279197353",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088948514953035945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 感谢支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T11:18:31.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088948514953035945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088948514953035945",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088949593279197353",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 491,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "世界上最区的人 男的 18 双性恋 喜欢大几把 前oder不混圈 喜欢东方/平泽进/cs2/钢四/后室/术/宇宙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XqtK"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088948514953035945",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500855672480489475/1769914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087092802748616704/4WPyJ9kY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1028,
+          "like_count": 4096,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/Lu4Wy2XqtK",
+        "username": "Science_010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

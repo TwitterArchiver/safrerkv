@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088517961393090742",
+    "created_at": "2026-08-15T16:56:28.000Z",
+    "display_text_range": [
+      29,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088671176474423380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929815132739387392",
+          "start": 0,
+          "username": "xngmng648776"
+        },
+        {
+          "end": 28,
+          "id": "2077073282768273408",
+          "start": 14,
+          "username": "Nengbunenb8yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088671176474423380",
+    "in_reply_to_user_id": "1929815132739387392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088668667399573903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngmng648776 @Nengbunenb8yy 未经授权的帐户\n虚假身份： 您不得使用伪造的身份从事扰乱性或欺骗性行为。这包括使用素材库照片、盗用照片或人工智能生成的个人资料照片，复制或盗用个人资料简介，以及/或提供误导性个人资料信息以欺骗他人。\n随便搞来玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088517961393090742",
+        "created_at": "2026-08-15T16:56:28.000Z",
+        "display_text_range": [
+          29,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088671176474423380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929815132739387392",
+              "start": 0,
+              "username": "xngmng648776"
+            },
+            {
+              "end": 28,
+              "id": "2077073282768273408",
+              "start": 14,
+              "username": "Nengbunenb8yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088671176474423380",
+        "in_reply_to_user_id": "1929815132739387392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088668667399573903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngmng648776 @Nengbunenb8yy 未经授权的帐户\n虚假身份： 您不得使用伪造的身份从事扰乱性或欺骗性行为。这包括使用素材库照片、盗用照片或人工智能生成的个人资料照片，复制或盗用个人资料简介，以及/或提供误导性个人资料信息以欺骗他人。\n随便搞来玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929815132739387392",
+        "conversation_id": "2088517961393090742",
+        "created_at": "2026-08-15T16:46:30.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088668667399573903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 24,
+              "id": "2077073282768273408",
+              "start": 10,
+              "username": "Nengbunenb8yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088668667399573903",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088587176003129846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @Nengbunenb8yy 戏仿账号啥意思"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088671176474423380",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 373,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T08:19:28.000Z",
+        "description": "",
+        "id": "1929815132739387392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088669709508255891",
+        "name": "Luna, where are you?",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088253115493396482/B12lc6Aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 26,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xngmng648776",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T16:51:12.000Z",
+        "description": "幸せって実はどこにもなくてェ…\n我只是想发自拍和狗叫，奇怪的人不要关注我。",
+        "id": "2077073282768273408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088640065991999526",
+        "name": "Nengbunen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077073282768273408/1786776493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077073623903518720/9ashZMVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 77,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Nengbunenb8yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

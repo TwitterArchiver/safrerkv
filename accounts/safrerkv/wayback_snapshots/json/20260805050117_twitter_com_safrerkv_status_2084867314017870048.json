@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2084483849086795823",
+    "created_at": "2026-08-05T05:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084867314017870048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084867314017870048",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084483849086795823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 您们咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_2084483840278749184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2TAjfbYAAbwZp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2084483849086795823",
+        "created_at": "2026-08-05T05:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084867314017870048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084867314017870048",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084483849086795823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 您们咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084483840278749184"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2084483849086795823",
+        "created_at": "2026-08-04T03:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084483849086795823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4APgewAR9",
+              "end": 26,
+              "expanded_url": "https://x.com/ffynya/status/2084483849086795823/photo/1",
+              "media_key": "3_2084483840278749184",
+              "start": 3,
+              "url": "https://t.co/e4APgewAR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084483849086795823",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 170852,
+          "like_count": 673,
+          "quote_count": 12,
+          "reply_count": 439,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🫪🫪 https://t.co/e4APgewAR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 236,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 794,
+          "like_count": 1706,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

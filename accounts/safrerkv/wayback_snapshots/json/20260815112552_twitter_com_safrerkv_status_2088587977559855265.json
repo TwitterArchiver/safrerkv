@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088573396821172261",
+    "created_at": "2026-08-15T11:25:52.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088587977559855265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077073282768273408",
+          "start": 0,
+          "username": "Nengbunenb8yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088587977559855265",
+    "in_reply_to_user_id": "2077073282768273408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088573396821172261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nengbunenb8yy 你好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088573329749995520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwaYK8acAAGGt_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088573329687080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwaYKtacAAGfm6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088573329716527104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwaYK0bwAAcVBn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088573329678700544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwaYKrakAA74dX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088573396821172261",
+        "created_at": "2026-08-15T11:25:52.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088587977559855265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077073282768273408",
+              "start": 0,
+              "username": "Nengbunenb8yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088587977559855265",
+        "in_reply_to_user_id": "2077073282768273408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088573396821172261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nengbunenb8yy 你好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088573329749995520",
+            "3_2088573329687080960",
+            "3_2088573329716527104",
+            "3_2088573329678700544"
+          ]
+        },
+        "author_id": "2077073282768273408",
+        "conversation_id": "2088573396821172261",
+        "created_at": "2026-08-15T10:27:56.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088573396821172261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEAV508l0r",
+              "end": 28,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2088573396821172261/photo/1",
+              "media_key": "3_2088573329749995520",
+              "start": 5,
+              "url": "https://t.co/AEAV508l0r"
+            },
+            {
+              "display_url": "pic.x.com/AEAV508l0r",
+              "end": 28,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2088573396821172261/photo/1",
+              "media_key": "3_2088573329687080960",
+              "start": 5,
+              "url": "https://t.co/AEAV508l0r"
+            },
+            {
+              "display_url": "pic.x.com/AEAV508l0r",
+              "end": 28,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2088573396821172261/photo/1",
+              "media_key": "3_2088573329716527104",
+              "start": 5,
+              "url": "https://t.co/AEAV508l0r"
+            },
+            {
+              "display_url": "pic.x.com/AEAV508l0r",
+              "end": 28,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2088573396821172261/photo/1",
+              "media_key": "3_2088573329678700544",
+              "start": 5,
+              "url": "https://t.co/AEAV508l0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088573396821172261",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088573329749995520"
+          },
+          {
+            "media_key": "3_2088573329687080960"
+          },
+          {
+            "media_key": "3_2088573329716527104"
+          },
+          {
+            "media_key": "3_2088573329678700544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系 https://t.co/AEAV508l0r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088587977559855265",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 371,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T16:51:12.000Z",
+        "description": "幸せって実はどこにもなくてェ…\n我只是想发自拍和狗叫，奇怪的人不要关注我。",
+        "id": "2077073282768273408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088587981728936140",
+        "name": "Nengbunen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077073282768273408/1786776493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077073623903518720/9ashZMVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 76,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Nengbunenb8yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

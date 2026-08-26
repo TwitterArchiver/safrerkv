@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2088886733937213864",
+    "created_at": "2026-08-16T08:50:37.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088911295416562006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077861997203652608",
+          "start": 0,
+          "username": "84302v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088911295416562006",
+    "in_reply_to_user_id": "2077861997203652608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088910767412359581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@84302v 感谢支持喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T08:50:37.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088911295416562006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077861997203652608",
+              "start": 0,
+              "username": "84302v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088911295416562006",
+        "in_reply_to_user_id": "2077861997203652608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088910767412359581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@84302v 感谢支持喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077861997203652608",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T08:48:31.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088910767412359581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088910767412359581",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088911295416562006",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 463,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T21:07:18.000Z",
+        "description": "idk how 2 write my bio so i just wrote this =)\nthey/theirs/she/her/he/his/...",
+        "id": "2077861997203652608",
+        "is_identity_verified": false,
+        "location": "‍",
+        "most_recent_tweet_id": "2088910767412359581",
+        "name": "John Smith",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077861997203652608/1784538152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079128484962787328/H3h37v5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 254,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "84302v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

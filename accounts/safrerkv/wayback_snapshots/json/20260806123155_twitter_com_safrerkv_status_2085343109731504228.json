@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085306536918921324",
+    "created_at": "2026-08-06T12:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085343109731504228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3017506210",
+          "start": 0,
+          "username": "sarahz0704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085343109731504228",
+    "in_reply_to_user_id": "3017506210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085306536918921324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sarahz0704 这是有可能成为我妈妈的女人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085306521970470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB_O7na8AA1QCu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085306521970495488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB_O7nbUAA37mM.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085306536918921324",
+        "created_at": "2026-08-06T12:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085343109731504228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3017506210",
+              "start": 0,
+              "username": "sarahz0704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085343109731504228",
+        "in_reply_to_user_id": "3017506210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085306536918921324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sarahz0704 这是有可能成为我妈妈的女人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085306521970470912",
+            "3_2085306521970495488"
+          ]
+        },
+        "author_id": "3017506210",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2085306536918921324",
+        "created_at": "2026-08-06T10:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085306536918921324"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "100日コスプレチャレンジ"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "長崎そよ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmurL7oenI",
+              "end": 77,
+              "expanded_url": "https://x.com/sarahz0704/status/2085306536918921324/photo/1",
+              "media_key": "3_2085306521970470912",
+              "start": 54,
+              "url": "https://t.co/FmurL7oenI"
+            },
+            {
+              "display_url": "pic.x.com/FmurL7oenI",
+              "end": 77,
+              "expanded_url": "https://x.com/sarahz0704/status/2085306536918921324/photo/1",
+              "media_key": "3_2085306521970495488",
+              "start": 54,
+              "url": "https://t.co/FmurL7oenI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085306536918921324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 1807,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Day58_長崎そよ\n*MyGo_cosplay*\n#100日コスプレチャレンジ \n#バンドリ\n#長崎そよ https://t.co/FmurL7oenI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 242,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T13:00:20.000Z",
+        "description": "中文｜English｜Deutsch｜日本語（下手)\nコスプレイヤー｜ハンドメイド好き｜絵描き好き\nお店:完全正常的小店\n全平台同名",
+        "id": "3017506210",
+        "location": "Shanghai",
+        "name": "芋头_Sa74",
+        "pinned_tweet_id": "2071847271566909455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059853092330541056/Y7aFTRLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 96,
+          "like_count": 3530,
+          "listed_count": 7,
+          "media_count": 74,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "sarahz0704",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090830565658574888",
+    "created_at": "2026-08-22T12:19:13.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091138117407506450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860287806716694528",
+          "start": 0,
+          "username": "guan_zi88530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091138117407506450",
+    "in_reply_to_user_id": "1860287806716694528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091128224436871428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guan_zi88530 你只是想发这个屌图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2091128217361162240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUuCM-boAA7gjV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090830565658574888",
+        "created_at": "2026-08-22T12:19:13.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091138117407506450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860287806716694528",
+              "start": 0,
+              "username": "guan_zi88530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091138117407506450",
+        "in_reply_to_user_id": "1860287806716694528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091128224436871428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guan_zi88530 你只是想发这个屌图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091128217361162240"
+          ]
+        },
+        "author_id": "1860287806716694528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090830565658574888",
+        "created_at": "2026-08-22T11:39:54.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091128224436871428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBxKAtwb8q",
+              "end": 48,
+              "expanded_url": "https://x.com/guan_zi88530/status/2091128224436871428/photo/1",
+              "media_key": "3_2091128217361162240",
+              "start": 25,
+              "url": "https://t.co/MBxKAtwb8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091128224436871428",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091128217361162240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830565658574888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 不是，我都逃到这儿了还能看到 https://t.co/MBxKAtwb8q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 给我钱随便骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2091138117407506450",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 719,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T11:42:49.000Z",
+        "description": "",
+        "id": "1860287806716694528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091128224436871428",
+        "name": "阿管",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006731493427785734/MMZ9X3RJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "guan_zi88530",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
