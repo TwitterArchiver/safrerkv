@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091920810248155136",
+        "3_2091920982269214720"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2091921176067015104",
+    "created_at": "2026-08-24T16:10:49.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091921176067015104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9mRvCDAHl",
+          "end": 71,
+          "expanded_url": "https://x.com/safrerkv/status/2091921176067015104/photo/1",
+          "media_key": "3_2091920810248155136",
+          "start": 48,
+          "url": "https://t.co/F9mRvCDAHl"
+        },
+        {
+          "display_url": "pic.x.com/F9mRvCDAHl",
+          "end": 71,
+          "expanded_url": "https://x.com/safrerkv/status/2091921176067015104/photo/1",
+          "media_key": "3_2091920982269214720",
+          "start": 48,
+          "url": "https://t.co/F9mRvCDAHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091921176067015104",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091920810248155136"
+      },
+      {
+        "media_key": "3_2091920982269214720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "you are my curse 这首歌喵 叫我相融就可以了喵（简介其实就有了喵 注意审题喵） https://t.co/F9mRvCDAHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2091920810248155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf-5LkWsAAMa7m.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2091920982269214720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf_DMZXwAAr4uQ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091920810248155136",
+            "3_2091920982269214720"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2091921176067015104",
+        "created_at": "2026-08-24T16:10:49.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091921176067015104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9mRvCDAHl",
+              "end": 71,
+              "expanded_url": "https://x.com/safrerkv/status/2091921176067015104/photo/1",
+              "media_key": "3_2091920810248155136",
+              "start": 48,
+              "url": "https://t.co/F9mRvCDAHl"
+            },
+            {
+              "display_url": "pic.x.com/F9mRvCDAHl",
+              "end": 71,
+              "expanded_url": "https://x.com/safrerkv/status/2091921176067015104/photo/1",
+              "media_key": "3_2091920982269214720",
+              "start": 48,
+              "url": "https://t.co/F9mRvCDAHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091921176067015104",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091920810248155136"
+          },
+          {
+            "media_key": "3_2091920982269214720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "you are my curse 这首歌喵 叫我相融就可以了喵（简介其实就有了喵 注意审题喵） https://t.co/F9mRvCDAHl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2091921176067015104",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 737,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

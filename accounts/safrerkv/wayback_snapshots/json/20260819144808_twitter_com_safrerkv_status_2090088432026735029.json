@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2090087549863702867",
+    "created_at": "2026-08-19T14:48:08.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090088432026735029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085261341577945088",
+          "start": 0,
+          "username": "Luminbkrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090088432026735029",
+    "in_reply_to_user_id": "2085261341577945088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090087931423977857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminbkrv 感谢提议"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_2090087922393546752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF75EOaAAAC8BP.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2090087549863702867",
+        "created_at": "2026-08-19T14:48:08.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090088432026735029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085261341577945088",
+              "start": 0,
+              "username": "Luminbkrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090088432026735029",
+        "in_reply_to_user_id": "2085261341577945088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090087931423977857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminbkrv 感谢提议"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090087922393546752"
+          ]
+        },
+        "author_id": "2085261341577945088",
+        "conversation_id": "2090087549863702867",
+        "created_at": "2026-08-19T14:46:09.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090087931423977857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuYc9iY5RP",
+              "end": 52,
+              "expanded_url": "https://x.com/Luminbkrv/status/2090087931423977857/photo/1",
+              "media_key": "3_2090087922393546752",
+              "start": 29,
+              "url": "https://t.co/wuYc9iY5RP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090087931423977857",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090087922393546752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090087549863702867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 那我建议你互fo不要太多了，不然会↓ https://t.co/wuYc9iY5RP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 可以找我喵喵天 不约不打炮 我叫相融 直fo就是喜欢你 会发梗图  提问箱↓ 关注相融谢谢喵 诡秘@kris_dreammer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2090088432026735029",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 647,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T07:08:49.000Z",
+        "description": "敬我死去的大号😭@Vyrwen\n雪还会落下二代（大号申诉中\n逃生舱：@Aurvsnom\n问问题→ https://t.co/QzGdufRbep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "Vyrwen"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Aurvsnom"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 72,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 49,
+                "url": "https://t.co/QzGdufRbep"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Luminbkrv",
+                "end": 23,
+                "expanded_url": "https://t.me/Luminbkrv",
+                "start": 0,
+                "url": "https://t.co/sp6dlxh95z"
+              }
+            ]
+          }
+        },
+        "id": "2085261341577945088",
+        "is_identity_verified": false,
+        "location": "你的心里♡ ",
+        "most_recent_tweet_id": "2090088316876230877",
+        "name": "落雪藏绪",
+        "pinned_tweet_id": "2089762280049430749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085261341577945088/1786693628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088170494424219648/BUbqSlsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 88,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/sp6dlxh95z",
+        "username": "Luminbkrv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
