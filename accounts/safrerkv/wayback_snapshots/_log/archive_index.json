@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:57:24",
+  "last_updated": "2026-08-26T18:57:47",
   "html": {
     "https://web.archive.org/web/20260708045829if_/https://twitter.com/safrerkv/status/2074719748018102316": {
       "status": "done",
@@ -6093,9 +6093,9 @@
       "referenced_by": [
         "20260816033508_twitter_com_safrerkv_status_2088831899536134605.json"
       ],
-      "last_updated": "2026-08-26T17:36:45",
+      "last_updated": "2026-08-26T18:57:47",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260816033508/https://video.twimg.com/amplify_video/2088701951135621120/vid/avc1/720x1280/b8aeppJy-hURFu62.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HQBNUKnaUAAo4_R.mp4": {
       "status": "done",
