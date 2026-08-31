@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092959856911134721"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2092959972216770615",
+    "created_at": "2026-08-27T12:58:37.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092959972216770615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZUKPSM8SP",
+          "end": 27,
+          "expanded_url": "https://x.com/safrerkv/status/2092959972216770615/photo/1",
+          "media_key": "3_2092959856911134721",
+          "start": 4,
+          "url": "https://t.co/pZUKPSM8SP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092959972216770615",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092959856911134721"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白巧喵 https://t.co/pZUKPSM8SP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2092959856911134721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuv5qBXMAECM_8.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092959856911134721"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2092959972216770615",
+        "created_at": "2026-08-27T12:58:37.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092959972216770615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZUKPSM8SP",
+              "end": 27,
+              "expanded_url": "https://x.com/safrerkv/status/2092959972216770615/photo/1",
+              "media_key": "3_2092959856911134721",
+              "start": 4,
+              "url": "https://t.co/pZUKPSM8SP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092959972216770615",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092959856911134721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白巧喵 https://t.co/pZUKPSM8SP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2092959972216770615",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 745,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

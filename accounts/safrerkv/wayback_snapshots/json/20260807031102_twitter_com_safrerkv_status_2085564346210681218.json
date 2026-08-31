@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2085564346210681218",
+    "created_at": "2026-08-07T03:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085564346210681218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050195658603483136",
+          "start": 3,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085564346210681218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084245560828346377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontwanttmf: 自残自伤od自杀的根本原因还是因为痛苦啊，你们这帮傻逼一天天的就知道搁这骂餐券妹，有啥几把用？我只能说你让他们更痛苦了，后果变得更严重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2085564346210681218",
+        "created_at": "2026-08-07T03:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085564346210681218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050195658603483136",
+              "start": 3,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085564346210681218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084245560828346377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontwanttmf: 自残自伤od自杀的根本原因还是因为痛苦啊，你们这帮傻逼一天天的就知道搁这骂餐券妹，有啥几把用？我只能说你让他们更痛苦了，后果变得更严重了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050195658603483136",
+        "conversation_id": "2084245560828346377",
+        "created_at": "2026-08-03T11:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084245560828346377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084245560828346377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18668,
+          "like_count": 505,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "自残自伤od自杀的根本原因还是因为痛苦啊，你们这帮傻逼一天天的就知道搁这骂餐券妹，有啥几把用？我只能说你让他们更痛苦了，后果变得更严重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮",
+        "id": "2070858923431825408",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 257,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "name": "Jonas（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 255,
+          "like_count": 3481,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "Idontwanttmf",
+        "verified": false
+      }
+    ]
+  }
+}
