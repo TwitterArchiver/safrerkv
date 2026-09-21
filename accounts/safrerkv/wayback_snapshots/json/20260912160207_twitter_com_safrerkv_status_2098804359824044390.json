@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2098804359824044390",
+    "created_at": "2026-09-12T16:02:07.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098804359824044390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saturnine357/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/saturnine357/status/2098376314160033805",
+          "start": 63,
+          "url": "https://t.co/jOALWpjrmR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098804359824044390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098376314160033805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很佩服收门槛的，是不是一般过了门就需要长期陪聊，我这种低精力人只要同时聊的超过三个窗口就觉得自己变成了一个手忙脚乱的淘宝客服 https://t.co/jOALWpjrmR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2098804359824044390",
+        "created_at": "2026-09-12T16:02:07.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098804359824044390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saturnine357/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/saturnine357/status/2098376314160033805",
+              "start": 63,
+              "url": "https://t.co/jOALWpjrmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098804359824044390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098376314160033805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很佩服收门槛的，是不是一般过了门就需要长期陪聊，我这种低精力人只要同时聊的超过三个窗口就觉得自己变成了一个手忙脚乱的淘宝客服 https://t.co/jOALWpjrmR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091219590038843392",
+        "conversation_id": "2098376314160033805",
+        "created_at": "2026-09-11T11:41:13.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098376314160033805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098376314160033805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 108467,
+          "like_count": 900,
+          "quote_count": 7,
+          "reply_count": 273,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "很佩服收门槛的，是不是一般过了门就需要长期陪聊，我这种低精力人只要同时聊的超过三个窗口就觉得自己变成了一个手忙脚乱的淘宝客服"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2098804359824044390",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1057,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T17:45:10.000Z",
+        "description": "文字自留地 梦到什么说什么 ✉️提问箱https://t.co/qi8xbvFhI3\n无🚪 只加聊得来的 互动私信有时会被吞",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sture13431",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sture13431",
+                "start": 19,
+                "url": "https://t.co/qi8xbvFhI3"
+              }
+            ]
+          }
+        },
+        "id": "2091219590038843392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098721679124083080",
+        "name": "Cynin因因",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097721409149792256/_AKceo2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 10,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "saturnine357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

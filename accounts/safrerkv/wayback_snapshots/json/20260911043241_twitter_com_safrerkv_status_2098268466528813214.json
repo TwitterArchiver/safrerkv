@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1566339486040363008"
+      ],
+      "media_source_tweet_id": [
+        "1566339536527007746"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098268466528813214",
+    "created_at": "2026-09-11T04:32:41.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098268466528813214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tuhHB0u15t",
+          "end": 44,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/1566339536527007746/video/1",
+          "media_key": "7_1566339486040363008",
+          "start": 21,
+          "url": "https://t.co/tuhHB0u15t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098268466528813214",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "7_1566339486040363008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1566339536527007746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: https://t.co/tuhHB0u15t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17480,
+        "height": 720,
+        "media_key": "7_1566339486040363008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1566339486040363008/pu/img/QnZwRz4AkPValeTM.jpg",
+        "public_metrics": {
+          "view_count": 487810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1566339486040363008/pu/vid/480x270/UXbZgjRsM79qeF-w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1566339486040363008/pu/vid/640x360/FBhbC8O8u0RqvpPl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1566339486040363008/pu/vid/1280x720/PvlslpvAjvtT_MPr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1566339486040363008/pu/pl/ICHbnVE2vJ5H8N-p.m3u8?tag=12&v=0b7"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1566339486040363008"
+          ],
+          "media_source_tweet_id": [
+            "1566339536527007746"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098268466528813214",
+        "created_at": "2026-09-11T04:32:41.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098268466528813214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuhHB0u15t",
+              "end": 44,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1566339536527007746/video/1",
+              "media_key": "7_1566339486040363008",
+              "start": 21,
+              "url": "https://t.co/tuhHB0u15t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098268466528813214",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_1566339486040363008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1566339536527007746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: https://t.co/tuhHB0u15t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1566339486040363008"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "1566339536527007746",
+        "created_at": "2022-09-04T08:17:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2022-09-04T08:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1566339536527007746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuhHB0u15t",
+              "end": 23,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1566339536527007746/video/1",
+              "media_key": "7_1566339486040363008",
+              "start": 0,
+              "url": "https://t.co/tuhHB0u15t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1566339536527007746",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_1566339486040363008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 0,
+          "like_count": 25695,
+          "quote_count": 204,
+          "reply_count": 75,
+          "retweet_count": 3345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tuhHB0u15t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2098268466528813214",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 1006,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2097879483965432294",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545389,
+          "following_count": 1,
+          "like_count": 43,
+          "listed_count": 1153,
+          "media_count": 869,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2098962717856133188",
+    "created_at": "2026-09-13T05:54:43.000Z",
+    "display_text_range": [
+      7,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099013889589707115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2095137832176336896",
+          "start": 0,
+          "username": "dm5lu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099013889589707115",
+    "in_reply_to_user_id": "2095137832176336896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098986818322465259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dm5lu 有点贵 我攒些钱就来买"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098986818322465259].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098986818322465259",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098986818322465259"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2098962717856133188",
+        "created_at": "2026-09-13T05:54:43.000Z",
+        "display_text_range": [
+          7,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099013889589707115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2095137832176336896",
+              "start": 0,
+              "username": "dm5lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099013889589707115",
+        "in_reply_to_user_id": "2095137832176336896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098986818322465259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dm5lu 有点贵 我攒些钱就来买"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2099013889589707115",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1068,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 1323
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-02T13:13:37.000Z",
+        "description": "ENTP♀中文/Svensk/Eng/日本語（少し）\n不安障害と述情障害ありasdあり\n\nフォロー申請OK。閲覧自己責任(´；ω；`)",
+        "id": "2095137832176336896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095767587078410657",
+        "name": "かちぇ",
+        "pinned_tweet_id": "2098374290550776204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095137832176336896/1789213097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098339889834344448/yQYzrojP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 79,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "dm5lu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961743117729853440"
+      ],
+      "media_source_tweet_id": [
+        "2100907925879611858"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2100921907080315099",
+    "created_at": "2026-09-18T12:16:30.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100921907080315099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1270686711354257410",
+          "start": 3,
+          "username": "nyamura_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ofd97SZp7q",
+          "end": 112,
+          "expanded_url": "https://x.com/nyamura_/status/2100907925879611858/video/1",
+          "media_key": "13_1961743117729853440",
+          "start": 89,
+          "url": "https://t.co/Ofd97SZp7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100921907080315099",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "description": "",
+        "media_key": "13_1961743117729853440",
+        "title": "Fake Love? ft.nyamura / 21 Clown"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100907925879611858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyamura_: Fake Love? ft.nyamura / 21 Clown\n300万再生ありがとう～♪\n\nこのコラボの新作をお待ちください～(@^^)/~~~ https://t.co/Ofd97SZp7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29833,
+        "height": 720,
+        "media_key": "13_1961743117729853440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961743117729853440/img/r1bgXtEHfkHTmnSK.jpg",
+        "public_metrics": {
+          "view_count": 55657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961743117729853440/vid/avc1/480x270/J-p19O-AUVy2NFdF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961743117729853440/vid/avc1/640x360/8Drr1evn9mrgKtdU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961743117729853440/vid/avc1/1280x720/ag9oJDdNZfJo0Im3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961743117729853440/pl/6exBJI8J2kaRoFdg.m3u8?v=619"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961743117729853440"
+          ],
+          "media_source_tweet_id": [
+            "2100907925879611858"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2100921907080315099",
+        "created_at": "2026-09-18T12:16:30.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100921907080315099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1270686711354257410",
+              "start": 3,
+              "username": "nyamura_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ofd97SZp7q",
+              "end": 112,
+              "expanded_url": "https://x.com/nyamura_/status/2100907925879611858/video/1",
+              "media_key": "13_1961743117729853440",
+              "start": 89,
+              "url": "https://t.co/Ofd97SZp7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100921907080315099",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_1961743117729853440",
+            "title": "Fake Love? ft.nyamura / 21 Clown"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100907925879611858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyamura_: Fake Love? ft.nyamura / 21 Clown\n300万再生ありがとう～♪\n\nこのコラボの新作をお待ちください～(@^^)/~~~ https://t.co/Ofd97SZp7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961743117729853440"
+          ]
+        },
+        "author_id": "1270686711354257410",
+        "conversation_id": "2100907925879611858",
+        "created_at": "2026-09-18T11:20:57.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100907925879611858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ofd97SZp7q",
+              "end": 98,
+              "expanded_url": "https://x.com/nyamura_/status/2100907925879611858/video/1",
+              "media_key": "13_1961743117729853440",
+              "start": 75,
+              "url": "https://t.co/Ofd97SZp7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100907925879611858",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_1961743117729853440",
+            "title": "Fake Love? ft.nyamura / 21 Clown"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 8665,
+          "like_count": 436,
+          "quote_count": 16,
+          "reply_count": 12,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "Fake Love? ft.nyamura / 21 Clown\n300万再生ありがとう～♪\n\nこのコラボの新作をお待ちください～(@^^)/~~~ https://t.co/Ofd97SZp7q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2100921907080315099",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 1214,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-10T11:58:23.000Z",
+        "description": "2027年2月27日　2ndワンマンやります⟡.·\n⟡ NyxmNix CEO \n⟡ 作詞・作曲・歌唱\n⟡ info @nyamura_info ⟡ fa▶︎ #nyamurart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 80,
+                "tag": "nyamurart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "nyamura_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyamuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyamuu",
+                "start": 0,
+                "url": "https://t.co/kRg2hnBslj"
+              }
+            ]
+          }
+        },
+        "id": "1270686711354257410",
+        "is_identity_verified": false,
+        "location": "▶︎ お仕事・ライブ出演ご依頼はメールにて",
+        "most_recent_tweet_id": "2100907925879611858",
+        "name": "nyamura",
+        "pinned_tweet_id": "2095829227828646208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270686711354257410/1785073640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081375731075235840/OSAqCXbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37416,
+          "following_count": 246,
+          "like_count": 12381,
+          "listed_count": 82,
+          "media_count": 502,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/kRg2hnBslj",
+        "username": "nyamura_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

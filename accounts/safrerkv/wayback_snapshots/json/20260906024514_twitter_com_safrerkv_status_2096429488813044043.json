@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2096131220342219096",
+    "created_at": "2026-09-06T02:45:14.000Z",
+    "display_text_range": [
+      33,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096429488813044043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545406379716149248",
+          "start": 0,
+          "username": "shenqingnanrenl"
+        },
+        {
+          "end": 32,
+          "id": "1884295144545083393",
+          "start": 17,
+          "username": "xiodxiod138228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096429488813044043",
+    "in_reply_to_user_id": "1545406379716149248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096427657525092737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenqingnanrenl @xiodxiod138228 这是崩铁的欢愉星神 简单点说就是乐子神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2096131220342219096",
+        "created_at": "2026-09-06T02:45:14.000Z",
+        "display_text_range": [
+          33,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096429488813044043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545406379716149248",
+              "start": 0,
+              "username": "shenqingnanrenl"
+            },
+            {
+              "end": 32,
+              "id": "1884295144545083393",
+              "start": 17,
+              "username": "xiodxiod138228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096429488813044043",
+        "in_reply_to_user_id": "1545406379716149248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096427657525092737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenqingnanrenl @xiodxiod138228 这是崩铁的欢愉星神 简单点说就是乐子神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545406379716149248",
+        "conversation_id": "2096131220342219096",
+        "created_at": "2026-09-06T02:37:57.000Z",
+        "display_text_range": [
+          26,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096427657525092737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884295144545083393",
+              "start": 0,
+              "username": "xiodxiod138228"
+            },
+            {
+              "end": 25,
+              "id": "2070858923431825408",
+              "start": 16,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096427657525092737",
+        "in_reply_to_user_id": "1884295144545083393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096352591735386605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiodxiod138228 @safrerkv 。。那个，谁给我解释一下，看不懂捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2096429488813044043",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 874,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T13:56:18.000Z",
+        "description": "",
+        "id": "1545406379716149248",
+        "is_identity_verified": false,
+        "location": "布吉岛",
+        "most_recent_tweet_id": "2096427657525092737",
+        "name": "海豚阿德",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792826220578832384/8DE6CnXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 29,
+          "like_count": 568,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "shenqingnanrenl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-28T17:39:27.000Z",
+        "description": "獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚獸圖超讚",
+        "id": "1884295144545083393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096352591735386605",
+        "name": "德寶，一款真正人性化的智能獸控",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884295144545083393/1760527782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978423029589061632/ABhXbLEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 43,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "xiodxiod138228",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

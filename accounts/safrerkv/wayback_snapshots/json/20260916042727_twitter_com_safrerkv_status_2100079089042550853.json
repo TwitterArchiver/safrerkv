@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2099730957402259496",
+    "created_at": "2026-09-16T04:27:27.000Z",
+    "display_text_range": [
+      29,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100079089042550853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820681361063088128",
+          "start": 0,
+          "username": "ns1234qaws"
+        },
+        {
+          "end": 28,
+          "id": "1829229897195368455",
+          "start": 12,
+          "username": "4888777ovo02756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100079089042550853",
+    "in_reply_to_user_id": "1820681361063088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100029993988538492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ns1234qaws @4888777ovo02756 @虞书欣工作室 取证\n@赵露思工作室 娶妻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2099730957402259496",
+        "created_at": "2026-09-16T04:27:27.000Z",
+        "display_text_range": [
+          29,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100079089042550853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820681361063088128",
+              "start": 0,
+              "username": "ns1234qaws"
+            },
+            {
+              "end": 28,
+              "id": "1829229897195368455",
+              "start": 12,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100079089042550853",
+        "in_reply_to_user_id": "1820681361063088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100029993988538492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ns1234qaws @4888777ovo02756 @虞书欣工作室 取证\n@赵露思工作室 娶妻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820681361063088128",
+        "conversation_id": "2099730957402259496",
+        "created_at": "2026-09-16T01:12:21.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100029993988538492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100029993988538492",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099730957402259496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4888777ovo02756 有点像虞书欣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2100079089042550853",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1151,
+          "like_count": 3994,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T04:40:48.000Z",
+        "description": "友🏳️‍🌈🏳️‍⚧️ 正常女权以及温良异性恋 把我的言论截图搬运到墙里记得给我id打马塞克",
+        "id": "1820681361063088128",
+        "is_identity_verified": false,
+        "location": "你家床底下",
+        "most_recent_tweet_id": "2100035278648025535",
+        "name": "幼水冬丽",
+        "pinned_tweet_id": "2092836019632812166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820681361063088128/1787189568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096396737112158210/uMWim2eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 549,
+          "like_count": 2625,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "ns1234qaws",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "is_identity_verified": false,
+        "location": "提问箱",
+        "most_recent_tweet_id": "2100065961491792019",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829229897195368455/1781789855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099730936787341312/5V1PBq4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 60,
+          "like_count": 2690,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 6118
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

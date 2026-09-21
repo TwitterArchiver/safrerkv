@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096030577850028032"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2096030603137454439",
+    "created_at": "2026-09-05T00:20:12.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096030603137454439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjVOl6ARVs",
+          "end": 29,
+          "expanded_url": "https://x.com/safrerkv/status/2096030603137454439/photo/1",
+          "media_key": "3_2096030577850028032",
+          "start": 6,
+          "url": "https://t.co/zjVOl6ARVs"
+        },
+        {
+          "display_url": "x.com/GEACPS1940629/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/GEACPS1940629/status/2095934697734094999",
+          "start": 30,
+          "url": "https://t.co/fRcOYIbFZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096030603137454439",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096030577850028032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095934697734094999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想玩喵 https://t.co/zjVOl6ARVs https://t.co/fRcOYIbFZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2096030577850028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaYtI8bkAA0-No.png",
+        "width": 705
+      },
+      {
+        "height": 652,
+        "media_key": "3_2095934691086102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZBfy6a8AAwMN8.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096030577850028032"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2096030603137454439",
+        "created_at": "2026-09-05T00:20:12.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096030603137454439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjVOl6ARVs",
+              "end": 29,
+              "expanded_url": "https://x.com/safrerkv/status/2096030603137454439/photo/1",
+              "media_key": "3_2096030577850028032",
+              "start": 6,
+              "url": "https://t.co/zjVOl6ARVs"
+            },
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/2095934697734094999",
+              "start": 30,
+              "url": "https://t.co/fRcOYIbFZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096030603137454439",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096030577850028032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095934697734094999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩喵 https://t.co/zjVOl6ARVs https://t.co/fRcOYIbFZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095934691086102528"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2095934697734094999",
+        "created_at": "2026-09-04T17:59:07.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095934697734094999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O0AEBqkMi",
+              "end": 31,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2095934697734094999/photo/1",
+              "media_key": "3_2095934691086102528",
+              "start": 8,
+              "url": "https://t.co/6O0AEBqkMi"
+            },
+            {
+              "display_url": "x.com/KontonAlex/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/KontonAlex/status/2095885792107503884",
+              "start": 32,
+              "url": "https://t.co/NmKL11RccZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095934697734094999",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095934691086102528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 518,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095885792107503884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位說一下唄👀 https://t.co/6O0AEBqkMi https://t.co/NmKL11RccZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/infp/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋  不约不打炮 我叫相融 直fo就是喜欢你 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2096030603137454439",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 812,
+          "like_count": 2711,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095944508156580074",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 6726,
+          "like_count": 106522,
+          "listed_count": 3,
+          "media_count": 4373,
+          "tweet_count": 11948
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

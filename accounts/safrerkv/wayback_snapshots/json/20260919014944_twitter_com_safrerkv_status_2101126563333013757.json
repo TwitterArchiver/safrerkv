@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2101090066760433931",
+    "created_at": "2026-09-19T01:49:44.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T02:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101126563333013757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510043826479824896",
+          "start": 0,
+          "username": "GCZZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101126563333013757",
+    "in_reply_to_user_id": "1510043826479824896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101090066760433931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GCZZero 居然到我家附近了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3003,
+        "media_key": "3_2101090023340994560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiSPoJbcAAwD__.jpg",
+        "width": 4003
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2101090039115739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiSQi6a8AA9Yov.jpg",
+        "width": 3697
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101090052684275712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiSRVdaYAA0zzX.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2101090066760433931",
+        "created_at": "2026-09-19T01:49:44.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101126563333013757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510043826479824896",
+              "start": 0,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101126563333013757",
+        "in_reply_to_user_id": "1510043826479824896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101090066760433931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GCZZero 居然到我家附近了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101090023340994560",
+            "3_2101090039115739136",
+            "3_2101090052684275712"
+          ]
+        },
+        "author_id": "1510043826479824896",
+        "conversation_id": "2101090066760433931",
+        "created_at": "2026-09-18T23:24:42.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101090066760433931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmJkB2Taxd",
+              "end": 34,
+              "expanded_url": "https://x.com/GCZZero/status/2101090066760433931/photo/1",
+              "media_key": "3_2101090023340994560",
+              "start": 11,
+              "url": "https://t.co/ZmJkB2Taxd"
+            },
+            {
+              "display_url": "pic.x.com/ZmJkB2Taxd",
+              "end": 34,
+              "expanded_url": "https://x.com/GCZZero/status/2101090066760433931/photo/1",
+              "media_key": "3_2101090039115739136",
+              "start": 11,
+              "url": "https://t.co/ZmJkB2Taxd"
+            },
+            {
+              "display_url": "pic.x.com/ZmJkB2Taxd",
+              "end": 34,
+              "expanded_url": "https://x.com/GCZZero/status/2101090066760433931/photo/1",
+              "media_key": "3_2101090052684275712",
+              "start": 11,
+              "url": "https://t.co/ZmJkB2Taxd"
+            },
+            {
+              "display_url": "x.com/GCZZero/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/GCZZero/status/2101088593624109131",
+              "start": 35,
+              "url": "https://t.co/6042qeBOVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101090066760433931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101090023340994560"
+          },
+          {
+            "media_key": "3_2101090039115739136"
+          },
+          {
+            "media_key": "3_2101090052684275712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101088593624109131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "湛江北 和 茂名南😋 https://t.co/ZmJkB2Taxd https://t.co/6042qeBOVC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2101126563333013757",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1225,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-01T23:58:06.000Z",
+        "description": "github@groupguanfang/寻找归宿中/升本中/age21/尽量不情绪化讨论正经话题/疯狂碎碎念/record daily emotions/欧尼酱@gujinchuanqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "gujinchuanqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zero_ssn",
+                "end": 23,
+                "expanded_url": "https://t.me/zero_ssn",
+                "start": 0,
+                "url": "https://t.co/KOMXIbEPIT"
+              }
+            ]
+          }
+        },
+        "id": "1510043826479824896",
+        "is_identity_verified": false,
+        "location": "0.99m",
+        "most_recent_tweet_id": "2101123349883830311",
+        "name": "Zero（私人版）",
+        "pinned_tweet_id": "2092066599520071749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510043826479824896/1680998433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913697120726777856/LHk7rVD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1000,
+          "like_count": 24553,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/KOMXIbEPIT",
+        "username": "GCZZero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

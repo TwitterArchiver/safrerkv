@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2098646149418848445",
+    "created_at": "2026-09-13T01:27:15.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098946578296058199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066636363336953856",
+          "start": 0,
+          "username": "Shiro07ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098946578296058199",
+    "in_reply_to_user_id": "2066636363336953856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098646149418848445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiro07ovo 根本没有这种医生😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2098646138333356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizCa4AAlL8_.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1617,
+        "media_key": "3_2098646138337509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizDaQAAM70G.jpg",
+        "width": 1007
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2098646138408820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizUaYAAAadL.jpg",
+        "width": 1012
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2098646138324971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizAa8AACthA.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2098646149418848445",
+        "created_at": "2026-09-13T01:27:15.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098946578296058199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066636363336953856",
+              "start": 0,
+              "username": "Shiro07ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098946578296058199",
+        "in_reply_to_user_id": "2066636363336953856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098646149418848445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiro07ovo 根本没有这种医生😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098646138333356032",
+            "3_2098646138337509376",
+            "3_2098646138408820736",
+            "3_2098646138324971520"
+          ]
+        },
+        "author_id": "2066636363336953856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098646149418848445",
+        "created_at": "2026-09-12T05:33:27.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098646149418848445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138333356032",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138337509376",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138408820736",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138324971520",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098646149418848445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098646138333356032"
+          },
+          {
+            "media_key": "3_2098646138337509376"
+          },
+          {
+            "media_key": "3_2098646138408820736"
+          },
+          {
+            "media_key": "3_2098646138324971520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 30802,
+          "like_count": 262,
+          "quote_count": 5,
+          "reply_count": 68,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "oder们 跟小诊所的医生打好关系。 https://t.co/fmPJVFS13i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2098946578296058199",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1057,
+          "like_count": 3659,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T21:39:06.000Z",
+        "description": "情感空虚 表演型人格 重抑重焦\n泛性恋 sub 克苏鲁 分舌 穿刺 切割 coser",
+        "id": "2066636363336953856",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2098646149418848445",
+        "name": "你說的拯救世界也包括我嗎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066636363336953856/1781559693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087805105353703425/lbal9FOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 13,
+          "like_count": 9,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Shiro07ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2101151293209264273",
+    "created_at": "2026-09-19T09:34:18.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101243476671418785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "326280497",
+          "start": 0,
+          "username": "Pbjeferson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101243476671418785",
+    "in_reply_to_user_id": "326280497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101151293209264273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pbjeferson 杀了我吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22229,
+        "height": 1280,
+        "media_key": "13_2101150501903429632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101150501903429632/img/fwF1RForKDpjkQcE.jpg",
+        "public_metrics": {
+          "view_count": 532856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101150501903429632/vid/avc1/320x568/ZprnQqC-NfeOiKvu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101150501903429632/vid/avc1/480x852/RqSE4KFddOCD4Ci6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101150501903429632/vid/avc1/720x1280/-FPiY6NrAIcQnBHg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101150501903429632/pl/08SC2cBq5BcKAm9d.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2101151293209264273",
+        "created_at": "2026-09-19T09:34:18.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101243476671418785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "326280497",
+              "start": 0,
+              "username": "Pbjeferson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101243476671418785",
+        "in_reply_to_user_id": "326280497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101151293209264273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pbjeferson 杀了我吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101150501903429632"
+          ]
+        },
+        "author_id": "326280497",
+        "conversation_id": "2101151293209264273",
+        "created_at": "2026-09-19T03:28:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101151293209264273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dIkoc27ZR",
+              "end": 23,
+              "expanded_url": "https://x.com/Pbjeferson/status/2101151293209264273/video/1",
+              "media_key": "13_2101150501903429632",
+              "start": 0,
+              "url": "https://t.co/5dIkoc27ZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101151293209264273",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101150501903429632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5710,
+          "impression_count": 846209,
+          "like_count": 12451,
+          "quote_count": 237,
+          "reply_count": 453,
+          "retweet_count": 998
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5dIkoc27ZR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2101243476671418785",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1235,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 1598
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-06-29T17:25:27.000Z",
+        "description": "أعيش بهدوء وأترك أثري بطريقتي الخاصة ✨",
+        "id": "326280497",
+        "is_identity_verified": false,
+        "location": "Santa cecilia",
+        "most_recent_tweet_id": "2101189623426830487",
+        "name": "jeferson martin",
+        "pinned_tweet_id": "2101189623426830487",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093293768804065280/6tSQv4l__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Pbjeferson",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2098957094447964402",
+    "created_at": "2026-09-14T04:29:26.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T05:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099354813796610232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022371961503092736",
+          "start": 0,
+          "username": "asusu593407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099354813796610232",
+    "in_reply_to_user_id": "2022371961503092736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099351774142648610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asusu593407 感谢支持喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2098957094447964402",
+        "created_at": "2026-09-14T04:29:26.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099354813796610232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022371961503092736",
+              "start": 0,
+              "username": "asusu593407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099354813796610232",
+        "in_reply_to_user_id": "2022371961503092736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099351774142648610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asusu593407 感谢支持喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022371961503092736",
+        "conversation_id": "2098957094447964402",
+        "created_at": "2026-09-14T04:17:21.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099351774142648610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099351774142648610",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098957094447964402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 蹲蹲😽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2099354827256197419",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1104,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡总之祝你天天开心！｜双相｜重焦｜强迫｜回避｜完美主义｜厌食｜od｜绘画｜Cosplay｜亚文化｜无性恋｜\n温良老鼠不键政不吵架不参与争议话题，只会悄悄看着你。\n｜梦想是成为一个温暖的、幸福的人。私聊请加tg：@asuasuasu112335",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 129,
+                "username": "asuasuasu112335"
+              }
+            ]
+          }
+        },
+        "id": "2022371961503092736",
+        "is_identity_verified": false,
+        "location": "鼠窝",
+        "most_recent_tweet_id": "2099352458430763130",
+        "name": "🐀",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022371961503092736/1776886610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035314095755264/5gFUd47P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 265,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "asusu593407",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
