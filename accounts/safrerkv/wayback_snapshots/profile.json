@@ -1,18 +1,27 @@
 {
   "name": "🎀超絶最かわ🎀てんしちゃん",
   "username": "@safrerkv",
-  "bio": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+  "bio": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.me/xiangrongTvT\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
   "location": "衫之宫区 北校 C栋楼顶",
-  "link": "https://ngl.link/angelkawaii91133",
+  "link": "https://t.me/+6MOIrdnz1xcxMjVl",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2089691475328315395",
   "bio_entities": {
     "mentions": [
       {
-        "end": 64,
-        "start": 50,
-        "username": "kris_dreammer"
+        "end": 111,
+        "start": 101,
+        "username": "shunyuQAQ"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/xiangrongTvT",
+        "end": 65,
+        "expanded_url": "https://t.me/xiangrongTvT",
+        "start": 42,
+        "url": "https://t.co/tpi8Vbpwcz"
       }
     ]
   },
