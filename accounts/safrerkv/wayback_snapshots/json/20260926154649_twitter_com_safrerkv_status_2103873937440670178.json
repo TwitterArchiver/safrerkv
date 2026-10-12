@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103783296291491856",
+    "created_at": "2026-09-26T15:46:49.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103873937440670178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693900551564718080",
+          "start": 0,
+          "username": "H19990503L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103873937440670178",
+    "in_reply_to_user_id": "1693900551564718080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103783296291491856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H19990503L 我只是一个普通人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_2103783270886580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIjvRGaoAAo0Jg.jpg",
+        "width": 1082
+      },
+      {
+        "duration_ms": 6041,
+        "height": 640,
+        "media_key": "13_2103783270890782720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103783270890782720/img/3wKwMtMuSdTYI9fI.jpg",
+        "public_metrics": {
+          "view_count": 5750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103783270890782720/vid/avc1/320x440/Aaa9fthT0lWuTZPJ.mp4?tag=25"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103783270890782720/vid/avc1/464x640/zcT6lIFWEowhB6dQ.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103783270890782720/pl/H4BACTbjv0ELzuhh.m3u8?tag=25"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103783296291491856",
+        "created_at": "2026-09-26T15:46:49.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103873937440670178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693900551564718080",
+              "start": 0,
+              "username": "H19990503L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103873937440670178",
+        "in_reply_to_user_id": "1693900551564718080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103783296291491856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H19990503L 我只是一个普通人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103783270886580224",
+            "13_2103783270890782720"
+          ]
+        },
+        "author_id": "1693900551564718080",
+        "conversation_id": "2103783296291491856",
+        "created_at": "2026-09-26T09:46:38.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103783296291491856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "王洪文"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr417oxiDs",
+              "end": 165,
+              "expanded_url": "https://x.com/H19990503L/status/2103783296291491856/video/1",
+              "media_key": "3_2103783270886580224",
+              "start": 142,
+              "url": "https://t.co/Tr417oxiDs"
+            },
+            {
+              "display_url": "pic.x.com/Tr417oxiDs",
+              "end": 165,
+              "expanded_url": "https://x.com/H19990503L/status/2103783296291491856/video/1",
+              "media_key": "13_2103783270890782720",
+              "start": 142,
+              "url": "https://t.co/Tr417oxiDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103783296291491856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103783270886580224"
+          },
+          {
+            "media_key": "13_2103783270890782720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10626,
+          "like_count": 78,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "阳刚帅气的红卫兵小将跪在王洪文副主席身前，双膝陷进厚实的地毯里。他身材挺拔、肩宽腰窄，军装衬衫被汗水微微浸透，贴在结实的胸膛和腹肌上，露出一截结实有力的小臂。那张英气逼人的脸上此刻满是潮红，眼神又湿又热，死死盯着副主席的腿。\n他伸出手，掌心滚烫，轻轻覆上王洪文结实的大腿。\n#王洪文 https://t.co/Tr417oxiDs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103873937440670178",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1463,
+          "like_count": 5472,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-22T08:19:26.000Z",
+        "description": "",
+        "id": "1693900551564718080",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2103783296291491856",
+        "name": "佚名",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102378090702004224/Cs8Z9dMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 32,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "H19990503L",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

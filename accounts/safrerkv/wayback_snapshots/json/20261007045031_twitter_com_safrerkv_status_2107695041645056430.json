@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107663877551141365",
+    "created_at": "2026-10-07T04:50:31.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107695041645056430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065847601770209281",
+          "start": 0,
+          "username": "Key7uc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107695041645056430",
+    "in_reply_to_user_id": "2065847601770209281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107694552081690698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Key7uc 原价格买肯德基和麦当劳的汉堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107663877551141365",
+        "created_at": "2026-10-07T04:50:31.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107695041645056430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065847601770209281",
+              "start": 0,
+              "username": "Key7uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107695041645056430",
+        "in_reply_to_user_id": "2065847601770209281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107694552081690698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Key7uc 原价格买肯德基和麦当劳的汉堡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065847601770209281",
+        "conversation_id": "2107663877551141365",
+        "created_at": "2026-10-07T04:48:34.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107694552081690698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107694552081690698",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107663877551141365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 100"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   杯子@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107695041645056430",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 2034,
+          "like_count": 8685,
+          "listed_count": 1,
+          "media_count": 744,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T17:25:23.000Z",
+        "description": "生产日期：2009.05 男性‖欢迎提问，匿名箱→https://t.co/qAclATUgdV‖会发些梗图聊些日常和发牢骚，比较内向社恐，有时精神状态不正常会发疯‖欢迎私信聊天骚扰ᗜ֊ᗜ‖上学期间即星期天到星期六晚上（除了法定节假日以外）都不会上线",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/key7uc",
+                "end": 48,
+                "expanded_url": "https://ngl.link/key7uc",
+                "start": 25,
+                "url": "https://t.co/qAclATUgdV"
+              }
+            ]
+          }
+        },
+        "id": "2065847601770209281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107694552081690698",
+        "name": "Key",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065847601770209281/1785072619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067633843163856896/It9-6-h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 37,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "Key7uc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107652060435132717",
+    "created_at": "2026-10-07T02:08:03.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T03:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107654156647600298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107654156647600298",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107652060435132717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 好好听喵🤤🤤🤤🤤🤤🤤🤤 发现穆穆酱和我的歌品好像很像喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107652060435132717",
+        "created_at": "2026-10-07T02:08:03.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107654156647600298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107654156647600298",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107652060435132717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 好好听喵🤤🤤🤤🤤🤤🤤🤤 发现穆穆酱和我的歌品好像很像喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085457755243167744",
+        "conversation_id": "2107652060435132717",
+        "created_at": "2026-10-07T01:59:44.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T02:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107652060435132717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《night time》，由 Amedeo Serra 演唱，收录于《night time》专辑中，《night time》下载，《night time》在线试听，更多night time相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bh3LyDz4",
+              "end": 54,
+              "expanded_url": "https://163cn.tv/bh3LyDz4",
+              "start": 31,
+              "status": 200,
+              "title": "night time - Amedeo Serra - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=3344082217&uct2=848VyIB7q0FZPCBHpAOcTQ%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&ts-wakeup=&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+              "url": "https://t.co/eLjZpAnFgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107652060435132717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Amedeo Serra的单曲《night time》: https://t.co/eLjZpAnFgM (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107654156647600298",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1998,
+          "like_count": 8642,
+          "listed_count": 1,
+          "media_count": 739,
+          "tweet_count": 3408
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2107653593256104426",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2106051480398799352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 216,
+          "like_count": 7379,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

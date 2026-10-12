@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106293183038517564",
+    "created_at": "2026-10-03T12:44:42.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106364823714074695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1759174755502952448",
+          "start": 0,
+          "username": "scoook166224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106364823714074695",
+    "in_reply_to_user_id": "1759174755502952448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106305958263841168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scoook166224 这我冰你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106293183038517564",
+        "created_at": "2026-10-03T12:44:42.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106364823714074695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1759174755502952448",
+              "start": 0,
+              "username": "scoook166224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106364823714074695",
+        "in_reply_to_user_id": "1759174755502952448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106305958263841168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scoook166224 这我冰你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759174755502952448",
+        "conversation_id": "2106293183038517564",
+        "created_at": "2026-10-03T08:50:48.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106305958263841168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106305958263841168",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106293183038517564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 这你冰我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106364823714074695",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1801,
+          "like_count": 7080,
+          "listed_count": 1,
+          "media_count": 665,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-18T11:15:27.000Z",
+        "description": "10男高/oder(太穷以至于没钱吃饭也没钱买药了)\n会发点o后感和日常\n常年在校\n欢迎互fo",
+        "id": "1759174755502952448",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106344619441102870",
+        "name": "scoook",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759174755502952448/1777595902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937873481934528512/pYVfcz3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 414,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "scoook166224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106580903489384571",
+    "created_at": "2026-10-04T03:42:52.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106590850860101817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089890624392536064",
+          "start": 0,
+          "username": "friedricew2hvr"
+        },
+        {
+          "end": 26,
+          "id": "1959459548680626176",
+          "start": 16,
+          "username": "ysun17222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106590850860101817",
+    "in_reply_to_user_id": "2089890624392536064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106590731641205020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedricew2hvr @ysun17222 😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106580903489384571",
+        "created_at": "2026-10-04T03:42:52.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106590850860101817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089890624392536064",
+              "start": 0,
+              "username": "friedricew2hvr"
+            },
+            {
+              "end": 26,
+              "id": "1959459548680626176",
+              "start": 16,
+              "username": "ysun17222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106590850860101817",
+        "in_reply_to_user_id": "2089890624392536064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106590731641205020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedricew2hvr @ysun17222 😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089890624392536064",
+        "conversation_id": "2106580903489384571",
+        "created_at": "2026-10-04T03:42:23.000Z",
+        "display_text_range": [
+          21,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106590731641205020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 20,
+              "id": "1959459548680626176",
+              "start": 10,
+              "username": "ysun17222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106590731641205020",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106580903489384571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @ysun17222 再他妈发给你俩绑起来扔海里"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106590850860101817",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1826,
+          "like_count": 7344,
+          "listed_count": 1,
+          "media_count": 671,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:43:14.000Z",
+        "description": "不见证，战雷小资历，正常人，6767年前组装落地，成分复杂，欢迎交友！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/jFjU7kdfLH"
+              }
+            ]
+          }
+        },
+        "id": "2089890624392536064",
+        "is_identity_verified": false,
+        "location": "吴家村",
+        "most_recent_tweet_id": "2106590731641205020",
+        "name": "胡锦涛",
+        "pinned_tweet_id": "2105630194362925209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089890624392536064/1791084979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106589199986282497/650IJ7Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 116,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/jFjU7kdfLH",
+        "username": "friedricew2hvr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-24T03:36:04.000Z",
+        "description": "",
+        "id": "1959459548680626176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106304855279284537",
+        "name": "台獨女神🇹🇼🇺🇸🇯🇵",
+        "pinned_tweet_id": "2104403432362947043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959459548680626176/1786018665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105444962804568064/fTfCbxLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 7,
+          "like_count": 76,
+          "listed_count": 12,
+          "media_count": 92,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "ysun17222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

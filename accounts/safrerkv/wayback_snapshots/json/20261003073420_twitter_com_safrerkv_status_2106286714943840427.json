@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106286701161455616",
+        "3_2106286701165645824",
+        "3_2106286701819895809"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106286714943840427",
+    "created_at": "2026-10-03T07:34:20.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106286714943840427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891362165317410816",
+          "start": 1,
+          "username": "Kris_Dreammer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpZ8uYIdGo",
+          "end": 55,
+          "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+          "media_key": "13_2106286701161455616",
+          "start": 32,
+          "url": "https://t.co/KpZ8uYIdGo"
+        },
+        {
+          "display_url": "pic.x.com/KpZ8uYIdGo",
+          "end": 55,
+          "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+          "media_key": "3_2106286701165645824",
+          "start": 32,
+          "url": "https://t.co/KpZ8uYIdGo"
+        },
+        {
+          "display_url": "pic.x.com/KpZ8uYIdGo",
+          "end": 55,
+          "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+          "media_key": "3_2106286701819895809",
+          "start": 32,
+          "url": "https://t.co/KpZ8uYIdGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106286714943840427",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2106286701161455616"
+      },
+      {
+        "media_key": "3_2106286701165645824"
+      },
+      {
+        "media_key": "3_2106286701819895809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮@Kris_Dreammer  乞讨下喵 图三是我的收款码喵 https://t.co/KpZ8uYIdGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3993,
+        "height": 720,
+        "media_key": "13_2106286701161455616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106286701161455616/img/-1mC9s_XdyzItYt_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106286701161455616/vid/avc1/320x320/vWDDgCuecQtN9G1w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106286701161455616/vid/avc1/540x540/CE0KsYHvSopOOzxr.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106286701161455616/vid/avc1/720x720/1yYDu2Z4UZvd_FXB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106286701161455616/pl/ShpZSEdvZ47h6-mm.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2106286701165645824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsImFobkAAlFXA.jpg",
+        "width": 1037
+      },
+      {
+        "height": 628,
+        "media_key": "3_2106286701819895809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsImIEaoAE6jWL.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106286701161455616",
+            "3_2106286701165645824",
+            "3_2106286701819895809"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106286714943840427",
+        "created_at": "2026-10-03T07:34:20.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106286714943840427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891362165317410816",
+              "start": 1,
+              "username": "Kris_Dreammer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpZ8uYIdGo",
+              "end": 55,
+              "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+              "media_key": "13_2106286701161455616",
+              "start": 32,
+              "url": "https://t.co/KpZ8uYIdGo"
+            },
+            {
+              "display_url": "pic.x.com/KpZ8uYIdGo",
+              "end": 55,
+              "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+              "media_key": "3_2106286701165645824",
+              "start": 32,
+              "url": "https://t.co/KpZ8uYIdGo"
+            },
+            {
+              "display_url": "pic.x.com/KpZ8uYIdGo",
+              "end": 55,
+              "expanded_url": "https://x.com/safrerkv/status/2106286714943840427/video/1",
+              "media_key": "3_2106286701819895809",
+              "start": 32,
+              "url": "https://t.co/KpZ8uYIdGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106286714943840427",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106286701161455616"
+          },
+          {
+            "media_key": "3_2106286701165645824"
+          },
+          {
+            "media_key": "3_2106286701819895809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮@Kris_Dreammer  乞讨下喵 图三是我的收款码喵 https://t.co/KpZ8uYIdGo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106286714943840427",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1796,
+          "like_count": 7034,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "昔日的誓言像潮水一样褪去\n取而代之的是讽刺的真相",
+        "id": "1891362165317410816",
+        "is_identity_verified": false,
+        "location": "下水道",
+        "most_recent_tweet_id": "2105926693789847552",
+        "name": "sirk",
+        "pinned_tweet_id": "2065322615787622625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891362165317410816/1787167995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 588,
+          "like_count": 4194,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

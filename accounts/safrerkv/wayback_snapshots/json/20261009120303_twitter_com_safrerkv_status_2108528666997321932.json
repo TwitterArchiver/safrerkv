@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108519916181823489",
+        "3_2108519916198662144"
+      ],
+      "media_source_tweet_id": [
+        "2108519956161925631",
+        "2108519956161925631"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2108528666997321932",
+    "created_at": "2026-10-09T12:03:03.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T13:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108528666997321932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084193735081099264",
+          "start": 3,
+          "username": "Jiaaov_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xYVCS0tU49",
+          "end": 100,
+          "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+          "media_key": "3_2108519916181823489",
+          "start": 77,
+          "url": "https://t.co/xYVCS0tU49"
+        },
+        {
+          "display_url": "pic.x.com/xYVCS0tU49",
+          "end": 100,
+          "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+          "media_key": "3_2108519916198662144",
+          "start": 77,
+          "url": "https://t.co/xYVCS0tU49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108528666997321932",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108519916181823489"
+      },
+      {
+        "media_key": "3_2108519916198662144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108519956161925631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiaaov_y: 你们好这里颜慕 以下是代购须知\n回消息慢+不及时 介意勿来♪(´ε｀ )\n需要的私信或+q 393🤍2292🩶047备注来意 https://t.co/xYVCS0tU49"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2108519916181823489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUL3sT3aoAE_edO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2108519916198662144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUL3sT7bkAAa36a.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108519916181823489",
+            "3_2108519916198662144"
+          ],
+          "media_source_tweet_id": [
+            "2108519956161925631",
+            "2108519956161925631"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2108528666997321932",
+        "created_at": "2026-10-09T12:03:03.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108528666997321932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084193735081099264",
+              "start": 3,
+              "username": "Jiaaov_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYVCS0tU49",
+              "end": 100,
+              "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+              "media_key": "3_2108519916181823489",
+              "start": 77,
+              "url": "https://t.co/xYVCS0tU49"
+            },
+            {
+              "display_url": "pic.x.com/xYVCS0tU49",
+              "end": 100,
+              "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+              "media_key": "3_2108519916198662144",
+              "start": 77,
+              "url": "https://t.co/xYVCS0tU49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108528666997321932",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108519916181823489"
+          },
+          {
+            "media_key": "3_2108519916198662144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108519956161925631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiaaov_y: 你们好这里颜慕 以下是代购须知\n回消息慢+不及时 介意勿来♪(´ε｀ )\n需要的私信或+q 393🤍2292🩶047备注来意 https://t.co/xYVCS0tU49"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108519916181823489",
+            "3_2108519916198662144"
+          ]
+        },
+        "author_id": "2084193735081099264",
+        "conversation_id": "2108519956161925631",
+        "created_at": "2026-10-09T11:28:26.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108519956161925631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYVCS0tU49",
+              "end": 86,
+              "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+              "media_key": "3_2108519916181823489",
+              "start": 63,
+              "url": "https://t.co/xYVCS0tU49"
+            },
+            {
+              "display_url": "pic.x.com/xYVCS0tU49",
+              "end": 86,
+              "expanded_url": "https://x.com/Jiaaov_y/status/2108519956161925631/photo/1",
+              "media_key": "3_2108519916198662144",
+              "start": 63,
+              "url": "https://t.co/xYVCS0tU49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108519956161925631",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108519916181823489"
+          },
+          {
+            "media_key": "3_2108519916198662144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们好这里颜慕 以下是代购须知\n回消息慢+不及时 介意勿来♪(´ε｀ )\n需要的私信或+q 393🤍2292🩶047备注来意 https://t.co/xYVCS0tU49"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108528666997321932",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2108174277392703642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1791457178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 2042,
+          "like_count": 9052,
+          "listed_count": 1,
+          "media_count": 779,
+          "tweet_count": 3650
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T08:25:25.000Z",
+        "description": "2013.5.28🎂/顺女/友一切/name颜慕或小佳/社交障碍/pjsk/喵斯/中文日文粤语⭕️/英语学习中/NSSI/普瑞戒断中/戒割/轻度ADHD/💊🔪🚬/pr🉑代/坐标深圳罗湖/普瑞阿片享受者/免🚪/喜好物理与药理学/同类互fo/fo全回/逃生舱@Jiaovyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "Jiaovyy"
+              }
+            ]
+          }
+        },
+        "id": "2084193735081099264",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2108527327848411210",
+        "name": "颜慕(出售平壤",
+        "pinned_tweet_id": "2108519956161925631",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084193735081099264/1787659992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092223716663103488/2lEwOjBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 159,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "Jiaaov_y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

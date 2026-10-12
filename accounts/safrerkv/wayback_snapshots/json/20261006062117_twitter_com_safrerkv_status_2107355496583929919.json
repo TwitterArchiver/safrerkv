@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107328977958510710",
+    "created_at": "2026-10-06T06:21:17.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107355496583929919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018259303736782848",
+          "start": 0,
+          "username": "xlzxg100812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107355496583929919",
+    "in_reply_to_user_id": "2018259303736782848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107355186411053293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlzxg100812 因为我得病了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107328977958510710",
+        "created_at": "2026-10-06T06:21:17.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107355496583929919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018259303736782848",
+              "start": 0,
+              "username": "xlzxg100812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107355496583929919",
+        "in_reply_to_user_id": "2018259303736782848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107355186411053293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlzxg100812 因为我得病了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018259303736782848",
+        "conversation_id": "2107328977958510710",
+        "created_at": "2026-10-06T06:20:03.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107355186411053293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107355186411053293",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107353695264608419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 可注意着点吧，所以为啥吃药啊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107355496583929919",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 1982,
+          "like_count": 8460,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:45:07.000Z",
+        "description": "王沪宁，男，汉族，1955年10月生，山东莱州人，1977年2月参加工作，1984年4月加入中国共产党，复旦大学国际政治系国际政治专业毕业，研究生学历，法学硕士学位，教授。\n现任中央政治局常委，第十四届全国政协主席、党组书记，中央全面深化改革委员会办公室主任，中国和平统一促进会会长。",
+        "id": "2018259303736782848",
+        "is_identity_verified": false,
+        "location": "中共中央办公厅",
+        "most_recent_tweet_id": "2107355186411053293",
+        "name": "王沪宁（下路张小怪☭）",
+        "pinned_tweet_id": "2106690928127902149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018259303736782848/1791109910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106691613682749440/nFe4OGN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 269,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "xlzxg100812",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

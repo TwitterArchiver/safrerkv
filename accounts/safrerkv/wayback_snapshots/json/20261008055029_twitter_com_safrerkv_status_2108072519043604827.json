@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2108047182049984634",
+    "created_at": "2026-10-08T05:50:29.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T06:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108072519043604827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884513420965482496",
+          "start": 0,
+          "username": "cool_light_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108072519043604827",
+    "in_reply_to_user_id": "1884513420965482496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108072204969906634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cool_light_ 早安喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2108047182049984634",
+        "created_at": "2026-10-08T05:50:29.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T06:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108072519043604827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884513420965482496",
+              "start": 0,
+              "username": "cool_light_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108072519043604827",
+        "in_reply_to_user_id": "1884513420965482496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108072204969906634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cool_light_ 早安喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884513420965482496",
+        "conversation_id": "2108047182049984634",
+        "created_at": "2026-10-08T05:49:14.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108072204969906634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108072204969906634",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108047182049984634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 早安喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108072519043604827",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 2043,
+          "like_count": 8876,
+          "listed_count": 1,
+          "media_count": 764,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T08:06:46.000Z",
+        "description": "神的诞生日 2011.11.1丨神的名字 冷光丨重抑重焦丨🔪✋丨💊丨希望能和大家交朋友呢喵呜丨对一切事物友好",
+        "id": "1884513420965482496",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2108072204969906634",
+        "name": "昨日的梦是否醒来",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066865705484734464/J_Xvw7OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 422,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "cool_light_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

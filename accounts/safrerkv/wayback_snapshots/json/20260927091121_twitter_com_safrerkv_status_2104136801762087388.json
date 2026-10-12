@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104044195476582561",
+    "created_at": "2026-09-27T09:11:21.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104136801762087388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090390129408167936",
+          "start": 0,
+          "username": "DizzyHikari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104136801762087388",
+    "in_reply_to_user_id": "2090390129408167936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104112029913190662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DizzyHikari 比我强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2104112012301131776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNOuiTXYAAP4_J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104044195476582561",
+        "created_at": "2026-09-27T09:11:21.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104136801762087388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090390129408167936",
+              "start": 0,
+              "username": "DizzyHikari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104136801762087388",
+        "in_reply_to_user_id": "2090390129408167936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104112029913190662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DizzyHikari 比我强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104112012301131776"
+          ]
+        },
+        "author_id": "2090390129408167936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104044195476582561",
+        "created_at": "2026-09-27T07:32:55.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104112029913190662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlV5Z0ORUg",
+              "end": 50,
+              "expanded_url": "https://x.com/DizzyHikari/status/2104112029913190662/photo/1",
+              "media_key": "3_2104112012301131776",
+              "start": 27,
+              "url": "https://t.co/hlV5Z0ORUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104112029913190662",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104112012301131776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104044195476582561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 你的rks，竟然有13.5吗…… https://t.co/hlV5Z0ORUg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104136801762087388",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1513,
+          "like_count": 5720,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T10:47:53.000Z",
+        "description": "可以叫我Hikari/DizzyHikari/光/晕乎乎的光光║高二║抖m║暂不od║被家长制裁不能买糖║重抑重焦║臆想症║精神类药物摄入中║有时会割║和没用一样的证║已炸柜，不被支持║INFP║听术大多小众║Q群1075805212欢迎进入目前少人║音游人║月计人║如果伤到你那很抱歉║也请说话时留手，很容易被伤到……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/DizzyHikari",
+                "end": 23,
+                "expanded_url": "https://t.me/DizzyHikari",
+                "start": 0,
+                "url": "https://t.co/yIPHC6Q7kb"
+              }
+            ]
+          }
+        },
+        "id": "2090390129408167936",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2104112029913190662",
+        "name": "Hikari🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090390129408167936/1789392984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103814454760640512/oSkzM9ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 90,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/yIPHC6Q7kb",
+        "username": "DizzyHikari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

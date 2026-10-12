@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104948448453960059",
+    "created_at": "2026-09-30T10:19:04.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105241009403900075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089408201209102336",
+          "start": 0,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105241009403900075",
+    "in_reply_to_user_id": "2089408201209102336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104948448453960059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuzhuzhuzhusiz 兴奋剂合成中..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20366,
+        "height": 1920,
+        "media_key": "13_2104948179716435968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104948179716435968/img/gZ7HaPkPKMbiTImH.jpg",
+        "public_metrics": {
+          "view_count": 993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104948179716435968/vid/avc1/320x568/7Q_ZGdur0IsLQkv0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104948179716435968/vid/avc1/1080x1920/UvrXWElS38tCovwQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104948179716435968/vid/avc1/480x852/SwKxNLSZDVkqKdPP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104948179716435968/pl/Xn93OH-pxmmb0xP4.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104948179716435968/vid/avc1/720x1280/qjmZnxcf0Dbqk9K6.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104948448453960059",
+        "created_at": "2026-09-30T10:19:04.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105241009403900075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089408201209102336",
+              "start": 0,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105241009403900075",
+        "in_reply_to_user_id": "2089408201209102336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104948448453960059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuzhuzhuzhusiz 兴奋剂合成中..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104948179716435968"
+          ]
+        },
+        "author_id": "2089408201209102336",
+        "conversation_id": "2104948448453960059",
+        "created_at": "2026-09-29T14:56:32.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104948448453960059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmvSmx6ovD",
+              "end": 47,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2104948448453960059/video/1",
+              "media_key": "13_2104948179716435968",
+              "start": 24,
+              "url": "https://t.co/SmvSmx6ovD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104948448453960059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104948179716435968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1689,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个视频值得一个补档\n古法兴奋剂制作教程 https://t.co/SmvSmx6ovD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋  我叫相融 会发梗图or大份    提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105241009403900075",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1654,
+          "like_count": 6337,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "@wbuzdwsmdoubzd\njj @shashatsi7\n防炸@zerooooouy69",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "wbuzdwsmdoubzd"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "shashatsi7"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "zerooooouy69"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105235034546569233",
+        "name": "炸炸的玉6.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103850772836519936/EBoWFVsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 299,
+          "like_count": 1901,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

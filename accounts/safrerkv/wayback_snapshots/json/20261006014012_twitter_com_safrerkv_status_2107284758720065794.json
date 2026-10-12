@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107274829862944782",
+    "created_at": "2026-10-06T01:40:12.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T02:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107284758720065794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080270067426832384",
+          "start": 0,
+          "username": "chubailuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107284758720065794",
+    "in_reply_to_user_id": "2080270067426832384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107274829862944782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chubailuo 早安～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107274829862944782",
+        "created_at": "2026-10-06T01:40:12.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107284758720065794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080270067426832384",
+              "start": 0,
+              "username": "chubailuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107284758720065794",
+        "in_reply_to_user_id": "2080270067426832384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107274829862944782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chubailuo 早安～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080270067426832384",
+        "conversation_id": "2107274829862944782",
+        "created_at": "2026-10-06T01:00:45.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107274829862944782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107274829862944782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米娜桑早安喵ฅ₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎ฅ˒˒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107284758720065794",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1955,
+          "like_count": 8394,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T12:36:02.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n（人类社会已经没救了，目前最喜欢🇦🇶）\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2080270067426832384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107281858568614265",
+        "name": "初白洛🇦🇶",
+        "pinned_tweet_id": "2106035744540426576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080270067426832384/1790348189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105347660807049216/dKxy1NTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 477,
+          "like_count": 3056,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "chubailuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

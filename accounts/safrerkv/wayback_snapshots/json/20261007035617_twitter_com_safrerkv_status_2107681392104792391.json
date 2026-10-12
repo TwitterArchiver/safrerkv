@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107663877551141365",
+    "created_at": "2026-10-07T03:56:17.000Z",
+    "display_text_range": [
+      28,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107681392104792391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046586348811984896",
+          "start": 0,
+          "username": "otorinqwq"
+        },
+        {
+          "end": 27,
+          "id": "2090037143972593664",
+          "start": 11,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107681392104792391",
+    "in_reply_to_user_id": "2046586348811984896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107680996649021702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otorinqwq @Acetaffyismymom 到底有多弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107663877551141365",
+        "created_at": "2026-10-07T03:56:17.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107681392104792391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046586348811984896",
+              "start": 0,
+              "username": "otorinqwq"
+            },
+            {
+              "end": 27,
+              "id": "2090037143972593664",
+              "start": 11,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107681392104792391",
+        "in_reply_to_user_id": "2046586348811984896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107680996649021702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otorinqwq @Acetaffyismymom 到底有多弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046586348811984896",
+        "conversation_id": "2107663877551141365",
+        "created_at": "2026-10-07T03:54:43.000Z",
+        "display_text_range": [
+          27,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107680996649021702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            },
+            {
+              "end": 26,
+              "id": "2090037143972593664",
+              "start": 10,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107680996649021702",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107668473593868644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv @Acetaffyismymom 到底有多强"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   杯子@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107681392104792391",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 2032,
+          "like_count": 8668,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 3434
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T13:46:36.000Z",
+        "description": "爱看梗图，社会自由主义者，反对民粹主义",
+        "id": "2046586348811984896",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2107681184092483746",
+        "name": "rin oto",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096184007012851714/57eerue3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "otorinqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/中焦重抑/病毒性角膜炎常發 只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2107671335724016030",
+        "name": "塔菲是我疊二代機",
+        "pinned_tweet_id": "2103838893317689710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 569,
+          "like_count": 3504,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

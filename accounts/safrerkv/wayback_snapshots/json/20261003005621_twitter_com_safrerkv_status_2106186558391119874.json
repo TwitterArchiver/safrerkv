@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106185624139280622",
+    "created_at": "2026-10-03T00:56:21.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T01:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106186558391119874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065847601770209281",
+          "start": 0,
+          "username": "Key7uc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106186558391119874",
+    "in_reply_to_user_id": "2065847601770209281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106185624139280622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Key7uc 唉阿片👻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106185624139280622",
+        "created_at": "2026-10-03T00:56:21.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106186558391119874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065847601770209281",
+              "start": 0,
+              "username": "Key7uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106186558391119874",
+        "in_reply_to_user_id": "2065847601770209281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106185624139280622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Key7uc 唉阿片👻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065847601770209281",
+        "conversation_id": "2106185624139280622",
+        "created_at": "2026-10-03T00:52:38.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106185624139280622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/safrerkv/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/safrerkv/status/2105955241254617582",
+              "start": 6,
+              "url": "https://t.co/goP1Krtb8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106185624139280622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105955241254617582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别为阿片 https://t.co/goP1Krtb8s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106186558391119874",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 1780,
+          "like_count": 6946,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T17:25:23.000Z",
+        "description": "生产日期：2009.05 男性‖欢迎提问，匿名箱→https://t.co/qAclATUgdV‖会发些梗图聊些日常和发牢骚，比较内向社恐，有时精神状态不正常会发疯‖欢迎私信聊天骚扰ᗜ֊ᗜ‖上学期间即星期天到星期六晚上（除了法定节假日以外）都不会上线",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/key7uc",
+                "end": 48,
+                "expanded_url": "https://ngl.link/key7uc",
+                "start": 25,
+                "url": "https://t.co/qAclATUgdV"
+              }
+            ]
+          }
+        },
+        "id": "2065847601770209281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106185624139280622",
+        "name": "Key",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065847601770209281/1785072619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067633843163856896/It9-6-h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 4189,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "Key7uc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

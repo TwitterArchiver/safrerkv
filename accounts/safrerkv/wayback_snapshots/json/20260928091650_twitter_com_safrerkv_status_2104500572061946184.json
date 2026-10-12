@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104222215474753536"
+      ],
+      "media_source_tweet_id": [
+        "2104222372714946563"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104500572061946184",
+    "created_at": "2026-09-28T09:16:50.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104500572061946184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096778116714917888",
+          "start": 3,
+          "username": "china_kanae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fEjy1b3dYq",
+          "end": 69,
+          "expanded_url": "https://x.com/china_kanae/status/2104222372714946563/photo/1",
+          "media_key": "3_2104222215474753536",
+          "start": 46,
+          "url": "https://t.co/fEjy1b3dYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104500572061946184",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104222215474753536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104222372714946563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @china_kanae: 秦谷さん...！！そ、そんな、大胆ですわ～～～！！/// https://t.co/fEjy1b3dYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2104222215474753536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOy9NHbsAADVqh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104222215474753536"
+          ],
+          "media_source_tweet_id": [
+            "2104222372714946563"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104500572061946184",
+        "created_at": "2026-09-28T09:16:50.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104500572061946184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096778116714917888",
+              "start": 3,
+              "username": "china_kanae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEjy1b3dYq",
+              "end": 69,
+              "expanded_url": "https://x.com/china_kanae/status/2104222372714946563/photo/1",
+              "media_key": "3_2104222215474753536",
+              "start": 46,
+              "url": "https://t.co/fEjy1b3dYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104500572061946184",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104222215474753536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104222372714946563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @china_kanae: 秦谷さん...！！そ、そんな、大胆ですわ～～～！！/// https://t.co/fEjy1b3dYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104222215474753536"
+          ]
+        },
+        "author_id": "2096778116714917888",
+        "conversation_id": "2104222372714946563",
+        "created_at": "2026-09-27T14:51:22.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104222372714946563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEjy1b3dYq",
+              "end": 52,
+              "expanded_url": "https://x.com/china_kanae/status/2104222372714946563/photo/1",
+              "media_key": "3_2104222215474753536",
+              "start": 29,
+              "url": "https://t.co/fEjy1b3dYq"
+            },
+            {
+              "display_url": "x.com/china_kanae/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/china_kanae/status/2103771369968443703",
+              "start": 53,
+              "url": "https://t.co/4sAf3LQ4vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104222372714946563",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104222215474753536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1334,
+          "impression_count": 106129,
+          "like_count": 7819,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103771369968443703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "秦谷さん...！！そ、そんな、大胆ですわ～～～！！/// https://t.co/fEjy1b3dYq https://t.co/4sAf3LQ4vn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104500572061946184",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 1553,
+          "like_count": 5857,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T01:51:37.000Z",
+        "description": "",
+        "id": "2096778116714917888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104222372714946563",
+        "name": "倉本千奈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096778527760896000/03oO5dah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "china_kanae",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

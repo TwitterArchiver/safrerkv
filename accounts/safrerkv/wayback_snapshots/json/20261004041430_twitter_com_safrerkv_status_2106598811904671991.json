@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106329335410167990",
+    "created_at": "2026-10-04T04:14:30.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106598811904671991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090037143972593664",
+          "start": 0,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106598811904671991",
+    "in_reply_to_user_id": "2090037143972593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106329335410167990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetaffyismymom 应该是CNS抑制？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106329335410167990",
+        "created_at": "2026-10-04T04:14:30.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106598811904671991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090037143972593664",
+              "start": 0,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106598811904671991",
+        "in_reply_to_user_id": "2090037143972593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106329335410167990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetaffyismymom 应该是CNS抑制？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090037143972593664",
+        "conversation_id": "2106329335410167990",
+        "created_at": "2026-10-03T10:23:41.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106329335410167990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106329335410167990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂药理学的人给我解释一下为什么吃了舍曲林两周以后酒精耐受度变低了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106598811904671991",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1833,
+          "like_count": 7347,
+          "listed_count": 1,
+          "media_count": 672,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/中焦重抑/病毒性角膜炎常發 只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2106595854367006981",
+        "name": "塔菲是我疊二代機",
+        "pinned_tweet_id": "2103838893317689710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 508,
+          "like_count": 3041,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

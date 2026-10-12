@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104190454774239685",
+    "created_at": "2026-09-27T13:37:13.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104203711094612311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089890624392536064",
+          "start": 0,
+          "username": "friedricew2hvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104203711094612311",
+    "in_reply_to_user_id": "2089890624392536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104190454774239685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedricew2hvr 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2104190446683688960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOWEBJaEAAF32u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104190454774239685",
+        "created_at": "2026-09-27T13:37:13.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104203711094612311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089890624392536064",
+              "start": 0,
+              "username": "friedricew2hvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104203711094612311",
+        "in_reply_to_user_id": "2089890624392536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104190454774239685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedricew2hvr 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104190446683688960"
+          ]
+        },
+        "author_id": "2089890624392536064",
+        "conversation_id": "2104190454774239685",
+        "created_at": "2026-09-27T12:44:33.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104190454774239685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYii1IfY10",
+              "end": 37,
+              "expanded_url": "https://x.com/friedricew2hvr/status/2104190454774239685/photo/1",
+              "media_key": "3_2104190446683688960",
+              "start": 14,
+              "url": "https://t.co/pYii1IfY10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104190454774239685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104190446683688960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没事就当个啥子感觉特别通透 https://t.co/pYii1IfY10"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104203711094612311",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1534,
+          "like_count": 5783,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:43:14.000Z",
+        "description": "不见证，战雷小资历，正常人，6767年前组装落地，🏳️‍⚧️，成分复杂，欢迎交友！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/jFjU7kdfLH"
+              }
+            ]
+          }
+        },
+        "id": "2089890624392536064",
+        "is_identity_verified": false,
+        "location": "吴家村",
+        "most_recent_tweet_id": "2104202813551366146",
+        "name": "かわいい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089890624392536064/1790512477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102719932882378752/6bsu5AZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/jFjU7kdfLH",
+        "username": "friedricew2hvr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

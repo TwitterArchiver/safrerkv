@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106386945555513789",
+    "created_at": "2026-10-04T05:56:30.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106624482307977656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050914237397286912",
+          "start": 0,
+          "username": "FurukawaNagisaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106624482307977656",
+    "in_reply_to_user_id": "2050914237397286912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106386945555513789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurukawaNagisaa 这只是我的低谷时期"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2106386931085107200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtjwPLaYAARHBa.jpg",
+        "width": 389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106386945555513789",
+        "created_at": "2026-10-04T05:56:30.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106624482307977656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106624482307977656",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106386945555513789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurukawaNagisaa 这只是我的低谷时期"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106386931085107200"
+          ]
+        },
+        "author_id": "2050914237397286912",
+        "conversation_id": "2106386945555513789",
+        "created_at": "2026-10-03T14:12:37.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106386945555513789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihEwv6mXEY",
+              "end": 28,
+              "expanded_url": "https://x.com/FurukawaNagisaa/status/2106386945555513789/photo/1",
+              "media_key": "3_2106386931085107200",
+              "start": 5,
+              "url": "https://t.co/ihEwv6mXEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106386945555513789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106386931085107200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 31449,
+          "like_count": 706,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "审美积累 https://t.co/ihEwv6mXEY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106624482307977656",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 1846,
+          "like_count": 7371,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我是睿睿Chiang｜如果你愿意的话可以叫我Ricky🥰……\n戾气跟刻薄麻烦走走开，友善与美好请进来看看^_^\n问我问题：https://t.co/VkGmIzO2UF\n宝宝🥺：@maorenzhina8964💗\nOsaka是Osaka，明乃是明乃\nOsaka跟明乃一边一人😡👊🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "maorenzhina8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jrz121",
+                "end": 84,
+                "expanded_url": "https://ngl.link/jrz121",
+                "start": 61,
+                "url": "https://t.co/VkGmIzO2UF"
+              }
+            ]
+          }
+        },
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106623174251364505",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2104479713809027531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1790689086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 148,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107722002761208162",
+    "created_at": "2026-10-07T08:47:49.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T09:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107754761177203179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032464170806120448",
+          "start": 0,
+          "username": "198964aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107754761177203179",
+    "in_reply_to_user_id": "2032464170806120448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107722002761208162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@198964aa 来不及了就邓小平了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12329,
+        "height": 1280,
+        "media_key": "13_2107721966639894528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107721966639894528/img/41PmHV2aJ1pqGv0a.jpg",
+        "public_metrics": {
+          "view_count": 1279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107721966639894528/vid/avc1/320x568/XfI6Q6v3a9HrLqkm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107721966639894528/vid/avc1/480x852/oVKvYxSMAgG5aFEA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107721966639894528/vid/avc1/720x1280/C24ytV5Zlq6Hf_DA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107721966639894528/pl/yT7cmxRHUBSQ0xwA.m3u8?v=e78"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107721994670350336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAh_KmaoAA5X5M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107722002761208162",
+        "created_at": "2026-10-07T08:47:49.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107754761177203179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032464170806120448",
+              "start": 0,
+              "username": "198964aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107754761177203179",
+        "in_reply_to_user_id": "2032464170806120448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107722002761208162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@198964aa 来不及了就邓小平了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107721966639894528",
+            "3_2107721994670350336"
+          ]
+        },
+        "author_id": "2032464170806120448",
+        "conversation_id": "2107722002761208162",
+        "created_at": "2026-10-07T06:37:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107722002761208162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "男娘"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "femboy"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "四爱"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "iiii"
+            },
+            {
+              "end": 70,
+              "start": 68,
+              "tag": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3uJcqQeIC",
+              "end": 94,
+              "expanded_url": "https://x.com/198964aa/status/2107722002761208162/video/1",
+              "media_key": "13_2107721966639894528",
+              "start": 71,
+              "url": "https://t.co/X3uJcqQeIC"
+            },
+            {
+              "display_url": "pic.x.com/X3uJcqQeIC",
+              "end": 94,
+              "expanded_url": "https://x.com/198964aa/status/2107722002761208162/video/1",
+              "media_key": "3_2107721994670350336",
+              "start": 71,
+              "url": "https://t.co/X3uJcqQeIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107722002761208162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107721966639894528"
+          },
+          {
+            "media_key": "3_2107721994670350336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1779,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400fo千户万唤使出来（还有大家都想看的腿照），当你在见证的时候发现邓公在跳可爱颂时： #男娘 #femboy #四爱  #iiii #m https://t.co/X3uJcqQeIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   主人@shunyuQAQ想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107754761177203179",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2034,
+          "like_count": 8736,
+          "listed_count": 1,
+          "media_count": 753,
+          "tweet_count": 3482
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T14:30:25.000Z",
+        "description": "溫良社民 挺跨挺同 希望對所有人都可以很友好 喜歡交友 资产阶级自由化男娘（很喜欢很喜欢赵紫阳）",
+        "id": "2032464170806120448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107754532331794938",
+        "name": "男娘邓小平🇭🇰🏳️‍🌈🏳️‍⚧️🇹🇼🍥",
+        "pinned_tweet_id": "2092993518696562907",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032464170806120448/1789164621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106291896578641920/8IT3WyCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 436,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "198964aa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

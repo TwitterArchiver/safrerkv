@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "2103848092978274374",
+    "created_at": "2026-09-26T14:04:07.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103848092978274374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2929136138",
+          "start": 3,
+          "username": "ado1024imokenp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103848092978274374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2934
+    },
+    "referenced_tweets": [
+      {
+        "id": "934429681108914176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ado1024imokenp: @honoeririn @_harunico_ 貧乳は正義"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "2103848092978274374",
+        "created_at": "2026-09-26T14:04:07.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103848092978274374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2929136138",
+              "start": 3,
+              "username": "ado1024imokenp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103848092978274374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2934
+        },
+        "referenced_tweets": [
+          {
+            "id": "934429681108914176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ado1024imokenp: @honoeririn @_harunico_ 貧乳は正義"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2929136138",
+        "conversation_id": "934425061284442112",
+        "created_at": "2017-11-25T14:32:51.000Z",
+        "display_text_range": [
+          24,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2017-11-25T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "934429681108914176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "934429681108914176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1973,
+          "impression_count": 0,
+          "like_count": 12693,
+          "quote_count": 359,
+          "reply_count": 151,
+          "retweet_count": 2934
+        },
+        "reply_settings": "everyone",
+        "text": "@honoeririn @_harunico_ 貧乳は正義"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103848092978274374",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 1450,
+          "like_count": 5404,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "is_identity_verified": false,
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "most_recent_tweet_id": "2102742167097864312",
+        "name": "Ado",
+        "pinned_tweet_id": "2009642174506529231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2929136138/1674294210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039283475816267776/hlTPvQXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124018,
+          "following_count": 700,
+          "like_count": 53324,
+          "listed_count": 4106,
+          "media_count": 1112,
+          "tweet_count": 32892
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

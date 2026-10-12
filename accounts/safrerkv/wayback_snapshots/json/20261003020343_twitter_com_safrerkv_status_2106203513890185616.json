@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106010814281056256"
+      ],
+      "media_source_tweet_id": [
+        "2106010823428817097"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106203513890185616",
+    "created_at": "2026-10-03T02:03:43.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106203513890185616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081898841343934464",
+          "start": 3,
+          "username": "RayChen2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXHwnhfwxk",
+          "end": 40,
+          "expanded_url": "https://x.com/RayChen2009/status/2106010823428817097/photo/1",
+          "media_key": "3_2106010814281056256",
+          "start": 17,
+          "url": "https://t.co/NXHwnhfwxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106203513890185616",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106010814281056256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106010823428817097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RayChen2009: https://t.co/NXHwnhfwxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2106010814281056256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToNrW5agAAqReb.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106010814281056256"
+          ],
+          "media_source_tweet_id": [
+            "2106010823428817097"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106203513890185616",
+        "created_at": "2026-10-03T02:03:43.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106203513890185616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081898841343934464",
+              "start": 3,
+              "username": "RayChen2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXHwnhfwxk",
+              "end": 40,
+              "expanded_url": "https://x.com/RayChen2009/status/2106010823428817097/photo/1",
+              "media_key": "3_2106010814281056256",
+              "start": 17,
+              "url": "https://t.co/NXHwnhfwxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106203513890185616",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106010814281056256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106010823428817097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RayChen2009: https://t.co/NXHwnhfwxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106010814281056256"
+          ]
+        },
+        "author_id": "2081898841343934464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106010823428817097",
+        "created_at": "2026-10-02T13:18:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106010823428817097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXHwnhfwxk",
+              "end": 23,
+              "expanded_url": "https://x.com/RayChen2009/status/2106010823428817097/photo/1",
+              "media_key": "3_2106010814281056256",
+              "start": 0,
+              "url": "https://t.co/NXHwnhfwxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106010823428817097",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106010814281056256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3534,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NXHwnhfwxk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106203513890185616",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 1780,
+          "like_count": 6958,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T00:26:40.000Z",
+        "description": "蓝v互fo❗️大陆高中生｜男\n好笑的先转了再说｜我的第二个朋友圈\n成为你自己 · 𝘉𝘦𝘤𝘰𝘮𝘦 𝘸𝘩𝘰 𝘺𝘰𝘶 𝘢𝘳𝘦\n偶尔嘴欠，欢迎交友 (｡･ω･｡)ﾉ♡",
+        "id": "2081898841343934464",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2106202173659037924",
+        "name": "Ray Chen",
+        "pinned_tweet_id": "2104071285836058895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081898841343934464/1788675060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096481220926570496/VlAST79N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 249,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "RayChen2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

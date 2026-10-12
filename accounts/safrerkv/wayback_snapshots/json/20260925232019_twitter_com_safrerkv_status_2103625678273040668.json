@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103395548283937015",
+    "created_at": "2026-09-25T23:20:19.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T00:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103625678273040668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069070871088803840",
+          "start": 0,
+          "username": "ib3t1gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103625678273040668",
+    "in_reply_to_user_id": "2069070871088803840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103395548283937015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ib3t1gg 好没边界感啊我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2103395540021248000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDDGXEbgAA32OW.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103395548283937015",
+        "created_at": "2026-09-25T23:20:19.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103625678273040668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069070871088803840",
+              "start": 0,
+              "username": "ib3t1gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103625678273040668",
+        "in_reply_to_user_id": "2069070871088803840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103395548283937015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ib3t1gg 好没边界感啊我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103395540021248000"
+          ]
+        },
+        "author_id": "2069070871088803840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103395548283937015",
+        "created_at": "2026-09-25T08:05:52.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103395548283937015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7ymZJnpZP",
+              "end": 169,
+              "expanded_url": "https://x.com/ib3t1gg/status/2103395548283937015/photo/1",
+              "media_key": "3_2103395540021248000",
+              "start": 146,
+              "url": "https://t.co/G7ymZJnpZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103395548283937015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103395540021248000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12954,
+          "like_count": 176,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "被没情商室友看到手上的疤之后日常就是。\n在班里突然问“你请假是在家自残吗，你是地雷女吗”\n我随身带应急药包，她看到在那问“唉你是不是也磕药啊，我看网上那些地雷妹都这样”\n“哎呀我有一个朋友也自残，她也……”\n不回答就一直在全是人的时候大声反复问。一定要我大声制止才会停。\n放假了突然给我发。 https://t.co/G7ymZJnpZP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103625678273040668",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1393,
+          "like_count": 5188,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T14:58:20.000Z",
+        "description": "bi。我是昕雪。@9wvyi这个号不怎么用了。\n私信随缘回。我都会看但是有的不想回。\n不看几把",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 8,
+                "username": "9wvyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxue2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxue2",
+                "start": 0,
+                "url": "https://t.co/NALk5sJvvq"
+              }
+            ]
+          }
+        },
+        "id": "2069070871088803840",
+        "is_identity_verified": false,
+        "location": "你的身边",
+        "most_recent_tweet_id": "2103516239905882453",
+        "name": "说清楚就不可爱了",
+        "pinned_tweet_id": "2082828757761765458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069070871088803840/1785071238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081365694541975552/nMJcGiep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 90,
+          "like_count": 11123,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/NALk5sJvvq",
+        "username": "ib3t1gg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

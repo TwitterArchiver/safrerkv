@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106028463304130954",
+    "created_at": "2026-10-02T15:58:44.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106051262986989579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712408820574793728",
+          "start": 0,
+          "username": "Amadeus22590723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106051262986989579",
+    "in_reply_to_user_id": "1712408820574793728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106051094984200697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amadeus22590723 你只是害怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106028463304130954",
+        "created_at": "2026-10-02T15:58:44.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106051262986989579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712408820574793728",
+              "start": 0,
+              "username": "Amadeus22590723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106051262986989579",
+        "in_reply_to_user_id": "1712408820574793728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106051094984200697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amadeus22590723 你只是害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "2106028463304130954",
+        "created_at": "2026-10-02T15:58:04.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106051094984200697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106051094984200697",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106028463304130954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv ?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106051262986989579",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1764,
+          "like_count": 6873,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2705
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "她已息了地上的劳苦，归回天家，在主怀中安然居住。阿门。",
+        "id": "1712408820574793728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106051094984200697",
+        "name": "^ ^",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712408820574793728/1788468356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 189,
+          "like_count": 16563,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "Amadeus22590723",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

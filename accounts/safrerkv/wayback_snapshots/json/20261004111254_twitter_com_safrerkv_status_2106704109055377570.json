@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106703055974486276",
+    "created_at": "2026-10-04T11:12:54.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106704109055377570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2085173242814451712",
+          "start": 0,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106704109055377570",
+    "in_reply_to_user_id": "2085173242814451712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106703055974486276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda4_8964 我吃😍🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106703055974486276",
+        "created_at": "2026-10-04T11:12:54.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106704109055377570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106704109055377570",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703055974486276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 我吃😍🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085173242814451712",
+        "conversation_id": "2106703055974486276",
+        "created_at": "2026-10-04T11:08:43.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106703055974486276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106703055974486276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天来点吃了不烧心的普瑞巴林和鸡巴喷精"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106704109055377570",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1864,
+          "like_count": 7537,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2106703055974486276",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️(4.0)",
+        "pinned_tweet_id": "2105276718181179901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1790836439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 142,
+          "like_count": 10148,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

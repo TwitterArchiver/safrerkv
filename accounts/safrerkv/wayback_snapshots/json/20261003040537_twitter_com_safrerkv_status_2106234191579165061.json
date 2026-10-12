@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106216528295461370",
+    "created_at": "2026-10-03T04:05:37.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106234191579165061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091563899133059072",
+          "start": 0,
+          "username": "Emberbssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106234191579165061",
+    "in_reply_to_user_id": "2091563899133059072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106233712233111977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emberbssa 她都没看我私信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106233704804913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrYZSzaEAA_V8g.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106216528295461370",
+        "created_at": "2026-10-03T04:05:37.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106234191579165061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091563899133059072",
+              "start": 0,
+              "username": "Emberbssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106234191579165061",
+        "in_reply_to_user_id": "2091563899133059072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106233712233111977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emberbssa 她都没看我私信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106233704804913152"
+          ]
+        },
+        "author_id": "2091563899133059072",
+        "conversation_id": "2106216528295461370",
+        "created_at": "2026-10-03T04:03:43.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106233712233111977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eOTXPwian",
+              "end": 33,
+              "expanded_url": "https://x.com/Emberbssa/status/2106233712233111977/photo/1",
+              "media_key": "3_2106233704804913152",
+              "start": 10,
+              "url": "https://t.co/8eOTXPwian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106233712233111977",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106233704804913152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106216528295461370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv https://t.co/8eOTXPwian"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106234191579165061",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1786,
+          "like_count": 6997,
+          "listed_count": 1,
+          "media_count": 654,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T16:31:47.000Z",
+        "description": "",
+        "id": "2091563899133059072",
+        "is_identity_verified": false,
+        "location": "摇滚名人堂",
+        "most_recent_tweet_id": "2106233712233111977",
+        "name": "Ember",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105649255990083584/zJajYyMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 130,
+          "like_count": 2230,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Emberbssa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

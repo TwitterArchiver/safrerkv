@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107027737445855232"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107027745364746567",
+    "created_at": "2026-10-05T08:38:55.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107027745364746567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6LkvBDthg",
+          "end": 23,
+          "expanded_url": "https://x.com/safrerkv/status/2107027745364746567/photo/1",
+          "media_key": "3_2107027737445855232",
+          "start": 0,
+          "url": "https://t.co/b6LkvBDthg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107027745364746567",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107027737445855232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/b6LkvBDthg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_2107027737445855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2qkE5a8AABg-U.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107027737445855232"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107027745364746567",
+        "created_at": "2026-10-05T08:38:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107027745364746567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6LkvBDthg",
+              "end": 23,
+              "expanded_url": "https://x.com/safrerkv/status/2107027745364746567/photo/1",
+              "media_key": "3_2107027737445855232",
+              "start": 0,
+              "url": "https://t.co/b6LkvBDthg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107027745364746567",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107027737445855232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b6LkvBDthg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107027745364746567",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 1923,
+          "like_count": 8127,
+          "listed_count": 1,
+          "media_count": 708,
+          "tweet_count": 3188
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

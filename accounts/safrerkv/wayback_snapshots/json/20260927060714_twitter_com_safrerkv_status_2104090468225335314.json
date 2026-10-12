@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103820940178300976",
+    "created_at": "2026-09-27T06:07:14.000Z",
+    "display_text_range": [
+      8,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104090468225335314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "116911182",
+          "start": 0,
+          "username": "boheur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104090468225335314",
+    "in_reply_to_user_id": "116911182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104044501765615778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boheur 很开心然后有些解离 比较想和人说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103820940178300976",
+        "created_at": "2026-09-27T06:07:14.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104090468225335314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "116911182",
+              "start": 0,
+              "username": "boheur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104090468225335314",
+        "in_reply_to_user_id": "116911182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104044501765615778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boheur 很开心然后有些解离 比较想和人说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "116911182",
+        "conversation_id": "2103820940178300976",
+        "created_at": "2026-09-27T03:04:35.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104044501765615778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104044501765615778",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103820940178300976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104090468225335314",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 1505,
+          "like_count": 5699,
+          "listed_count": 1,
+          "media_count": 566,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-23T23:41:23.000Z",
+        "description": "od/挂狗/互fo 无人在意的路边一条 寻找一个你可能见过的名字：中初心夏 ChatGPT-sol wx:A1337123456",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/529972587",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/529972587",
+                "start": 0,
+                "url": "https://t.co/HOs7Ukzbw3"
+              }
+            ]
+          }
+        },
+        "id": "116911182",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104044968398684430",
+        "name": "Claire#1337",
+        "pinned_tweet_id": "2089232233655947470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116911182/1785248723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088850612767395840/vfNQiiYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/HOs7Ukzbw3",
+        "username": "boheur",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

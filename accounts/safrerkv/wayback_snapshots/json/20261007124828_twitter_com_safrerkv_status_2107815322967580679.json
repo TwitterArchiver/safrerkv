@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107808584935551399",
+    "created_at": "2026-10-07T12:48:28.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107815322967580679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012788392409628672",
+          "start": 0,
+          "username": "taiwanese_1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107815322967580679",
+    "in_reply_to_user_id": "2012788392409628672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107815111813689814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taiwanese_1210 🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107808584935551399",
+        "created_at": "2026-10-07T12:48:28.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107815322967580679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012788392409628672",
+              "start": 0,
+              "username": "taiwanese_1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107815322967580679",
+        "in_reply_to_user_id": "2012788392409628672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107815111813689814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taiwanese_1210 🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012788392409628672",
+        "conversation_id": "2107808584935551399",
+        "created_at": "2026-10-07T12:47:38.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107815111813689814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107815111813689814",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107808584935551399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 來不及了就這個了🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   主人@shunyuQAQ想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107815322967580679",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 2035,
+          "like_count": 8801,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T07:25:35.000Z",
+        "description": "友同友跨不翻車｜不鑑政（應該）｜生產日期2010.12.10｜高一｜中英皆可🇹🇼🇨🇳🇬🇧🇺🇸｜日本語學習中🇯🇵\n歡迎互fo喵😊😊😊",
+        "id": "2012788392409628672",
+        "is_identity_verified": false,
+        "location": "中華民國台灣 / Taiwan R.O.C",
+        "most_recent_tweet_id": "2107815111813689814",
+        "name": "Taiwanese",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012788392409628672/1789118070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012904242114101250/n4ss6qJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 4202,
+          "like_count": 32706,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "taiwanese_1210",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

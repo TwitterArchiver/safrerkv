@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107872941421818032",
+    "created_at": "2026-10-08T04:57:09.000Z",
+    "display_text_range": [
+      14,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T05:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108059097933459695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2102090815082520576",
+          "start": 0,
+          "username": "Xsuan7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108059097933459695",
+    "in_reply_to_user_id": "2102090815082520576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "北京人爱吃烤鸭 天津人爱吃狗不理包子 河北人爱吃驴肉火烧 山西人爱吃刀削面 内蒙古人爱吃手把肉 辽宁人爱吃小鸡炖蘑菇 吉林人爱吃冷面 黑龙江人爱吃锅包肉 上海人爱吃生煎包 江苏人爱吃松鼠鳜鱼 浙江人爱吃东坡肉 安徽人爱吃臭鳜鱼 福建人爱吃佛跳墙 江西人爱吃瓦罐汤 山东人爱吃九转大肠 河南人爱吃烩面 湖北人爱吃热干面 湖南人爱吃剁椒鱼头 广东人爱吃白切鸡 广西人爱吃螺蛳粉 海南人爱吃文昌鸡 重庆人爱吃重庆火锅 四川人爱吃麻婆豆腐 贵州人爱吃酸汤鱼 云南人爱吃过桥米线 西藏人爱吃糌粑 陕西人爱吃肉夹馍 甘肃人爱吃兰州牛肉面 青海人爱吃羊肉串 宁夏人爱吃手抓羊肉 新疆人爱吃大盘鸡 台湾人爱吃卤肉饭 香港人爱吃烧鹅 澳门人爱吃葡式蛋挞"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107872941421818032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xsuan7777777 北京人爱吃烤鸭 天津人爱吃狗不理包子 河北人爱吃驴肉火烧 山西人爱吃刀削面 内蒙古人爱吃手把肉 辽宁人爱吃小鸡炖蘑菇 吉林人爱吃冷面 黑龙江人爱吃锅包肉 上海人爱吃生煎包 江苏人爱吃松鼠鳜鱼 浙江人爱吃东坡肉 安徽人爱吃臭鳜鱼 福建人爱吃佛跳墙 江西人爱吃瓦罐汤 山东人爱吃九转大肠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107872941421818032",
+        "created_at": "2026-10-08T04:57:09.000Z",
+        "display_text_range": [
+          14,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T05:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108059097933459695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2102090815082520576",
+              "start": 0,
+              "username": "Xsuan7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108059097933459695",
+        "in_reply_to_user_id": "2102090815082520576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北京人爱吃烤鸭 天津人爱吃狗不理包子 河北人爱吃驴肉火烧 山西人爱吃刀削面 内蒙古人爱吃手把肉 辽宁人爱吃小鸡炖蘑菇 吉林人爱吃冷面 黑龙江人爱吃锅包肉 上海人爱吃生煎包 江苏人爱吃松鼠鳜鱼 浙江人爱吃东坡肉 安徽人爱吃臭鳜鱼 福建人爱吃佛跳墙 江西人爱吃瓦罐汤 山东人爱吃九转大肠 河南人爱吃烩面 湖北人爱吃热干面 湖南人爱吃剁椒鱼头 广东人爱吃白切鸡 广西人爱吃螺蛳粉 海南人爱吃文昌鸡 重庆人爱吃重庆火锅 四川人爱吃麻婆豆腐 贵州人爱吃酸汤鱼 云南人爱吃过桥米线 西藏人爱吃糌粑 陕西人爱吃肉夹馍 甘肃人爱吃兰州牛肉面 青海人爱吃羊肉串 宁夏人爱吃手抓羊肉 新疆人爱吃大盘鸡 台湾人爱吃卤肉饭 香港人爱吃烧鹅 澳门人爱吃葡式蛋挞"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107872941421818032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xsuan7777777 北京人爱吃烤鸭 天津人爱吃狗不理包子 河北人爱吃驴肉火烧 山西人爱吃刀削面 内蒙古人爱吃手把肉 辽宁人爱吃小鸡炖蘑菇 吉林人爱吃冷面 黑龙江人爱吃锅包肉 上海人爱吃生煎包 江苏人爱吃松鼠鳜鱼 浙江人爱吃东坡肉 安徽人爱吃臭鳜鱼 福建人爱吃佛跳墙 江西人爱吃瓦罐汤 山东人爱吃九转大肠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102090815082520576",
+        "conversation_id": "2107872941421818032",
+        "created_at": "2026-10-07T16:37:26.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107872941421818032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107872941421818032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢能跟我一起地域黑的人啊，卧槽好巴适"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108059097933459695",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 2043,
+          "like_count": 8849,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3543
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-21T17:41:41.000Z",
+        "description": "重度抑郁重度解离/oder/🩸🔪（我今天关注上限了",
+        "id": "2102090815082520576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108030506755592665",
+        "name": "酸酸子777",
+        "pinned_tweet_id": "2106852792694694001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102090815082520576/1791147511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106851410344386560/rx_hCvGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 101,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Xsuan7777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

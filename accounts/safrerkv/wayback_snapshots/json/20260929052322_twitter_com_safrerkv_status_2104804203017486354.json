@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104571832917533179",
+    "created_at": "2026-09-29T05:23:22.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104804203017486354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089890624392536064",
+          "start": 0,
+          "username": "friedricew2hvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104804203017486354",
+    "in_reply_to_user_id": "2089890624392536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104573139292447034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedricew2hvr 但是这个不能吃太多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104571832917533179",
+        "created_at": "2026-09-29T05:23:22.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104804203017486354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089890624392536064",
+              "start": 0,
+              "username": "friedricew2hvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104804203017486354",
+        "in_reply_to_user_id": "2089890624392536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104573139292447034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedricew2hvr 但是这个不能吃太多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089890624392536064",
+        "conversation_id": "2104571832917533179",
+        "created_at": "2026-09-28T14:05:12.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104573139292447034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104573139292447034",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104571832917533179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 钙片。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104804203017486354",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1603,
+          "like_count": 6133,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:43:14.000Z",
+        "description": "不见证，战雷小资历，正常人，6767年前组装落地，🏳️‍⚧️，成分复杂，欢迎交友！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/jFjU7kdfLH"
+              }
+            ]
+          }
+        },
+        "id": "2089890624392536064",
+        "is_identity_verified": false,
+        "location": "吴家村",
+        "most_recent_tweet_id": "2104801185282892019",
+        "name": "かわいい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089890624392536064/1790512477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104556451964309504/l3f1gQHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 73,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/jFjU7kdfLH",
+        "username": "friedricew2hvr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

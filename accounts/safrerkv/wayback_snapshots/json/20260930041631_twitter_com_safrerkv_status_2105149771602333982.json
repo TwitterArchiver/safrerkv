@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104843631202832489",
+    "created_at": "2026-09-30T04:16:31.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T05:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105149771602333982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105149771602333982",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104912918211170434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 吓晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104843631202832489",
+        "created_at": "2026-09-30T04:16:31.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105149771602333982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105149771602333982",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104912918211170434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 吓晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454241324830720",
+        "conversation_id": "2104843631202832489",
+        "created_at": "2026-09-29T12:35:21.000Z",
+        "display_text_range": [
+          10,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104912918211170434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104912918211170434",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "似乎两个人都不太聪明的样子呢，首先十字架是不可能用纯金做的，纯金的硬度很低，延展性又高，如果是纯金的，在自身重力作用下都会自己弯曲变形，这个十字架只可能是用黄铜或者青铜做的，熔点最低1000度，最高也就1050°C和黄金还有差距，其次木质结构只能烧到600度，这个只对了一半，在开放环境下的确很难烧烧过600度，但是在封闭半封闭的环境还有特定前提条件下烧到1000°是非常轻松的，尤其是巴黎圣母院，屋顶几百年来成千上百吨的木材，燃料密度和热释放速率极高\n同时燃烧需要氧气助燃，巴黎圣母院的尖塔倒塌后，原本封闭的屋顶结构被打开，形成了一个巨大的烟囱能外部新鲜空气源源不断的吸入火场，氧气越足，燃烧越完全，火焰温度就越接近木材的理论燃烧极限。\n所以十字架没烧化的原因根本不是温度问题，而是十字架的位置太好了，放在祭台上，因为1000度不是全局1000度，越高的地方才越接近1000度，地面及祭坛最多都只有一百多度，而且上面还有石质拱顶当屏障，所以没有烧化是非常科学且合理的，只是解释的不太对呢😉"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10049,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104843631202832489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 似乎两个人都不太聪明的样子呢，首先十字架是不可能用纯金做的，纯金的硬度很低，延展性又高，如果是纯金的，在自身重力作用下都会自己弯曲变形，这个十字架只可能是用黄铜或者青铜做的，熔点最低1000度，最高也就1050°C和黄金还有差距，其次木质结构只能烧到600度，这个只对了一半，在开放环境下的确"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋  我叫相融 会发梗图or大份    提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105149771602333982",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1635,
+          "like_count": 6282,
+          "listed_count": 1,
+          "media_count": 590,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/基督徒✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴\n除常互动的推友以外不会主动回fo，回fo请私信🥺",
+        "id": "1646454241324830720",
+        "is_identity_verified": false,
+        "location": "小马利亚,坎特洛特城",
+        "most_recent_tweet_id": "2105138452165787705",
+        "name": "一只",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646454241324830720/1735657112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015852408648458240/Ho5VfcNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 145,
+          "like_count": 39616,
+          "listed_count": 3,
+          "media_count": 507,
+          "tweet_count": 20518
+        },
+        "url": "",
+        "username": "tube1925",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107747483585773844",
+    "created_at": "2026-10-07T08:56:16.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T09:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107756884283498820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107756884283498820",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107747483585773844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 有钱真的什么都能做到呢 但是比起钱我还是更喜欢穆穆酱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107747483585773844",
+        "created_at": "2026-10-07T08:56:16.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107756884283498820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107756884283498820",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107747483585773844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 有钱真的什么都能做到呢 但是比起钱我还是更喜欢穆穆酱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085457755243167744",
+        "conversation_id": "2107747483585773844",
+        "created_at": "2026-10-07T08:18:54.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107747483585773844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107747483585773844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实，我也希望自己成为很伟大的人呢？ꉂ(ˊᗜˋ*)\n如果我也变成一个很有名的人？感觉是什么样的呢(≖╻≖；) 如果我是世界首富…啊哈哈…停停停！（这也太异想天开啦）\n\n钱才是最重要的！！(ᗒᗩᗕ)՞\n我们不得不喜欢钱喔…钱~比命重要，至少在我的认知里ꈍ◡ꈍ\n因为！可能我就是穷人…才有这种思想吧？可是…钱就是有用嘛……只有有了足够的钱，才能干喜欢的事……什么事情都可以用钱摆平呢Σ(•’╻’•|\n\n有钱人，只在乎钱就好了啦，越有钱，别人就越崇拜你！都会赞颂你(*ˊ˘ˋ*)｡♪:*°甚至…出一本传记。\n别人才不会在乎干了什么坏事呢！（￣⊿￣）都崇拜吧！钱是神明喔…\n\n我喜欢钱…钱，只有有很多很多钱，才能站得住脚，不然随时都会被踩(≖╻≖；) \n大家都崇拜钱喔！我们都爱钱啦啦啦啦~~哼哼~~~~𖤐 ˎˊ⋆.˚𖦹⋆✮⋆.˚☆⋆｡𖦹°‧★"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实，我也希望自己成为很伟大的人呢？ꉂ(ˊᗜˋ*)\n如果我也变成一个很有名的人？感觉是什么样的呢(≖╻≖；) 如果我是世界首富…啊哈哈…停停停！（这也太异想天开啦）\n\n钱才是最重要的！！(ᗒᗩᗕ)՞\n我们不得不喜欢钱喔…钱~比命重要，至少在我的认知里ꈍ◡ꈍ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   主人@shunyuQAQ想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107756884283498820",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2034,
+          "like_count": 8739,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 3486
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2107756504271241284",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2106051480398799352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 219,
+          "like_count": 7908,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

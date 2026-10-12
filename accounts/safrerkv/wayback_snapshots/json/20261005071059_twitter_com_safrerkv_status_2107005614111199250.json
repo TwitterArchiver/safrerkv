@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106395211182285015",
+    "created_at": "2026-10-05T07:10:59.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107005614111199250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2101498602766077952",
+          "start": 0,
+          "username": "Box3_jilil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107005614111199250",
+    "in_reply_to_user_id": "2101498602766077952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106395211182285015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_jilil 摸摸盒子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2106395189824917504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtrQ9YbEAATACu.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106395211182285015",
+        "created_at": "2026-10-05T07:10:59.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107005614111199250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101498602766077952",
+              "start": 0,
+              "username": "Box3_jilil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107005614111199250",
+        "in_reply_to_user_id": "2101498602766077952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106395211182285015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_jilil 摸摸盒子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106395189824917504"
+          ]
+        },
+        "author_id": "2101498602766077952",
+        "conversation_id": "2106395211182285015",
+        "created_at": "2026-10-03T14:45:27.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106395211182285015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJPPlHOrhS",
+              "end": 93,
+              "expanded_url": "https://x.com/Box3_jilil/status/2106395211182285015/photo/1",
+              "media_key": "3_2106395189824917504",
+              "start": 70,
+              "url": "https://t.co/pJPPlHOrhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106395211182285015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106395189824917504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6401,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "糖、碳酸钡、pr全他妈被发现了\n全扔了\n生物妈还他妈报晶了\n我的手机也要被晶\n这他妈我刚买的糖\n这和杀了我有什么区别？\n我tm得结束自己了 https://t.co/pJPPlHOrhS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107005614111199250",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1916,
+          "like_count": 8086,
+          "listed_count": 1,
+          "media_count": 704,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T02:31:57.000Z",
+        "description": "🩵泥嚎(⁠・⁠∀⁠・⁠)🩷我是小盒子🤍无证含糖🩷生产日期 2012.4.6🩵\n这个号关注我的都会回关，可以和小盒子聊天喵\n大盒子：@Box3_ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Box3_ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Box3_ji",
+                "end": 23,
+                "expanded_url": "https://x.com/Box3_ji",
+                "start": 0,
+                "url": "https://t.co/GR4eLNlNDm"
+              }
+            ]
+          }
+        },
+        "id": "2101498602766077952",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🩵🩷🤍",
+        "most_recent_tweet_id": "2106982508567167165",
+        "name": "lilBox🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101956147934798127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101498602766077952/1789872242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101501392825528320/yX7RB4Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 453,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/GR4eLNlNDm",
+        "username": "Box3_jilil",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

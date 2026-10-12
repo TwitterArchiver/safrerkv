@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103414326468239360"
+      ],
+      "media_source_tweet_id": [
+        "2103414332965134543"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103628764601319475",
+    "created_at": "2026-09-25T23:32:35.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T00:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103628764601319475"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 15,
+          "tag": "きみが死ぬまで恋をしたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2093298405988782080",
+          "start": 3,
+          "username": "rnomose_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JQB4B57oTN",
+          "end": 52,
+          "expanded_url": "https://x.com/rnomose_9/status/2103414332965134543/photo/1",
+          "media_key": "3_2103414326468239360",
+          "start": 29,
+          "url": "https://t.co/JQB4B57oTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103628764601319475",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103414326468239360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103414332965134543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnomose_9: #きみが死ぬまで恋をしたい https://t.co/JQB4B57oTN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2103414326468239360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDUL4CbYAAmoba.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103414326468239360"
+          ],
+          "media_source_tweet_id": [
+            "2103414332965134543"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103628764601319475",
+        "created_at": "2026-09-25T23:32:35.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103628764601319475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "きみが死ぬまで恋をしたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2093298405988782080",
+              "start": 3,
+              "username": "rnomose_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQB4B57oTN",
+              "end": 52,
+              "expanded_url": "https://x.com/rnomose_9/status/2103414332965134543/photo/1",
+              "media_key": "3_2103414326468239360",
+              "start": 29,
+              "url": "https://t.co/JQB4B57oTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103628764601319475",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103414326468239360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103414332965134543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnomose_9: #きみが死ぬまで恋をしたい https://t.co/JQB4B57oTN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103414326468239360"
+          ]
+        },
+        "author_id": "2093298405988782080",
+        "conversation_id": "2103414332965134543",
+        "created_at": "2026-09-25T09:20:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103414332965134543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "きみが死ぬまで恋をしたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQB4B57oTN",
+              "end": 37,
+              "expanded_url": "https://x.com/rnomose_9/status/2103414332965134543/photo/1",
+              "media_key": "3_2103414326468239360",
+              "start": 14,
+              "url": "https://t.co/JQB4B57oTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103414332965134543",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103414326468239360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 25768,
+          "like_count": 3968,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "#きみが死ぬまで恋をしたい https://t.co/JQB4B57oTN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103628764601319475",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1395,
+          "like_count": 5192,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T11:25:12.000Z",
+        "description": "百合がすきです🫶🏻┊︎絵も描きます🎀\nイラストの無断使用・転載・二次配布・AI学習×\n現在、イラストの使用許可はお出ししていません\n※過去に個別に許可した方を除く",
+        "id": "2093298405988782080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103462328318759254",
+        "name": "桃瀬",
+        "pinned_tweet_id": "2097634050211287422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093298405988782080/1789461431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099733217972736000/YW2RFMwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 67,
+          "like_count": 1139,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "rnomose_9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103850295084355615",
+    "created_at": "2026-09-26T14:20:18.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103852166729666777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103852166729666777",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103850295084355615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 我真的怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2103850267003555840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJgq9FbkAAwZzd.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2103850282111365120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJgr1XacAAxnSL.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103850295084355615",
+        "created_at": "2026-09-26T14:20:18.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103852166729666777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103852166729666777",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103850295084355615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 我真的怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103850267003555840",
+            "3_2103850282111365120"
+          ]
+        },
+        "author_id": "1800905994186432512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103850295084355615",
+        "created_at": "2026-09-26T14:12:52.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103850295084355615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYaHhcUyc6",
+              "end": 34,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2103850295084355615/photo/1",
+              "media_key": "3_2103850267003555840",
+              "start": 11,
+              "url": "https://t.co/SYaHhcUyc6"
+            },
+            {
+              "display_url": "pic.x.com/SYaHhcUyc6",
+              "end": 34,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2103850295084355615/photo/1",
+              "media_key": "3_2103850282111365120",
+              "start": 11,
+              "url": "https://t.co/SYaHhcUyc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103850295084355615",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103850267003555840"
+          },
+          {
+            "media_key": "3_2103850282111365120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑幕的实力其实并不强 https://t.co/SYaHhcUyc6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103852166729666777",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1450,
+          "like_count": 5413,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です 低强度刷推  跨性别友好🏳️‍⚧️ | ADHD | BMI22.8 | 入门OIer | 业余摄影 航拍 | 89648964 | 正體中文🇹🇼 简体中文🇨🇳 日本語🇯🇵正在学 | 不会打音游\n📬 https://t.co/PvmynagsX5\n\n『人生、二十七で死ねるならロックンロールは僕を救った』",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 128,
+                "expanded_url": "http://ngl.link/hoshino_iroha10",
+                "start": 105,
+                "url": "https://t.co/PvmynagsX5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoshino_iroha10",
+                "start": 0,
+                "url": "https://t.co/AQCy4BsVsT"
+              }
+            ]
+          }
+        },
+        "id": "1800905994186432512",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2103851152202989977",
+        "name": "星野いろは",
+        "pinned_tweet_id": "2088527200287088975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800905994186432512/1780323920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1460,
+          "like_count": 78179,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4364
+        },
+        "url": "https://t.co/AQCy4BsVsT",
+        "username": "Hoshino_Iroha10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

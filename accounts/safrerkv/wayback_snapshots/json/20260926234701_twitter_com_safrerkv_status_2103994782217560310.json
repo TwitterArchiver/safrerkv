@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103771188652883968"
+      ],
+      "media_source_tweet_id": [
+        "2103771369968443703"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103994782217560310",
+    "created_at": "2026-09-26T23:47:01.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T00:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103994782217560310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096778116714917888",
+          "start": 3,
+          "username": "china_kanae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dyOqFeOVxO",
+          "end": 76,
+          "expanded_url": "https://x.com/china_kanae/status/2103771369968443703/photo/1",
+          "media_key": "3_2103771188652883968",
+          "start": 53,
+          "url": "https://t.co/dyOqFeOVxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103994782217560310",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103771188652883968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103771369968443703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @china_kanae: 今年の夏は秦谷さんと海にいきましたわ～～\nとっても似合っていますわ！！ https://t.co/dyOqFeOVxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103771188652883968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIYv_RbQAA7pqD.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103771188652883968"
+          ],
+          "media_source_tweet_id": [
+            "2103771369968443703"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103994782217560310",
+        "created_at": "2026-09-26T23:47:01.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103994782217560310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096778116714917888",
+              "start": 3,
+              "username": "china_kanae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyOqFeOVxO",
+              "end": 76,
+              "expanded_url": "https://x.com/china_kanae/status/2103771369968443703/photo/1",
+              "media_key": "3_2103771188652883968",
+              "start": 53,
+              "url": "https://t.co/dyOqFeOVxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103994782217560310",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103771188652883968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103771369968443703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @china_kanae: 今年の夏は秦谷さんと海にいきましたわ～～\nとっても似合っていますわ！！ https://t.co/dyOqFeOVxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103771188652883968"
+          ]
+        },
+        "author_id": "2096778116714917888",
+        "conversation_id": "2103771369968443703",
+        "created_at": "2026-09-26T08:59:15.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103771369968443703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyOqFeOVxO",
+              "end": 59,
+              "expanded_url": "https://x.com/china_kanae/status/2103771369968443703/photo/1",
+              "media_key": "3_2103771188652883968",
+              "start": 36,
+              "url": "https://t.co/dyOqFeOVxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103771369968443703",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103771188652883968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 48035,
+          "like_count": 5740,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "今年の夏は秦谷さんと海にいきましたわ～～\nとっても似合っていますわ！！ https://t.co/dyOqFeOVxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103994782217560310",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 1490,
+          "like_count": 5615,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T01:51:37.000Z",
+        "description": "",
+        "id": "2096778116714917888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103771369968443703",
+        "name": "倉本千奈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096778527760896000/03oO5dah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2,
+          "like_count": 33,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "china_kanae",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

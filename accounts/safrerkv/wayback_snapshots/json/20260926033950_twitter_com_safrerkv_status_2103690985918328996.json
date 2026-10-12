@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103350050395246826",
+    "created_at": "2026-09-26T03:39:50.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103690985918328996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "Re_ZaoTon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103690985918328996",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103350050395246826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_ZaoTon 根本没有这种事情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2103350032338714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCZtdvbAAAYG2e.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2103350040815423488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCZt9UbUAAseHA.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103350050395246826",
+        "created_at": "2026-09-26T03:39:50.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103690985918328996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103690985918328996",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103350050395246826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon 根本没有这种事情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103350032338714624",
+            "3_2103350040815423488"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103350050395246826",
+        "created_at": "2026-09-25T05:05:05.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103350050395246826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tnh0cf1sOe",
+              "end": 107,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2103350050395246826/photo/1",
+              "media_key": "3_2103350032338714624",
+              "start": 84,
+              "url": "https://t.co/Tnh0cf1sOe"
+            },
+            {
+              "display_url": "pic.x.com/Tnh0cf1sOe",
+              "end": 107,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2103350050395246826/photo/1",
+              "media_key": "3_2103350040815423488",
+              "start": 84,
+              "url": "https://t.co/Tnh0cf1sOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103350050395246826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103350032338714624"
+          },
+          {
+            "media_key": "3_2103350040815423488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 176098,
+          "like_count": 1181,
+          "quote_count": 12,
+          "reply_count": 193,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "警告所有MtF，对自己的睾丸好一点，本人发现自己的蛋没有知觉就一直用力捏，最后莫名其妙导致大出血了😭😭😭对不起高玩，下辈子你投胎到顺直帅哥身上吧，别跟着我受苦了😭😭😭 https://t.co/Tnh0cf1sOe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103690985918328996",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1414,
+          "like_count": 5238,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2103641071347814463",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2099052799438868978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 393,
+          "like_count": 18436,
+          "listed_count": 6,
+          "media_count": 154,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

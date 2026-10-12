@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106926621630542097",
+    "created_at": "2026-10-05T05:08:03.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106974676845310078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088823399493906433",
+          "start": 0,
+          "username": "QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106974676845310078",
+    "in_reply_to_user_id": "2088823399493906433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106926621630542097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_8964_ 操蛋可爱可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14170,
+        "height": 1280,
+        "media_key": "13_2106926570816651264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106926570816651264/img/AM_EI9sCii6BsL6Y.jpg",
+        "public_metrics": {
+          "view_count": 452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106926570816651264/vid/avc1/320x568/Tv8uRFaV-21kpMkg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106926570816651264/vid/avc1/480x852/5lCB-4j_UryWPjR7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106926570816651264/vid/avc1/720x1280/8mad5k6raPtFIX0B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106926570816651264/pl/rlFHvu81HKBL2JPO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106926621630542097",
+        "created_at": "2026-10-05T05:08:03.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106974676845310078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088823399493906433",
+              "start": 0,
+              "username": "QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106974676845310078",
+        "in_reply_to_user_id": "2088823399493906433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106926621630542097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964_ 操蛋可爱可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106926570816651264"
+          ]
+        },
+        "author_id": "2088823399493906433",
+        "conversation_id": "2106926621630542097",
+        "created_at": "2026-10-05T01:57:06.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106926621630542097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gtb7kltmPJ",
+              "end": 29,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2106926621630542097/video/1",
+              "media_key": "13_2106926570816651264",
+              "start": 6,
+              "url": "https://t.co/Gtb7kltmPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106926621630542097",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106926570816651264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1080,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是好女孩嗎 https://t.co/Gtb7kltmPJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106974676845310078",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1904,
+          "like_count": 8016,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MTK7"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "我在你身後👁️",
+        "most_recent_tweet_id": "2106944586098835646",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2091134671627391117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088823399493906433/1789439828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 7,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/mDDFP5MTK7",
+        "username": "QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

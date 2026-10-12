@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107813354853265408"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107813367884963900",
+    "created_at": "2026-10-07T12:40:42.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107813367884963900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084193735081099264",
+          "start": 0,
+          "username": "Jiaaov_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2w5PRKPYs",
+          "end": 42,
+          "expanded_url": "https://x.com/safrerkv/status/2107813367884963900/photo/1",
+          "media_key": "3_2107813354853265408",
+          "start": 19,
+          "url": "https://t.co/n2w5PRKPYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107813367884963900",
+    "in_reply_to_user_id": "2084193735081099264",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107813354853265408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Jiaaov_y 的pr喵 豪赤喵 https://t.co/n2w5PRKPYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2845,
+        "media_key": "3_2107813354853265408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUB1FBzacAAlhAX.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107813354853265408"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107813367884963900",
+        "created_at": "2026-10-07T12:40:42.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107813367884963900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084193735081099264",
+              "start": 0,
+              "username": "Jiaaov_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2w5PRKPYs",
+              "end": 42,
+              "expanded_url": "https://x.com/safrerkv/status/2107813367884963900/photo/1",
+              "media_key": "3_2107813354853265408",
+              "start": 19,
+              "url": "https://t.co/n2w5PRKPYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107813367884963900",
+        "in_reply_to_user_id": "2084193735081099264",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107813354853265408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Jiaaov_y 的pr喵 豪赤喵 https://t.co/n2w5PRKPYs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   主人@shunyuQAQ想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107813367884963900",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 2035,
+          "like_count": 8792,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T08:25:25.000Z",
+        "description": "2013.5.28🎂/顺女/友一切/name颜慕或小佳/社交障碍/pjsk/喵斯/中文日文粤语⭕️/英语学习中/NSSI/普瑞戒断中/戒割/轻度ADHD/💊🔪🚬/pr🉑代/坐标深圳罗湖/普瑞阿片享受者/免🚪/喜好物理与药理学/同类互fo/fo全回/逃生舱@Jiaovyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "Jiaovyy"
+              }
+            ]
+          }
+        },
+        "id": "2084193735081099264",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2107791700739723672",
+        "name": "颜慕(出售平壤",
+        "pinned_tweet_id": "2105670309739418025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084193735081099264/1787659992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092223716663103488/2lEwOjBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 154,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "Jiaaov_y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2106240832793931859",
+    "created_at": "2026-10-03T04:32:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106240832793931859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081898841343934464",
+          "start": 3,
+          "username": "RayChen2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106240832793931859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106238746333237478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RayChen2009: 扩列求转(引用)！！📢\n我叫 Ray，希望能真的交到好朋友 (｡･ω･｡)ﾉ♡\n更多关于我的信息可以看我主页以及引用文章\n不是互fo哦，快点快点和我聊天！\n图片没什么好发的，\n给你们看看我的老婆希露菲吧 (￣▽￣)ゞ\n\n使用我的 𝕏 號碼 08…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2106238734610137088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrc-ESbAAATnxk.jpg",
+        "width": 720
+      },
+      {
+        "height": 1573,
+        "media_key": "3_2106238734580789248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrc-ELbMAA93NQ.jpg",
+        "width": 1112
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2106238734597500928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrc-EPaMAAl9E6.jpg",
+        "width": 816
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106238734626963456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrc-EWbwAA5KDx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2106240832793931859",
+        "created_at": "2026-10-03T04:32:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106240832793931859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081898841343934464",
+              "start": 3,
+              "username": "RayChen2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106240832793931859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106238746333237478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RayChen2009: 扩列求转(引用)！！📢\n我叫 Ray，希望能真的交到好朋友 (｡･ω･｡)ﾉ♡\n更多关于我的信息可以看我主页以及引用文章\n不是互fo哦，快点快点和我聊天！\n图片没什么好发的，\n给你们看看我的老婆希露菲吧 (￣▽￣)ゞ\n\n使用我的 𝕏 號碼 08…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106238734610137088",
+            "3_2106238734580789248",
+            "3_2106238734597500928",
+            "3_2106238734626963456"
+          ]
+        },
+        "author_id": "2081898841343934464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2106238746333237478",
+        "created_at": "2026-10-03T04:23:43.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106238746333237478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "蓝v互fo❗️大陆高中生｜男 好笑的先转了再说｜我的第二个朋友圈 成为你自己 · 𝘉𝘦𝘤𝘰𝘮𝘦 𝘸𝘩𝘰 𝘺𝘰𝘶 𝘢𝘳𝘦 偶尔嘴欠，欢迎交友 (｡･ω･｡)ﾉ♡",
+              "display_url": "x.com/RayChen2009?n=…",
+              "end": 160,
+              "expanded_url": "https://www.x.com/RayChen2009?n=08511552",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2105490038935126016/yP2XARWT?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105490038935126016/yP2XARWT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "Ray Chen (@RayChen2009) on X",
+              "unwound_url": "https://x.com/RayChen2009?n=08511552",
+              "url": "https://t.co/HdYTcJOpm6"
+            },
+            {
+              "display_url": "pic.x.com/M4nA4axAHc",
+              "end": 184,
+              "expanded_url": "https://x.com/RayChen2009/status/2106238746333237478/photo/1",
+              "media_key": "3_2106238734610137088",
+              "start": 161,
+              "url": "https://t.co/M4nA4axAHc"
+            },
+            {
+              "display_url": "pic.x.com/M4nA4axAHc",
+              "end": 184,
+              "expanded_url": "https://x.com/RayChen2009/status/2106238746333237478/photo/1",
+              "media_key": "3_2106238734580789248",
+              "start": 161,
+              "url": "https://t.co/M4nA4axAHc"
+            },
+            {
+              "display_url": "pic.x.com/M4nA4axAHc",
+              "end": 184,
+              "expanded_url": "https://x.com/RayChen2009/status/2106238746333237478/photo/1",
+              "media_key": "3_2106238734597500928",
+              "start": 161,
+              "url": "https://t.co/M4nA4axAHc"
+            },
+            {
+              "display_url": "pic.x.com/M4nA4axAHc",
+              "end": 184,
+              "expanded_url": "https://x.com/RayChen2009/status/2106238746333237478/photo/1",
+              "media_key": "3_2106238734626963456",
+              "start": 161,
+              "url": "https://t.co/M4nA4axAHc"
+            },
+            {
+              "display_url": "x.com/raychen2009/st…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/raychen2009/status/2104071285836058895",
+              "start": 185,
+              "url": "https://t.co/IqYWiU5gB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106238746333237478",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106238734610137088"
+          },
+          {
+            "media_key": "3_2106238734580789248"
+          },
+          {
+            "media_key": "3_2106238734597500928"
+          },
+          {
+            "media_key": "3_2106238734626963456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104071285836058895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扩列求转(引用)！！📢\n我叫 Ray，希望能真的交到好朋友 (｡･ω･｡)ﾉ♡\n更多关于我的信息可以看我主页以及引用文章\n不是互fo哦，快点快点和我聊天！\n图片没什么好发的，\n给你们看看我的老婆希露菲吧 (￣▽￣)ゞ\n\n使用我的 𝕏 號碼 0851-1552 來找我聊天： https://t.co/HdYTcJOpm6 https://t.co/M4nA4axAHc https://t.co/IqYWiU5gB3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106240832793931859",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1787,
+          "like_count": 7006,
+          "listed_count": 1,
+          "media_count": 654,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T00:26:40.000Z",
+        "description": "蓝v互fo❗️大陆高中生｜男\n好笑的先转了再说｜我的第二个朋友圈\n成为你自己 · 𝘉𝘦𝘤𝘰𝘮𝘦 𝘸𝘩𝘰 𝘺𝘰𝘶 𝘢𝘳𝘦\n偶尔嘴欠，欢迎交友 (｡･ω･｡)ﾉ♡",
+        "id": "2081898841343934464",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2106239273129377963",
+        "name": "Ray Chen",
+        "pinned_tweet_id": "2104071285836058895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081898841343934464/1788675060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096481220926570496/VlAST79N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 250,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "RayChen2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

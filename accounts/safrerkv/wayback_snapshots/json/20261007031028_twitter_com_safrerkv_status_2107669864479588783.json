@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107623614577311953",
+    "created_at": "2026-10-07T03:10:28.000Z",
+    "display_text_range": [
+      7,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107669864479588783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2067799247349792768",
+          "start": 0,
+          "username": "q1lwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107669864479588783",
+    "in_reply_to_user_id": "2067799247349792768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107635177166131636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1lwm 现在是早上😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107623614577311953",
+        "created_at": "2026-10-07T03:10:28.000Z",
+        "display_text_range": [
+          7,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107669864479588783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2067799247349792768",
+              "start": 0,
+              "username": "q1lwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107669864479588783",
+        "in_reply_to_user_id": "2067799247349792768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107635177166131636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1lwm 现在是早上😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067799247349792768",
+        "conversation_id": "2107623614577311953",
+        "created_at": "2026-10-07T00:52:38.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T01:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107635177166131636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107635177166131636",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107623614577311953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 晚安💤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   杯子@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107669864479588783",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 2029,
+          "like_count": 8654,
+          "listed_count": 1,
+          "media_count": 740,
+          "tweet_count": 3419
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T02:39:48.000Z",
+        "description": "肥朝第一唐人｜消肿博主｜love（哈基米 耍起 屌丝大水 😋 ） ｜互fo｜不（抽因 喝九 欧弟 歌手 mtf 可要 ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaoji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaoji",
+                "start": 0,
+                "url": "https://t.co/G5Df3Tr4t3"
+              }
+            ]
+          }
+        },
+        "id": "2067799247349792768",
+        "is_identity_verified": false,
+        "location": "11.4km",
+        "most_recent_tweet_id": "2107668532343554317",
+        "name": "quan",
+        "pinned_tweet_id": "2105677025545732457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067799247349792768/1790412325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100920993204289536/RK_AH76z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1043,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/G5Df3Tr4t3",
+        "username": "q1lwm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

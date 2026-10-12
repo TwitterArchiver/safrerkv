@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107787921071947788",
+    "created_at": "2026-10-07T12:51:54.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107816186083942735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1938407671994191872",
+          "start": 0,
+          "username": "HgEgUgPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107816186083942735",
+    "in_reply_to_user_id": "1938407671994191872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107815928306204778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HgEgUgPg 站中间 串两边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107787921071947788",
+        "created_at": "2026-10-07T12:51:54.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107816186083942735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1938407671994191872",
+              "start": 0,
+              "username": "HgEgUgPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107816186083942735",
+        "in_reply_to_user_id": "1938407671994191872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107815928306204778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HgEgUgPg 站中间 串两边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938407671994191872",
+        "conversation_id": "2107787921071947788",
+        "created_at": "2026-10-07T12:50:53.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107815928306204778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107815928306204778",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107787921071947788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 相融咱两边都串又是帖吧又是推的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   主人@shunyuQAQ想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107816186083942735",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 2036,
+          "like_count": 8803,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3519
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T01:24:17.000Z",
+        "description": "这里生肉.性癫狂者。此号发负面@\n精神崩溃时说话会断断续续.\n正在关注的都是我挚爱喵、\n我很快就死了别关注我了没啥好在意的；\n可ngl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgegugpg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hgegugpg",
+                "start": 0,
+                "url": "https://t.co/RivbO9U5GB"
+              }
+            ]
+          }
+        },
+        "id": "1938407671994191872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107815928306204778",
+        "name": "一只网蛆生肉",
+        "pinned_tweet_id": "2107359812334031254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938407671994191872/1783555330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105088261236621312/TubQ4MrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 16,
+          "like_count": 7131,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/RivbO9U5GB",
+        "username": "HgEgUgPg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

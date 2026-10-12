@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105461432867606765",
+    "created_at": "2026-10-01T03:50:54.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105505709148590402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661759505162711040",
+          "start": 0,
+          "username": "alielie_qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105505709148590402",
+    "in_reply_to_user_id": "1661759505162711040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105461432867606765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alielie_qq 豪帽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105461418946662400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgaAVybEAAZDWF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105461432867606765",
+        "created_at": "2026-10-01T03:50:54.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105505709148590402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661759505162711040",
+              "start": 0,
+              "username": "alielie_qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105505709148590402",
+        "in_reply_to_user_id": "1661759505162711040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105461432867606765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alielie_qq 豪帽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105461418946662400"
+          ]
+        },
+        "author_id": "1661759505162711040",
+        "conversation_id": "2105461432867606765",
+        "created_at": "2026-10-01T00:54:57.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105461432867606765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJyytRfVRD",
+              "end": 35,
+              "expanded_url": "https://x.com/alielie_qq/status/2105461432867606765/photo/1",
+              "media_key": "3_2105461418946662400",
+              "start": 12,
+              "url": "https://t.co/gJyytRfVRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105461432867606765",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105461418946662400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不知道您这是怎么了 https://t.co/gJyytRfVRD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105505709148590402",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1677,
+          "like_count": 6532,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-25T15:42:10.000Z",
+        "description": "这里是永远爱着你的qianyun愆昀 可以叫我千云\n本体@qianyunhr\nWe need love, but all we want is danger.\n在这个操蛋的世界温柔而疯狂的活下去吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "qianyunhr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/tpUs9EA1Jg"
+              }
+            ]
+          }
+        },
+        "id": "1661759505162711040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105504231675527344",
+        "name": "qianyun2.0",
+        "pinned_tweet_id": "2096240963425624270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661759505162711040/1787143150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105231678138703872/COKpykQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 78,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/tpUs9EA1Jg",
+        "username": "alielie_qq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106023740102656049",
+    "created_at": "2026-10-02T14:29:40.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106028849750508013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106028849750508013",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106023740102656049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 还是别理这些人吧 摸摸穆穆酱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2106023720896851968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToZanyacAAtVbr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1810,
+        "media_key": "3_2106023731550363648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToZbPeaIAAgoqK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106023740102656049",
+        "created_at": "2026-10-02T14:29:40.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106028849750508013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106028849750508013",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106023740102656049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 还是别理这些人吧 摸摸穆穆酱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106023720896851968",
+            "3_2106023731550363648"
+          ]
+        },
+        "author_id": "2085457755243167744",
+        "conversation_id": "2106023740102656049",
+        "created_at": "2026-10-02T14:09:22.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106023740102656049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yw1K061Uc9",
+              "end": 27,
+              "expanded_url": "https://x.com/HR3EOO/status/2106023740102656049/photo/1",
+              "media_key": "3_2106023720896851968",
+              "start": 4,
+              "url": "https://t.co/Yw1K061Uc9"
+            },
+            {
+              "display_url": "pic.x.com/Yw1K061Uc9",
+              "end": 27,
+              "expanded_url": "https://x.com/HR3EOO/status/2106023740102656049/photo/1",
+              "media_key": "3_2106023731550363648",
+              "start": 4,
+              "url": "https://t.co/Yw1K061Uc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106023740102656049",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106023720896851968"
+          },
+          {
+            "media_key": "3_2106023731550363648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破绷… https://t.co/Yw1K061Uc9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106028849750508013",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1763,
+          "like_count": 6830,
+          "listed_count": 1,
+          "media_count": 650,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2106026927987491025",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2105934009855627496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 191,
+          "like_count": 4991,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

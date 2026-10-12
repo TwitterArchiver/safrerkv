@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103475834623570341",
+    "created_at": "2026-09-26T08:31:41.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103764432405074144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2085173242814451712",
+          "start": 0,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103764432405074144",
+    "in_reply_to_user_id": "2085173242814451712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103475834623570341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda4_8964 其实是爸爸也想抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103475834623570341",
+        "created_at": "2026-09-26T08:31:41.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103764432405074144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103764432405074144",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103475834623570341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 其实是爸爸也想抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085173242814451712",
+        "conversation_id": "2103475834623570341",
+        "created_at": "2026-09-25T13:24:54.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103475834623570341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103475834623570341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天抽烟第3次被我爸抓到了我爸搁那骂我，没绷住笑出来了😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103764432405074144",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1425,
+          "like_count": 5289,
+          "listed_count": 1,
+          "media_count": 549,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2103762666418250109",
+        "name": "𝖞𝖚𝖉𝖆،梦想死了🏴‍☠️四代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1789984331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 123,
+          "like_count": 5452,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

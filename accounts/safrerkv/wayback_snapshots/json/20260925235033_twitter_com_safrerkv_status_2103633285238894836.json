@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103118341938495488"
+      ],
+      "media_source_tweet_id": [
+        "2103118346967449998"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103633285238894836",
+    "created_at": "2026-09-25T23:50:33.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T00:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103633285238894836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090350983574675456",
+          "start": 3,
+          "username": "l9sen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzeeQEZwkm",
+          "end": 39,
+          "expanded_url": "https://x.com/l9sen/status/2103118346967449998/photo/1",
+          "media_key": "3_2103118341938495488",
+          "start": 16,
+          "url": "https://t.co/vzeeQEZwkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103633285238894836",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103118341938495488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103118346967449998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @l9sen: 秦谷美鈴 https://t.co/vzeeQEZwkm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103118341938495488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_G_TvaQAApVsy.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103118341938495488"
+          ],
+          "media_source_tweet_id": [
+            "2103118346967449998"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103633285238894836",
+        "created_at": "2026-09-25T23:50:33.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103633285238894836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090350983574675456",
+              "start": 3,
+              "username": "l9sen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzeeQEZwkm",
+              "end": 39,
+              "expanded_url": "https://x.com/l9sen/status/2103118346967449998/photo/1",
+              "media_key": "3_2103118341938495488",
+              "start": 16,
+              "url": "https://t.co/vzeeQEZwkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103633285238894836",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103118341938495488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103118346967449998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @l9sen: 秦谷美鈴 https://t.co/vzeeQEZwkm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103118341938495488"
+          ]
+        },
+        "author_id": "2090350983574675456",
+        "conversation_id": "2103118346967449998",
+        "created_at": "2026-09-24T13:44:22.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103118346967449998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzeeQEZwkm",
+              "end": 28,
+              "expanded_url": "https://x.com/l9sen/status/2103118346967449998/photo/1",
+              "media_key": "3_2103118341938495488",
+              "start": 5,
+              "url": "https://t.co/vzeeQEZwkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103118346967449998",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103118341938495488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 17975,
+          "like_count": 2177,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "秦谷美鈴 https://t.co/vzeeQEZwkm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103633285238894836",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 1395,
+          "like_count": 5196,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 1856
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:11:51.000Z",
+        "description": "みか宗と福乱とヒカ碁 @G2_2G28",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "G2_2G28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y87hc2h240mqzk…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y87hc2h240mqzkr?t=CW4WrI&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Geg3ID8Nmb"
+              }
+            ]
+          }
+        },
+        "id": "2090350983574675456",
+        "is_identity_verified": false,
+        "location": "成人済",
+        "most_recent_tweet_id": "2103454749987393745",
+        "name": "日記",
+        "pinned_tweet_id": "2100902488975216690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090350983574675456/1787213590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102782750382305280/DwLvY9Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 7,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/Geg3ID8Nmb",
+        "username": "l9sen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

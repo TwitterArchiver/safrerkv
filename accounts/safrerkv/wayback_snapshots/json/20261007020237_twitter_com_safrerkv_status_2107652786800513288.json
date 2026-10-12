@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107530299982950426",
+    "created_at": "2026-10-07T02:02:37.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T03:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107652786800513288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947049438696058880",
+          "start": 0,
+          "username": "Evelyn_xanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107652786800513288",
+    "in_reply_to_user_id": "1947049438696058880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107530299982950426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evelyn_xanax 看着不烧心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2107530282228436992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9zoCGa0AAwa5N.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107530299982950426",
+        "created_at": "2026-10-07T02:02:37.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107652786800513288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947049438696058880",
+              "start": 0,
+              "username": "Evelyn_xanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107652786800513288",
+        "in_reply_to_user_id": "1947049438696058880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107530299982950426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evelyn_xanax 看着不烧心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107530282228436992"
+          ]
+        },
+        "author_id": "1947049438696058880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107530299982950426",
+        "created_at": "2026-10-06T17:55:54.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T18:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107530299982950426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETbG7qY93p",
+              "end": 33,
+              "expanded_url": "https://x.com/Evelyn_xanax/status/2107530299982950426/photo/1",
+              "media_key": "3_2107530282228436992",
+              "start": 10,
+              "url": "https://t.co/ETbG7qY93p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107530299982950426",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107530282228436992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己嗦的像被打了 https://t.co/ETbG7qY93p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107652786800513288",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1998,
+          "like_count": 8641,
+          "listed_count": 1,
+          "media_count": 739,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T21:43:18.000Z",
+        "description": "精神病 休学 女 infp\n 欢迎任何人互fo\n 大部分都是碎碎念呀\n偶尔发血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xanax69587",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xanax69587",
+                "start": 0,
+                "url": "https://t.co/xdbSqqopCN"
+              }
+            ]
+          }
+        },
+        "id": "1947049438696058880",
+        "is_identity_verified": false,
+        "location": "神聖なXanax†",
+        "most_recent_tweet_id": "2107571183713665305",
+        "name": "異樣",
+        "pinned_tweet_id": "2031050502386209106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947049438696058880/1778450021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099896628144697344/RbIlwMTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 529,
+          "like_count": 5270,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/xdbSqqopCN",
+        "username": "Evelyn_xanax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

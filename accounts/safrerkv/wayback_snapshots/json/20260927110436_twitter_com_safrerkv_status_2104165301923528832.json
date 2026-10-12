@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104093482893861329",
+    "created_at": "2026-09-27T11:04:36.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104165301923528832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816796445284139008",
+          "start": 0,
+          "username": "Tsukinoki1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104165301923528832",
+    "in_reply_to_user_id": "1816796445284139008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104150765954805980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukinoki1214 并非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104093482893861329",
+        "created_at": "2026-09-27T11:04:36.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104165301923528832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816796445284139008",
+              "start": 0,
+              "username": "Tsukinoki1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104165301923528832",
+        "in_reply_to_user_id": "1816796445284139008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104150765954805980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukinoki1214 并非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816796445284139008",
+        "conversation_id": "2104093482893861329",
+        "created_at": "2026-09-27T10:06:50.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104150765954805980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104150765954805980",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104093482893861329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 比我强"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104165301923528832",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 1531,
+          "like_count": 5749,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-26T11:23:42.000Z",
+        "description": "仅个人观点，无客观性，个人心理状态稳定，无自杀倾向，坚持一个原则。纯观点。仅供娱乐，发病中。\n不割手/不od/无证无糖/不HRT不是MTF/喝酒不抽烟/无抑郁/无双向/不休学\n不涉政的话题尽量保持中立",
+        "id": "1816796445284139008",
+        "is_identity_verified": false,
+        "location": "Rhodes Island",
+        "most_recent_tweet_id": "2104150765954805980",
+        "name": "槻木汐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816796445284139008/1782642376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063279665545179136/Zz52TCjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "Tsukinoki1214",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

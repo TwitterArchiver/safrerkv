@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105900819183010102",
+    "created_at": "2026-10-02T06:00:55.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105900819183010102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2025936235693511120",
+          "start": 70,
+          "url": "https://t.co/ZD19ScME1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105900819183010102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025936235693511120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/ZD19ScME1M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105900819183010102",
+        "created_at": "2026-10-02T06:00:55.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105900819183010102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2025936235693511120",
+              "start": 70,
+              "url": "https://t.co/ZD19ScME1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105900819183010102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025936235693511120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/ZD19ScME1M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2025936235693511120",
+        "created_at": "2026-02-23T14:10:13.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025936235693511120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025936235693511120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 54674,
+          "like_count": 397,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105900819183010102",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1723,
+          "like_count": 6739,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2105849877003674110",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 1426,
+          "like_count": 44503,
+          "listed_count": 6,
+          "media_count": 2001,
+          "tweet_count": 14084
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

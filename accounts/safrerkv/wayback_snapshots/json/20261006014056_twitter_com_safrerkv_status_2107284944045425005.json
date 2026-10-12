@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107080679427314027",
+    "created_at": "2026-10-06T01:40:56.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T02:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107284944045425005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800625969688125440",
+          "start": 0,
+          "username": "eeeleven0311o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107284944045425005",
+    "in_reply_to_user_id": "1800625969688125440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107080679427314027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeeleven0311o 我变成了一只鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107080679427314027",
+        "created_at": "2026-10-06T01:40:56.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107284944045425005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800625969688125440",
+              "start": 0,
+              "username": "eeeleven0311o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107284944045425005",
+        "in_reply_to_user_id": "1800625969688125440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107080679427314027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeeleven0311o 我变成了一只鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800625969688125440",
+        "conversation_id": "2107080679427314027",
+        "created_at": "2026-10-05T12:09:16.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107080679427314027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki3Mepcpy/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Yuki3Mepcpy/status/2107055624039154052",
+              "start": 55,
+              "url": "https://t.co/R5x226qg1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107080679427314027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107055624039154052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又感知到了鸡尘效应，不知道什么原因，我的味觉能感受到一种熟悉的气味，这会有轻微的的恶心感，视觉突然剧烈变形 https://t.co/R5x226qg1r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107284944045425005",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1955,
+          "like_count": 8395,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-11T20:28:07.000Z",
+        "description": "我叫十一丨OD丨二游丨音游 友一切w\n互fo大欢迎🤲 🌱🧣，creek全肯定\n\n为了美好的每一天\n\n防炸：@eleven0311e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "eleven0311e"
+              }
+            ]
+          }
+        },
+        "id": "1800625969688125440",
+        "is_identity_verified": false,
+        "location": "5.2km",
+        "most_recent_tweet_id": "2107166986296041703",
+        "name": "𝖊𝖑𝖊𝖛𝖊𝖓.",
+        "pinned_tweet_id": "2039304504198533224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800625969688125440/1772299684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034981439624945665/1cUyRw0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 441,
+          "like_count": 13606,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2130
+        },
+        "url": "",
+        "username": "eeeleven0311o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

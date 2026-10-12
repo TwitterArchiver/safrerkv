@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104155260885635072"
+      ],
+      "media_source_tweet_id": [
+        "2104155265876562088"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104219928475906201",
+    "created_at": "2026-09-27T14:41:40.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104219928475906201"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "学マス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "986597890167521280",
+          "start": 3,
+          "username": "HoujiTeaLatte_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JuhX99eBFZ",
+          "end": 59,
+          "expanded_url": "https://x.com/HoujiTeaLatte_/status/2104155265876562088/photo/1",
+          "media_key": "3_2104155260885635072",
+          "start": 36,
+          "url": "https://t.co/JuhX99eBFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104219928475906201",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "alt_text": "まだ夏ですよね？",
+        "media_key": "3_2104155260885635072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 682
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104155265876562088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoujiTeaLatte_: 秦谷美鈴ちゃん💤   #学マス https://t.co/JuhX99eBFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "まだ夏ですよね？",
+        "height": 2048,
+        "media_key": "3_2104155260885635072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTN2D71bkAAVClo.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104155260885635072"
+          ],
+          "media_source_tweet_id": [
+            "2104155265876562088"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104219928475906201",
+        "created_at": "2026-09-27T14:41:40.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104219928475906201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "学マス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "986597890167521280",
+              "start": 3,
+              "username": "HoujiTeaLatte_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuhX99eBFZ",
+              "end": 59,
+              "expanded_url": "https://x.com/HoujiTeaLatte_/status/2104155265876562088/photo/1",
+              "media_key": "3_2104155260885635072",
+              "start": 36,
+              "url": "https://t.co/JuhX99eBFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104219928475906201",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "まだ夏ですよね？",
+            "media_key": "3_2104155260885635072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 682
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104155265876562088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoujiTeaLatte_: 秦谷美鈴ちゃん💤   #学マス https://t.co/JuhX99eBFZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104155260885635072"
+          ]
+        },
+        "author_id": "986597890167521280",
+        "conversation_id": "2104155265876562088",
+        "created_at": "2026-09-27T10:24:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104155265876562088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "学マス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuhX99eBFZ",
+              "end": 39,
+              "expanded_url": "https://x.com/HoujiTeaLatte_/status/2104155265876562088/photo/1",
+              "media_key": "3_2104155260885635072",
+              "start": 16,
+              "url": "https://t.co/JuhX99eBFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104155265876562088",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "まだ夏ですよね？",
+            "media_key": "3_2104155260885635072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1154,
+          "impression_count": 56865,
+          "like_count": 6999,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 682
+        },
+        "reply_settings": "everyone",
+        "text": "秦谷美鈴ちゃん💤   #学マス https://t.co/JuhX99eBFZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104219928475906201",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1536,
+          "like_count": 5800,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-18T13:30:41.000Z",
+        "description": "超かぐや姫！、バンドリ、学マス。お仕事ご依頼はDMかメールで→hotela813@gmail.com スケブ https://t.co/JZv5XcOWnB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@HoujiTeaLatte_",
+                "end": 78,
+                "expanded_url": "https://skeb.jp/@HoujiTeaLatte_",
+                "start": 55,
+                "url": "https://t.co/JZv5XcOWnB"
+              }
+            ]
+          }
+        },
+        "id": "986597890167521280",
+        "is_identity_verified": false,
+        "location": "東京都調布市深大寺北町3-11ダリアハウス302",
+        "most_recent_tweet_id": "2104157456729358820",
+        "name": "ほてら🦋🍒",
+        "pinned_tweet_id": "2053310384900337981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986597890167521280/1785423744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974431880746516481/iXqffe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20171,
+          "following_count": 584,
+          "like_count": 13392,
+          "listed_count": 158,
+          "media_count": 1346,
+          "tweet_count": 75463
+        },
+        "url": "",
+        "username": "HoujiTeaLatte_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

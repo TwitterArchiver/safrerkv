@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104044195476582561",
+    "created_at": "2026-09-27T04:52:42.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104071713600512229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758297861337542658",
+          "start": 0,
+          "username": "Lzy2859905CH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104071713600512229",
+    "in_reply_to_user_id": "1758297861337542658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104070876471923141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzy2859905CH 难道不是13.5吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104044195476582561",
+        "created_at": "2026-09-27T04:52:42.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104071713600512229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758297861337542658",
+              "start": 0,
+              "username": "Lzy2859905CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104071713600512229",
+        "in_reply_to_user_id": "1758297861337542658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104070876471923141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzy2859905CH 难道不是13.5吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758297861337542658",
+        "conversation_id": "2104044195476582561",
+        "created_at": "2026-09-27T04:49:23.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104070876471923141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104070876471923141",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104044195476582561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 你的rks……真的才13.5吗（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104071713600512229",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1504,
+          "like_count": 5683,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T01:11:19.000Z",
+        "description": "Wonderhoi! · CN/EN/JP · Rhythm Game Player ♬｜PJSK/Phigros/osu!/Minecraft/DDLC/Blue Archive｜或許是貓娘喵｜Maybe MtF?\nmac10125fof@iCloud.com/Steam 1872536893",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1660594919",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1660594919",
+                "start": 0,
+                "url": "https://t.co/bve3YSfzhs"
+              }
+            ]
+          }
+        },
+        "id": "1758297861337542658",
+        "is_identity_verified": false,
+        "location": "Shuangliu,Chengdu,Sichuan,PRC",
+        "most_recent_tweet_id": "2104070876471923141",
+        "name": "星音ナキ@WSDH Studio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758297861337542658/1767970137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986900529302392832/nTn2wfXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 593,
+          "like_count": 3524,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/bve3YSfzhs",
+        "username": "Lzy2859905CH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

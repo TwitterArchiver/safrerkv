@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107316121934381380",
+    "created_at": "2026-10-06T14:20:52.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107476187899674823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492068366731059203",
+          "start": 0,
+          "username": "Yuki3Mepcpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107476187899674823",
+    "in_reply_to_user_id": "1492068366731059203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107399907858420111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki3Mepcpy 我变成？了。一只？！鸡》！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107316121934381380",
+        "created_at": "2026-10-06T14:20:52.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107476187899674823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492068366731059203",
+              "start": 0,
+              "username": "Yuki3Mepcpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107476187899674823",
+        "in_reply_to_user_id": "1492068366731059203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107399907858420111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki3Mepcpy 我变成？了。一只？！鸡》！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492068366731059203",
+        "conversation_id": "2107316121934381380",
+        "created_at": "2026-10-06T09:17:46.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107399907858420111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107399907858420111",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107316121934381380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 鸡瘟扩散中...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107476187899674823",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1991,
+          "like_count": 8556,
+          "listed_count": 1,
+          "media_count": 735,
+          "tweet_count": 3348
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "岐7.0世/ 依旧被永封啊啊淡推淡推\n早已逝去之人 早已宽恕之罪 /无💊🩸🐱📷元素\n和小策宝宝 @Cecey33 共号不定时出没\n逃生仓@Yuki114514_DXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Cecey33"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Yuki114514_DXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2107462092068388899",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2107417783008968790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1790852745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106795808087523329/yikCw85f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 237,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

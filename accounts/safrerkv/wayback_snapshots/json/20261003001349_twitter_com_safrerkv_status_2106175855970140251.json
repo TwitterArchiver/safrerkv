@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106056384123228167",
+    "created_at": "2026-10-03T00:13:49.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T01:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106175855970140251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106175855970140251",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106056384123228167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 是m喵 好色哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106056384123228167",
+        "created_at": "2026-10-03T00:13:49.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106175855970140251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106175855970140251",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106056384123228167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 是m喵 好色哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085457755243167744",
+        "conversation_id": "2106056384123228167",
+        "created_at": "2026-10-02T16:19:05.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106056384123228167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106056384123228167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实有点喜欢被攻击哦…喜欢被别人骂啦，我就是……呃啊啊……就是很无敌呀！！\n\n(ᗒᗩᗕ)՞你们这群小乐乐…噗哈哈\n好喜欢你们的啦！(≖╻≖；) \n\n但我是一个纯恶的人呀，不要对我有好感滤镜哦，我真的是一个特别特别坏的人呢ꈍ◡ꈍ\n\n我的价值观也有问题呢，我只是一个迷惑小朋友罢了，嘿嘿…₊⁺♡̶♡̶₊⁺ 我是一只小兔子呀，你们不要欺负我呀…(˃ ⌑ ˂ഃ )\n\n哦莫…还是快点来欺负我吧哈，我真的很享受你们来骂我来攻击我呢，真的很享受别人讨厌我……！这种感觉真是太快乐了(≖╻≖；)"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有点喜欢被攻击哦…喜欢被别人骂啦，我就是……呃啊啊……就是很无敌呀！！\n\n(ᗒᗩᗕ)՞你们这群小乐乐…噗哈哈\n好喜欢你们的啦！(≖╻≖；) \n\n但我是一个纯恶的人呀，不要对我有好感滤镜哦，我真的是一个特别特别坏的人呢ꈍ◡ꈍ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106175855970140251",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1780,
+          "like_count": 6903,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2106174964353356023",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2106051480398799352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 196,
+          "like_count": 5319,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106404093480820812",
+    "created_at": "2026-10-03T15:29:02.000Z",
+    "display_text_range": [
+      31,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106406179077501083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886242908875231232",
+          "start": 0,
+          "username": "acisuitie404"
+        },
+        {
+          "end": 30,
+          "id": "2089408201209102336",
+          "start": 14,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106406179077501083",
+    "in_reply_to_user_id": "1886242908875231232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106405994670567895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acisuitie404 @zhuzhuzhuzhusiz 只听不上😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106405994670567895].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106405994670567895",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106405994670567895"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106404093480820812",
+        "created_at": "2026-10-03T15:29:02.000Z",
+        "display_text_range": [
+          31,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106406179077501083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886242908875231232",
+              "start": 0,
+              "username": "acisuitie404"
+            },
+            {
+              "end": 30,
+              "id": "2089408201209102336",
+              "start": 14,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106406179077501083",
+        "in_reply_to_user_id": "1886242908875231232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106405994670567895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acisuitie404 @zhuzhuzhuzhusiz 只听不上😍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106406179077501083",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1801,
+          "like_count": 7133,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T02:38:57.000Z",
+        "description": "",
+        "id": "1886242908875231232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084655898694504846",
+        "name": "ac",
+        "pinned_tweet_id": "2051176874102145395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886242908875231232/1785918698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084920248436989952/t9r6S_Pv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 88,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "acisuitie404",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "@wbuzdwsmdoubzd\njj @shashatsi7\n防炸@zerooooouy69",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "wbuzdwsmdoubzd"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "shashatsi7"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "zerooooouy69"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106405531749626361",
+        "name": "炸炸的玉6.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103850772836519936/EBoWFVsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 316,
+          "like_count": 2354,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104071226566283286",
+    "created_at": "2026-09-28T13:25:57.000Z",
+    "display_text_range": [
+      13,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104563264126693555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317713356204093440",
+          "start": 0,
+          "username": "wzq69205401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104563264126693555",
+    "in_reply_to_user_id": "1317713356204093440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104380938839072863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzq69205401 我吃了16t 因为分次服用生物利用率会下降"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104071226566283286",
+        "created_at": "2026-09-28T13:25:57.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104563264126693555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317713356204093440",
+              "start": 0,
+              "username": "wzq69205401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104563264126693555",
+        "in_reply_to_user_id": "1317713356204093440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104380938839072863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzq69205401 我吃了16t 因为分次服用生物利用率会下降"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317713356204093440",
+        "conversation_id": "2104071226566283286",
+        "created_at": "2026-09-28T01:21:27.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104380938839072863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104380938839072863",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104071226566283286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 怎么吃的呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104563264126693555",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1587,
+          "like_count": 5942,
+          "listed_count": 1,
+          "media_count": 580,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T06:25:28.000Z",
+        "description": "二次全职摄影 intj\n明日香 穹妹可以来找我拍照",
+        "id": "1317713356204093440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104391556635795464",
+        "name": "雾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317713356204093440/1787407344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849887741154357248/vbC2ectP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 234,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "wzq69205401",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

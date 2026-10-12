@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103090470314467328"
+      ],
+      "media_source_tweet_id": [
+        "2103090478526939363"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103360135926337679",
+    "created_at": "2026-09-25T05:45:09.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103360135926337679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519967050084810752",
+          "start": 3,
+          "username": "yng_hoti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPZJ45WruJ",
+          "end": 46,
+          "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+          "media_key": "3_2103090470314467328",
+          "start": 23,
+          "url": "https://t.co/EPZJ45WruJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103360135926337679",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103090470314467328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103090478526939363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng_hoti: いちばんかわいい https://t.co/EPZJ45WruJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103090470314467328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-to92aYAA7Vw-.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103090470314467328"
+          ],
+          "media_source_tweet_id": [
+            "2103090478526939363"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103360135926337679",
+        "created_at": "2026-09-25T05:45:09.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103360135926337679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519967050084810752",
+              "start": 3,
+              "username": "yng_hoti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPZJ45WruJ",
+              "end": 46,
+              "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+              "media_key": "3_2103090470314467328",
+              "start": 23,
+              "url": "https://t.co/EPZJ45WruJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103360135926337679",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103090470314467328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103090478526939363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng_hoti: いちばんかわいい https://t.co/EPZJ45WruJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103090470314467328"
+          ]
+        },
+        "author_id": "1519967050084810752",
+        "conversation_id": "2103090478526939363",
+        "created_at": "2026-09-24T11:53:38.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103090478526939363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPZJ45WruJ",
+              "end": 32,
+              "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+              "media_key": "3_2103090470314467328",
+              "start": 9,
+              "url": "https://t.co/EPZJ45WruJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103090478526939363",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103090470314467328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 655,
+          "impression_count": 67472,
+          "like_count": 6854,
+          "quote_count": 21,
+          "reply_count": 19,
+          "retweet_count": 1207
+        },
+        "reply_settings": "everyone",
+        "text": "いちばんかわいい https://t.co/EPZJ45WruJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103360135926337679",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1365,
+          "like_count": 5039,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T09:09:23.000Z",
+        "description": "絵を描いてます💗￤⚠️イラストの無断使用(AI学習含)や、自作発言等はお控えください。￤📮skeb→https://t.co/ybf5Cc1dtz ￤📖FANBOX→ https://t.co/hRrjrbHJPf ￤💌Mail→yunagihoti@gmail.com￤sub→@yng_hotti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "yng_hotti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yng_hoti",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@yng_hoti",
+                "start": 50,
+                "url": "https://t.co/ybf5Cc1dtz"
+              },
+              {
+                "display_url": "ynghoti.fanbox.cc",
+                "end": 107,
+                "expanded_url": "https://ynghoti.fanbox.cc/",
+                "start": 84,
+                "url": "https://t.co/hRrjrbHJPf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ynghoti",
+                "end": 23,
+                "expanded_url": "https://lit.link/ynghoti",
+                "start": 0,
+                "url": "https://t.co/5q5d6R12jc"
+              }
+            ]
+          }
+        },
+        "id": "1519967050084810752",
+        "is_identity_verified": false,
+        "location": "ご依頼の詳細やその他SNSなど→",
+        "most_recent_tweet_id": "2103136679993417968",
+        "name": "ゆなぎなち🌟",
+        "pinned_tweet_id": "1908519868913377557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519967050084810752/1756552260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906956819400142848/i5pGDD2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21877,
+          "following_count": 529,
+          "like_count": 75969,
+          "listed_count": 146,
+          "media_count": 365,
+          "tweet_count": 15091
+        },
+        "url": "https://t.co/5q5d6R12jc",
+        "username": "yng_hoti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

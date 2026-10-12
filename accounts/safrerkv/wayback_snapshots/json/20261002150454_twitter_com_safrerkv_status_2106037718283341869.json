@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106037702927978496"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106022497099690151",
+    "created_at": "2026-10-02T15:04:54.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106037718283341869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395755728950812676",
+          "start": 0,
+          "username": "shikoch1n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tnkWZUxF1H",
+          "end": 40,
+          "expanded_url": "https://x.com/safrerkv/status/2106037718283341869/photo/1",
+          "media_key": "3_2106037702927978496",
+          "start": 17,
+          "url": "https://t.co/tnkWZUxF1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106037718283341869",
+    "in_reply_to_user_id": "1395755728950812676",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106037702927978496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106037082414285125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikoch1n 特供横屏版 https://t.co/tnkWZUxF1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2106037702927978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTomIe6aEAAhmMn.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106037702927978496"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106022497099690151",
+        "created_at": "2026-10-02T15:04:54.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106037718283341869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395755728950812676",
+              "start": 0,
+              "username": "shikoch1n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnkWZUxF1H",
+              "end": 40,
+              "expanded_url": "https://x.com/safrerkv/status/2106037718283341869/photo/1",
+              "media_key": "3_2106037702927978496",
+              "start": 17,
+              "url": "https://t.co/tnkWZUxF1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106037718283341869",
+        "in_reply_to_user_id": "1395755728950812676",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106037702927978496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106037082414285125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikoch1n 特供横屏版 https://t.co/tnkWZUxF1H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395755728950812676",
+        "conversation_id": "2106022497099690151",
+        "created_at": "2026-10-02T15:02:23.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106037082414285125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106037082414285125",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106022497099690151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 发我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106037718283341869",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1762,
+          "like_count": 6846,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T14:58:02.000Z",
+        "description": "Writer / Vibe Coder\nLanguage: Chinese / English\nany DM are welcome\n我喜欢你们，互关🥺\n\nXKO0C027475a78E05966069823379E0D008895674a0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shikoch.in",
+                "end": 23,
+                "expanded_url": "http://shikoch.in",
+                "start": 0,
+                "url": "https://t.co/PLpx9hb3j9"
+              }
+            ]
+          }
+        },
+        "id": "1395755728950812676",
+        "is_identity_verified": false,
+        "location": "Prohibited",
+        "most_recent_tweet_id": "2106037406101332305",
+        "name": "西宮 缄",
+        "pinned_tweet_id": "1743677436347494511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395755728950812676/1790448175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103918254725201920/de5KCyp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 316,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/PLpx9hb3j9",
+        "username": "shikoch1n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105506290298712350",
+    "created_at": "2026-10-01T03:53:12.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105506290298712350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uwu8964/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/uwu8964/status/2105370737829916693",
+          "start": 8,
+          "url": "https://t.co/1afhuAPKkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105506290298712350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105370737829916693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "万一这是我妈呢 https://t.co/1afhuAPKkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2105370706162905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVacAA69_f.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706171383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKXb0AAuFQh.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706162987008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVbsAAhKkZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 811,
+        "media_key": "3_2105370706196475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKdasAApdgT.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105506290298712350",
+        "created_at": "2026-10-01T03:53:12.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105506290298712350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uwu8964/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/uwu8964/status/2105370737829916693",
+              "start": 8,
+              "url": "https://t.co/1afhuAPKkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105506290298712350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105370737829916693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万一这是我妈呢 https://t.co/1afhuAPKkU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105370706162905088",
+            "3_2105370706171383808",
+            "3_2105370706162987008",
+            "3_2105370706196475904"
+          ]
+        },
+        "author_id": "2103590351080771584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105370737829916693",
+        "created_at": "2026-09-30T18:54:34.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105370737829916693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162905088",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706171383808",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162987008",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706196475904",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105370737829916693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105370706162905088"
+          },
+          {
+            "media_key": "3_2105370706171383808"
+          },
+          {
+            "media_key": "3_2105370706162987008"
+          },
+          {
+            "media_key": "3_2105370706196475904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3339,
+          "like_count": 33,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "msk我是你爸爸\n你或許曾聽說我的名字\n這裡是n代目的番茄操蛋\n我的假雞巴還沒發貨就被扼殺了嗎\n連續被封了一個1k4fo一個800fo的藍v號\n剛開完藍v就被封了也是來做慈善了好吧\n你們的媽都被我操飛了\n心情： https://t.co/alTh8gNjbr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105506290298712350",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1677,
+          "like_count": 6533,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "",
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105505381460140458",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

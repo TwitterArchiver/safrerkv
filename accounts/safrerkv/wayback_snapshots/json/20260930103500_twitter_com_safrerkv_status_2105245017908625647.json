@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105159169859092865",
+    "created_at": "2026-09-30T10:35:00.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105245017908625647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2096078893912621056",
+          "start": 0,
+          "username": "RomeMyerstaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105245017908625647",
+    "in_reply_to_user_id": "2096078893912621056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105159169859092865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RomeMyerstaki 不亚于把钱撕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54066,
+        "height": 1280,
+        "media_key": "13_2105159074140831744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105159074140831744/img/n9HEN6lLc9ux7P1C.jpg",
+        "public_metrics": {
+          "view_count": 5078
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/320x568/nrBVfiW-QRUxDbCn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/480x852/po3xoZFRinNp4aQT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/720x1280/ht2WvwhunVkwcEyK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/pl/65X2rNvRrHS2Si9h.m3u8?v=ccd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-09-30T10:35:00.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105245017908625647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2096078893912621056",
+              "start": 0,
+              "username": "RomeMyerstaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105245017908625647",
+        "in_reply_to_user_id": "2096078893912621056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105159169859092865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RomeMyerstaki 不亚于把钱撕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105159074140831744"
+          ]
+        },
+        "author_id": "2096078893912621056",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-09-30T04:53:52.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105159169859092865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuWOUZUwf8",
+              "end": 41,
+              "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+              "media_key": "13_2105159074140831744",
+              "start": 18,
+              "url": "https://t.co/BuWOUZUwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105159169859092865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105159074140831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8524,
+          "like_count": 155,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105245017908625647",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 1654,
+          "like_count": 6350,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T03:32:46.000Z",
+        "description": "可以叫我纯度，09的幕刃目前在工作，我💊/🚬",
+        "id": "2096078893912621056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105217064390808061",
+        "name": "纯度不是蠢嘟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096078893912621056/1789788620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099309889692807169/Cq79Gj5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 69,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "RomeMyerstaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

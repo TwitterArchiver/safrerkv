@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102634367566913536",
+        "3_2102634430796095489",
+        "3_2102634497267396608",
+        "3_2102634848452304896"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2102635134059180289",
+    "created_at": "2026-09-23T05:44:15.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102635134059180289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JArScvdq9N",
+          "end": 63,
+          "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+          "media_key": "3_2102634367566913536",
+          "start": 40,
+          "url": "https://t.co/JArScvdq9N"
+        },
+        {
+          "display_url": "pic.x.com/JArScvdq9N",
+          "end": 63,
+          "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+          "media_key": "3_2102634430796095489",
+          "start": 40,
+          "url": "https://t.co/JArScvdq9N"
+        },
+        {
+          "display_url": "pic.x.com/JArScvdq9N",
+          "end": 63,
+          "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+          "media_key": "3_2102634497267396608",
+          "start": 40,
+          "url": "https://t.co/JArScvdq9N"
+        },
+        {
+          "display_url": "pic.x.com/JArScvdq9N",
+          "end": 63,
+          "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+          "media_key": "3_2102634848452304896",
+          "start": 40,
+          "url": "https://t.co/JArScvdq9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102635134059180289",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102634367566913536"
+      },
+      {
+        "media_key": "3_2102634430796095489"
+      },
+      {
+        "media_key": "3_2102634497267396608"
+      },
+      {
+        "media_key": "3_2102634848452304896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去 是吴奇隆！ 一直维持朋友的关系吧喵 看不懂在说什么喵 这下不得不发了喵🥵 https://t.co/JArScvdq9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2102634367566913536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4O0StaoAAezf6.jpg",
+        "width": 645
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2102634430796095489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4O3-QbYAEVWe1.jpg",
+        "width": 645
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2102634497267396608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4O714a8AAipcY.jpg",
+        "width": 645
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2102634848452304896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4PQSJbYAAp0si.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102634367566913536",
+            "3_2102634430796095489",
+            "3_2102634497267396608",
+            "3_2102634848452304896"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2102635134059180289",
+        "created_at": "2026-09-23T05:44:15.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102635134059180289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JArScvdq9N",
+              "end": 63,
+              "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+              "media_key": "3_2102634367566913536",
+              "start": 40,
+              "url": "https://t.co/JArScvdq9N"
+            },
+            {
+              "display_url": "pic.x.com/JArScvdq9N",
+              "end": 63,
+              "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+              "media_key": "3_2102634430796095489",
+              "start": 40,
+              "url": "https://t.co/JArScvdq9N"
+            },
+            {
+              "display_url": "pic.x.com/JArScvdq9N",
+              "end": 63,
+              "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+              "media_key": "3_2102634497267396608",
+              "start": 40,
+              "url": "https://t.co/JArScvdq9N"
+            },
+            {
+              "display_url": "pic.x.com/JArScvdq9N",
+              "end": 63,
+              "expanded_url": "https://x.com/safrerkv/status/2102635134059180289/photo/1",
+              "media_key": "3_2102634848452304896",
+              "start": 40,
+              "url": "https://t.co/JArScvdq9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102635134059180289",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102634367566913536"
+          },
+          {
+            "media_key": "3_2102634430796095489"
+          },
+          {
+            "media_key": "3_2102634497267396608"
+          },
+          {
+            "media_key": "3_2102634848452304896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去 是吴奇隆！ 一直维持朋友的关系吧喵 看不懂在说什么喵 这下不得不发了喵🥵 https://t.co/JArScvdq9N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2102635134059180289",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1331,
+          "like_count": 4870,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

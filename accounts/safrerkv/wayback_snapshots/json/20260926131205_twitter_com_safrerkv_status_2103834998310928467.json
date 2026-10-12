@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103818965143437783",
+    "created_at": "2026-09-26T13:12:05.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103834998310928467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713161866053292032",
+          "start": 0,
+          "username": "pater1832861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103834998310928467",
+    "in_reply_to_user_id": "1713161866053292032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103833788333928460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pater1832861 好欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103818965143437783",
+        "created_at": "2026-09-26T13:12:05.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103834998310928467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713161866053292032",
+              "start": 0,
+              "username": "pater1832861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103834998310928467",
+        "in_reply_to_user_id": "1713161866053292032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103833788333928460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pater1832861 好欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713161866053292032",
+        "conversation_id": "2103818965143437783",
+        "created_at": "2026-09-26T13:07:17.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103833788333928460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103833788333928460",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103830882100646002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 我找时间把我的自拍发一下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103834998310928467",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1436,
+          "like_count": 5382,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-14T11:56:43.000Z",
+        "description": "やってみなきゃわからない",
+        "id": "1713161866053292032",
+        "is_identity_verified": false,
+        "location": "Chuo-ku, Tokyo",
+        "most_recent_tweet_id": "2103833788333928460",
+        "name": "Mitsuba Sousuke (probably)",
+        "pinned_tweet_id": "2090961024078016918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713161866053292032/1789280028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099018691228864512/SzLTv6aP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1406,
+          "like_count": 11898,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "pater1832861",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2108180551081586842",
+    "created_at": "2026-10-09T05:45:17.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108433600291197134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108433600291197134",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108180551081586842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 有线耳机是好文明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2108180551081586842",
+        "created_at": "2026-10-09T05:45:17.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108433600291197134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108433600291197134",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108180551081586842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 有线耳机是好文明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2108180551081586842",
+        "created_at": "2026-10-08T12:59:46.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108180551081586842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108180551081586842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3662,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有人在用有线耳机吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108433600291197134",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2108174277392703642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1791457178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 2046,
+          "like_count": 8999,
+          "listed_count": 1,
+          "media_count": 772,
+          "tweet_count": 3614
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中…@FffffNnnnnYyyyy\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "FffffNnnnnYyyyy"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 80,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 57,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108254996475330607",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 348,
+          "like_count": 9118,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 4309
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

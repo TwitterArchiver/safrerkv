@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106687848506331278",
+    "created_at": "2026-10-04T10:49:31.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106698223226347731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106698223226347731",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106687848506331278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 穆穆酱其实没必要想这么多 只要做自己开心的事就可以了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106687848506331278",
+        "created_at": "2026-10-04T10:49:31.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106698223226347731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106698223226347731",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106687848506331278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 穆穆酱其实没必要想这么多 只要做自己开心的事就可以了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085457755243167744",
+        "conversation_id": "2106687848506331278",
+        "created_at": "2026-10-04T10:08:18.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106687848506331278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106687848506331278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我很苦恼\n我苦恼，我一直在想活着的意义，我认为我头要炸了，因为我思考这个问题的时候就没有意义\n我为什么要去思考一个没有意义没有答案的事情，明明我的任务只是活着，我苦恼\n我有很多为什么，我喜欢说为什么，我好像做什么事情都要想为什么，为什么？\n我存在就没用，我只想让自己舒服，我要做我喜欢的事情，即使它会伤害我，我会选择对我来说好处最多的事做，我对好处的定义是让自己当下舒服？\n我想，什么是好，什么是坏\n为什么要把所有事情定义一个好坏标准，谁说好人干好事就是好，坏人干坏事就是坏，我们在自己玩自己，我们做的任何一件事，放到宇宙的角度就是没有任何意义…\n我们生活在自己的小世界里，或者说我们被困住了，我不知道为什么我会想这些问题\n我认为我们不应该存在的…我们为什么要活着，我们赶紧死掉不就好了，死了就能解决一切让人们苦恼的事情，我们为什么不一起死？人类灭绝就好了，只靠一点人没用的。\n我觉得，我们没有错，无论谁干了什么坏事……我不会主动去攻击任何一个人，别人主动攻击我我大多不会认真反击。\n因为我们人就是被这样设计的……我们只是玩具，造物主，比人类更了解人类，我们的任何可能性都被知道了，我觉得一切都没有意义……可是，矛盾的是，我现在想这些也是被造物主知道了吗？造物主早就知道了。\n我的脑子被局限了，我想的一切都是没有意义的，我想的一切都是等于乱码，没有意义，没有任何意义"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很苦恼\n我苦恼，我一直在想活着的意义，我认为我头要炸了，因为我思考这个问题的时候就没有意义\n我为什么要去思考一个没有意义没有答案的事情，明明我的任务只是活着，我苦恼\n我有很多为什么，我喜欢说为什么，我好像做什么事情都要想为什么，为什么？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106698223226347731",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 1863,
+          "like_count": 7534,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2106697205750890725",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2106051480398799352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 197,
+          "like_count": 5804,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1070
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

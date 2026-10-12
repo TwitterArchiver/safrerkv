@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2108236011562287533",
+    "created_at": "2026-10-09T12:30:27.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T13:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108535562747752799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "357539288",
+          "start": 0,
+          "username": "rin917_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108535562747752799",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108236011562287533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin917_8964 我真的羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2108236011562287533",
+        "created_at": "2026-10-09T12:30:27.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108535562747752799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108535562747752799",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108236011562287533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 我真的羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2108236011562287533",
+        "created_at": "2026-10-08T16:40:08.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108236011562287533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108236011562287533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2195,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就因为三个日常视频涨了几千粉？好可怕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108535562747752799",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2108174277392703642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1791457178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 2044,
+          "like_count": 9086,
+          "listed_count": 1,
+          "media_count": 781,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk收了我的钱还这样（23.0预备）\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生 同类fo/我是低龄糖逼，别和我计较了，\n宇宙级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀\n工作号@AminoXx_killer\n❀姐姐大人@NEKONO14❀\n❀💞@woaiuai0721❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "NEKONO14"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin/pix",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin/pix",
+                "start": 0,
+                "url": "https://t.co/dMn9bxVA8H"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2108532630392299620",
+        "name": "传奇病娇18.霖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1789783693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106747764986265600/j8egGsOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342,
+          "following_count": 526,
+          "like_count": 4019,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/dMn9bxVA8H",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

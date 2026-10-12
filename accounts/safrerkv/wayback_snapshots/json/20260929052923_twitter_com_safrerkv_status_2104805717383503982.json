@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104801126101266455",
+    "created_at": "2026-09-29T05:29:23.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104805717383503982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2104093218535337984",
+          "start": 0,
+          "username": "zerooooouy69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104805717383503982",
+    "in_reply_to_user_id": "2104093218535337984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104801126101266455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerooooouy69 居然猜对了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2104801118232731649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXBdx8bYAERysj.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104801126101266455",
+        "created_at": "2026-09-29T05:29:23.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104805717383503982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2104093218535337984",
+              "start": 0,
+              "username": "zerooooouy69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104805717383503982",
+        "in_reply_to_user_id": "2104093218535337984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104801126101266455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerooooouy69 居然猜对了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104801118232731649"
+          ]
+        },
+        "author_id": "2104093218535337984",
+        "conversation_id": "2104801126101266455",
+        "created_at": "2026-09-29T05:11:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104801126101266455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHZ6P8TcwG",
+              "end": 29,
+              "expanded_url": "https://x.com/zerooooouy69/status/2104801126101266455/photo/1",
+              "media_key": "3_2104801118232731649",
+              "start": 6,
+              "url": "https://t.co/RHZ6P8TcwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104801126101266455",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2104801118232731649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(￣▽￣) https://t.co/RHZ6P8TcwG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104805717383503982",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1603,
+          "like_count": 6141,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T06:19:22.000Z",
+        "description": "ok\n@wbuzdwsmdoubzd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "wbuzdwsmdoubzd"
+              }
+            ]
+          }
+        },
+        "id": "2104093218535337984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104801126101266455",
+        "name": "炸玉777？",
+        "pinned_tweet_id": "2104094533499953326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104093218535337984/1790490181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104093619770765312/T8_aEFig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 62,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "zerooooouy69",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

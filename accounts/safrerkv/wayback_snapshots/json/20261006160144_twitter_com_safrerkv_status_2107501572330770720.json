@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107482226372026542",
+    "created_at": "2026-10-06T16:01:44.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T17:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107501572330770720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972497129550860288",
+          "start": 0,
+          "username": "Isolation8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107501572330770720",
+    "in_reply_to_user_id": "1972497129550860288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107501455804596685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isolation8964 谢谢喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107482226372026542",
+        "created_at": "2026-10-06T16:01:44.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107501572330770720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972497129550860288",
+              "start": 0,
+              "username": "Isolation8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107501572330770720",
+        "in_reply_to_user_id": "1972497129550860288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107501455804596685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation8964 谢谢喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972497129550860288",
+        "conversation_id": "2107482226372026542",
+        "created_at": "2026-10-06T16:01:17.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107501455804596685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107501455804596685",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107482226372026542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107501572330770720",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1992,
+          "like_count": 8579,
+          "listed_count": 1,
+          "media_count": 738,
+          "tweet_count": 3367
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "成分follow|16 y.o.|INTP-A|CN/EN|自由主义|LGBT+友好|音游人|C-PTSD|生活健全|粉蛆勿扰\n爱个体而非集体 / 痛恨霸凌与洗脑\nAsk: https://t.co/mUxacbCW24\nOtherX: @Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 110,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 87,
+                "url": "https://t.co/mUxacbCW24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInGWdc"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2107501455804596685",
+        "name": "Is0.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092784137187041280/9WWVwoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 229,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/lEYNInGWdc",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

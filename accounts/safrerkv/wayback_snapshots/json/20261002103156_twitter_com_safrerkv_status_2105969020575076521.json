@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105900819183010102",
+    "created_at": "2026-10-02T10:31:56.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105969020575076521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105969020575076521",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105960267205022127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 我求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105900819183010102",
+        "created_at": "2026-10-02T10:31:56.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105969020575076521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105969020575076521",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105960267205022127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066161725322526720",
+        "conversation_id": "2105900819183010102",
+        "created_at": "2026-10-02T09:57:09.000Z",
+        "display_text_range": [
+          10,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105960267205022127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105960267205022127",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105900819183010102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 请问响头是一次磕3t吗（t是头的简写），教官真会磕，我也听说这个磕大了可能脑袋晕晕的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105969020575076521",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1739,
+          "like_count": 6781,
+          "listed_count": 1,
+          "media_count": 645,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "08年MTF一枚 家长党😋 OD（?）紫餐（?）主人：@Antumn_Ink9   随意提问喵↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Antumn_Ink9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfitness6780",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mtfitness6780",
+                "start": 0,
+                "url": "https://t.co/Z6NiHQe69Q"
+              }
+            ]
+          }
+        },
+        "id": "2066161725322526720",
+        "is_identity_verified": false,
+        "location": "2.8km",
+        "most_recent_tweet_id": "2105964188212633769",
+        "name": "素風motofu",
+        "pinned_tweet_id": "2095138334201045393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066161725322526720/1782701797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 164,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/Z6NiHQe69Q",
+        "username": "MTFitness6780",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

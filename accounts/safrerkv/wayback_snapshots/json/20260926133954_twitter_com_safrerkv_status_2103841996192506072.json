@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103774681438543872"
+      ],
+      "media_source_tweet_id": [
+        "2103774686396187014"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103841996192506072",
+    "created_at": "2026-09-26T13:39:54.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103841996192506072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "学マスFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784219110655885312",
+          "start": 3,
+          "username": "sssmmk091"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ia2fZ4W6qr",
+          "end": 53,
+          "expanded_url": "https://x.com/sssmmk091/status/2103774686396187014/photo/1",
+          "media_key": "3_2103774681438543872",
+          "start": 30,
+          "url": "https://t.co/ia2fZ4W6qr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103841996192506072",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103774681438543872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103774686396187014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sssmmk091: お試し投稿美鈴\n#学マスFA https://t.co/ia2fZ4W6qr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2103774681438543872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIb7S6a4AAnNcC.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103774681438543872"
+          ],
+          "media_source_tweet_id": [
+            "2103774686396187014"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103841996192506072",
+        "created_at": "2026-09-26T13:39:54.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103841996192506072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "学マスFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784219110655885312",
+              "start": 3,
+              "username": "sssmmk091"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ia2fZ4W6qr",
+              "end": 53,
+              "expanded_url": "https://x.com/sssmmk091/status/2103774686396187014/photo/1",
+              "media_key": "3_2103774681438543872",
+              "start": 30,
+              "url": "https://t.co/ia2fZ4W6qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103841996192506072",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103774681438543872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103774686396187014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sssmmk091: お試し投稿美鈴\n#学マスFA https://t.co/ia2fZ4W6qr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103774681438543872"
+          ]
+        },
+        "author_id": "1784219110655885312",
+        "conversation_id": "2103774686396187014",
+        "created_at": "2026-09-26T09:12:26.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103774686396187014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "学マスFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ia2fZ4W6qr",
+              "end": 38,
+              "expanded_url": "https://x.com/sssmmk091/status/2103774686396187014/photo/1",
+              "media_key": "3_2103774681438543872",
+              "start": 15,
+              "url": "https://t.co/ia2fZ4W6qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103774686396187014",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103774681438543872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1730,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "お試し投稿美鈴\n#学マスFA https://t.co/ia2fZ4W6qr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103841996192506072",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1450,
+          "like_count": 5396,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T13:52:53.000Z",
+        "description": "18 学マスとか描きます。フォロー歓迎です\n清夏 美鈴",
+        "id": "1784219110655885312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103774686396187014",
+        "name": "いく",
+        "pinned_tweet_id": "1826982954629046418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784219110655885312/1790413057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103766390100627456/S5yV8ZDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "sssmmk091",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

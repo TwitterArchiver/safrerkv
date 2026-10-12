@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104479862589214887",
+    "created_at": "2026-09-28T11:38:06.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104536120981950922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089890624392536064",
+          "start": 0,
+          "username": "friedricew2hvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104536120981950922",
+    "in_reply_to_user_id": "2089890624392536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104479862589214887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedricew2hvr 丑橘 不丑  不丑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_2104479830716616704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSdQYrWkAAgZHt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1872,
+        "media_key": "3_2104479849570086912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSdRe6XsAAzguv.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104479862589214887",
+        "created_at": "2026-09-28T11:38:06.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104536120981950922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089890624392536064",
+              "start": 0,
+              "username": "friedricew2hvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104536120981950922",
+        "in_reply_to_user_id": "2089890624392536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104479862589214887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedricew2hvr 丑橘 不丑  不丑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104479830716616704",
+            "3_2104479849570086912"
+          ]
+        },
+        "author_id": "2089890624392536064",
+        "conversation_id": "2104479862589214887",
+        "created_at": "2026-09-28T07:54:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104479862589214887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXpcnZAMyG",
+              "end": 164,
+              "expanded_url": "https://x.com/friedricew2hvr/status/2104479862589214887/photo/1",
+              "media_key": "3_2104479830716616704",
+              "start": 141,
+              "url": "https://t.co/zXpcnZAMyG"
+            },
+            {
+              "display_url": "pic.x.com/zXpcnZAMyG",
+              "end": 164,
+              "expanded_url": "https://x.com/friedricew2hvr/status/2104479862589214887/photo/1",
+              "media_key": "3_2104479849570086912",
+              "start": 141,
+              "url": "https://t.co/zXpcnZAMyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104479862589214887",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104479830716616704"
+          },
+          {
+            "media_key": "3_2104479849570086912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘😡丑橘 https://t.co/zXpcnZAMyG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104536120981950922",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1578,
+          "like_count": 5892,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:43:14.000Z",
+        "description": "不见证，战雷小资历，正常人，6767年前组装落地，🏳️‍⚧️，成分复杂，欢迎交友！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/jFjU7kdfLH"
+              }
+            ]
+          }
+        },
+        "id": "2089890624392536064",
+        "is_identity_verified": false,
+        "location": "吴家村",
+        "most_recent_tweet_id": "2104518307311473119",
+        "name": "かわいい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089890624392536064/1790512477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102719932882378752/6bsu5AZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/jFjU7kdfLH",
+        "username": "friedricew2hvr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

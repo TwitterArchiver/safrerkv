@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106700869563777382",
+    "created_at": "2026-10-04T11:24:56.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106707134985756995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395755728950812676",
+          "start": 0,
+          "username": "shikoch1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106707134985756995",
+    "in_reply_to_user_id": "1395755728950812676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106706997764837415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikoch1n 不行你今天一定要射😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106700869563777382",
+        "created_at": "2026-10-04T11:24:56.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106707134985756995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395755728950812676",
+              "start": 0,
+              "username": "shikoch1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106707134985756995",
+        "in_reply_to_user_id": "1395755728950812676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106706997764837415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikoch1n 不行你今天一定要射😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395755728950812676",
+        "conversation_id": "2106700869563777382",
+        "created_at": "2026-10-04T11:24:23.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106706997764837415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106706997764837415",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106700869563777382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 在戒，别搞"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106707134985756995",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1864,
+          "like_count": 7541,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 2946
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T14:58:02.000Z",
+        "description": "Writer / Vibe Coder\nLanguage: Chinese / English\nany DM are welcome\n我喜欢你们，互关🥺\n\nXKO0C027475a78E05966069823379E0D008895674a0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shikoch.in",
+                "end": 23,
+                "expanded_url": "http://shikoch.in",
+                "start": 0,
+                "url": "https://t.co/PLpx9hb3j9"
+              }
+            ]
+          }
+        },
+        "id": "1395755728950812676",
+        "is_identity_verified": false,
+        "location": "Prohibited",
+        "most_recent_tweet_id": "2106706997764837415",
+        "name": "西宮 缄",
+        "pinned_tweet_id": "1743677436347494511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395755728950812676/1790448175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103918254725201920/de5KCyp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 331,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/PLpx9hb3j9",
+        "username": "shikoch1n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

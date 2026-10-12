@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2107323242381979814",
+    "created_at": "2026-10-06T04:27:20.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107326817891914046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2106741859502743552",
+          "start": 0,
+          "username": "NiimiyaHoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107326817891914046",
+    "in_reply_to_user_id": "2106741859502743552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107325583822860581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiimiyaHoshi 可惜了我已经来到电鳗发电机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2107323242381979814",
+        "created_at": "2026-10-06T04:27:20.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107326817891914046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2106741859502743552",
+              "start": 0,
+              "username": "NiimiyaHoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107326817891914046",
+        "in_reply_to_user_id": "2106741859502743552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107325583822860581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiimiyaHoshi 可惜了我已经来到电鳗发电机了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2106741859502743552",
+        "conversation_id": "2107323242381979814",
+        "created_at": "2026-10-06T04:22:26.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107325583822860581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107325583822860581",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107323242381979814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 我已經打撈到海水過濾器了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107326817891914046",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1979,
+          "like_count": 8427,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-04T13:44:02.000Z",
+        "description": "第16任中華民國總統，此賬戶為模仿賬戶\n前世@Lai_Chingte8964  @lqd8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "Lai_Chingte8964"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "lqd8964"
+              }
+            ]
+          }
+        },
+        "id": "2106741859502743552",
+        "is_identity_verified": false,
+        "location": "中華民國台灣 台北總統府",
+        "most_recent_tweet_id": "2107325781064175833",
+        "name": "賴總統清德先生",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106741859502743552/1791123688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107109150425845760/7QR3GvBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "NiimiyaHoshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106395211182285015",
+    "created_at": "2026-10-05T07:10:48.000Z",
+    "display_text_range": [
+      24,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107005567604494348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933457457206136832",
+          "start": 0,
+          "username": "kjfvk56417"
+        },
+        {
+          "end": 23,
+          "id": "2101498602766077952",
+          "start": 12,
+          "username": "Box3_jilil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107005567604494348",
+    "in_reply_to_user_id": "1933457457206136832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106429472350302686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjfvk56417 @Box3_jilil 还是滚回墙内和你的少羽操比吧 死妈的健全逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106395211182285015",
+        "created_at": "2026-10-05T07:10:48.000Z",
+        "display_text_range": [
+          24,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107005567604494348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933457457206136832",
+              "start": 0,
+              "username": "kjfvk56417"
+            },
+            {
+              "end": 23,
+              "id": "2101498602766077952",
+              "start": 12,
+              "username": "Box3_jilil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107005567604494348",
+        "in_reply_to_user_id": "1933457457206136832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106429472350302686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjfvk56417 @Box3_jilil 还是滚回墙内和你的少羽操比吧 死妈的健全逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933457457206136832",
+        "conversation_id": "2106395211182285015",
+        "created_at": "2026-10-03T17:01:36.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106429472350302686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101498602766077952",
+              "start": 0,
+              "username": "Box3_jilil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106429472350302686",
+        "in_reply_to_user_id": "2101498602766077952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106395211182285015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_jilil 你妈14年也是养狗身上了，这个年龄真的知道自己在做什么吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107005567604494348",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1916,
+          "like_count": 8086,
+          "listed_count": 1,
+          "media_count": 704,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-13T09:32:44.000Z",
+        "description": "dct",
+        "id": "1933457457206136832",
+        "is_identity_verified": false,
+        "location": "ffv",
+        "most_recent_tweet_id": "2106993485840621759",
+        "name": "少羽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081877560452157440/GAyznbA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 93,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "kjfvk56417",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T02:31:57.000Z",
+        "description": "🩵泥嚎(⁠・⁠∀⁠・⁠)🩷我是小盒子🤍无证含糖🩷生产日期 2012.4.6🩵\n这个号关注我的都会回关，可以和小盒子聊天喵\n大盒子：@Box3_ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Box3_ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Box3_ji",
+                "end": 23,
+                "expanded_url": "https://x.com/Box3_ji",
+                "start": 0,
+                "url": "https://t.co/GR4eLNlNDm"
+              }
+            ]
+          }
+        },
+        "id": "2101498602766077952",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🩵🩷🤍",
+        "most_recent_tweet_id": "2106982508567167165",
+        "name": "lilBox🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101956147934798127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101498602766077952/1789872242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101501392825528320/yX7RB4Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 453,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/GR4eLNlNDm",
+        "username": "Box3_jilil",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

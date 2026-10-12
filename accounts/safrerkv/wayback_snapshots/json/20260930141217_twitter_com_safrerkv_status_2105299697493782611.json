@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105299697493782611",
+    "created_at": "2026-09-30T14:12:17.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105299697493782611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chubailuo/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/chubailuo/status/2105246127159480827",
+          "start": 57,
+          "url": "https://t.co/e4R02mI0aJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105299697493782611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105246127159480827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "认识大家真的很开心，不过最近由于被推特小团体霸凌，这应该是我9月份最后1天在群里说话了，谢谢大家这么久以来的陪伴 https://t.co/e4R02mI0aJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105299697493782611",
+        "created_at": "2026-09-30T14:12:17.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105299697493782611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chubailuo/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/chubailuo/status/2105246127159480827",
+              "start": 57,
+              "url": "https://t.co/e4R02mI0aJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105299697493782611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105246127159480827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认识大家真的很开心，不过最近由于被推特小团体霸凌，这应该是我9月份最后1天在群里说话了，谢谢大家这么久以来的陪伴 https://t.co/e4R02mI0aJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080270067426832384",
+        "conversation_id": "2105246127159480827",
+        "created_at": "2026-09-30T10:39:24.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105246127159480827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SepMiaoFour/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/SepMiaoFour/status/2105161913671774659",
+              "start": 57,
+              "url": "https://t.co/QqCJgB4zlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105246127159480827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105161913671774659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认识大家真的很开心，不过最近由于被推特小团体霸凌，这应该是我9月份最后1天在群里说话了，谢谢大家这么久以来的陪伴 https://t.co/QqCJgB4zlD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105299697493782611",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 1658,
+          "like_count": 6414,
+          "listed_count": 1,
+          "media_count": 606,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T12:36:02.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2080270067426832384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105296374732632342",
+        "name": "初白洛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080270067426832384/1790348189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089967078560129024/Fj3VWFOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 267,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "chubailuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

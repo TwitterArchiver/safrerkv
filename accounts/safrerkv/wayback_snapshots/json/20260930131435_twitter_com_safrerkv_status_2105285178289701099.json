@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105285178289701099",
+    "created_at": "2026-09-30T13:14:35.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105285178289701099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuwuren4/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/wuwuren4/status/2104990352906264867",
+          "start": 3,
+          "url": "https://t.co/lfAS8pUC0J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105285178289701099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104990352906264867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/lfAS8pUC0J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16509,
+        "height": 754,
+        "media_key": "13_2104990302033637377",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104990302033637377/img/MW_G9ApzK87rXI1j.jpg",
+        "public_metrics": {
+          "view_count": 234838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/320x334/mHg1KXaAhSPrMs8W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/480x500/HG0nOwybJVvL-SZ9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/720x750/J7tPbLQDXKpigmnK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/pl/hqfATCM_yjylwCHU.m3u8?tag=14"
+          }
+        ],
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105285178289701099",
+        "created_at": "2026-09-30T13:14:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105285178289701099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuwuren4/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/wuwuren4/status/2104990352906264867",
+              "start": 3,
+              "url": "https://t.co/lfAS8pUC0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105285178289701099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104990352906264867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/lfAS8pUC0J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104990302033637377"
+          ]
+        },
+        "author_id": "1519654741185556480",
+        "conversation_id": "2104990352906264867",
+        "created_at": "2026-09-29T17:43:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104990352906264867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycEA4KMn9A",
+              "end": 23,
+              "expanded_url": "https://x.com/wuwuren4/status/2104990352906264867/video/1",
+              "media_key": "13_2104990302033637377",
+              "start": 0,
+              "url": "https://t.co/ycEA4KMn9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104990352906264867",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2104990302033637377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5052,
+          "impression_count": 390680,
+          "like_count": 47909,
+          "quote_count": 250,
+          "reply_count": 90,
+          "retweet_count": 5011
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ycEA4KMn9A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105285178289701099",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1658,
+          "like_count": 6393,
+          "listed_count": 1,
+          "media_count": 604,
+          "tweet_count": 2382
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:28:28.000Z",
+        "description": "别拿我的任何画代餐以及当头像当壁纸\\禁止用于任何参考学习以及素材使用\\禁止转载\\禁止ai\\未关注评论也会被我拉黑\\                                 工作\\合作renwuwu5@gmail.com",
+        "id": "1519654741185556480",
+        "is_identity_verified": false,
+        "location": "家",
+        "most_recent_tweet_id": "2104990352906264867",
+        "name": "戊戊人",
+        "pinned_tweet_id": "1657262699770957825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519654741185556480/1731321311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966601320418197504/66PaFeCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56592,
+          "following_count": 295,
+          "like_count": 895,
+          "listed_count": 214,
+          "media_count": 847,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "wuwuren4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

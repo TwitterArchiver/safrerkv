@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104149045921132939",
+    "created_at": "2026-09-27T12:58:03.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104193855843377623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720575392371949568",
+          "start": 0,
+          "username": "k4sum1_toki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104193855843377623",
+    "in_reply_to_user_id": "1720575392371949568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104174546513469495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4sum1_toki 你怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104149045921132939",
+        "created_at": "2026-09-27T12:58:03.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104193855843377623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720575392371949568",
+              "start": 0,
+              "username": "k4sum1_toki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104193855843377623",
+        "in_reply_to_user_id": "1720575392371949568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104174546513469495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4sum1_toki 你怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720575392371949568",
+        "conversation_id": "2104149045921132939",
+        "created_at": "2026-09-27T11:41:20.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104174546513469495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104174546513469495",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104149045921132939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 根本不存在这样的函数"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104193855843377623",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 1534,
+          "like_count": 5770,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T22:55:27.000Z",
+        "description": "Vibecoder | AI Artist | 随机写诗中 | 07 | OD | INFP | P & L | 灵魂旅者 | 抑郁治疗中 | 实际白狐 | MtF 大概 | 泛性恋 | HRT 2026.09.27\n愿望是将自己的温柔分给每一个人 愿世人真诚相待\n愿黑星照常升起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k4sum1_toki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k4sum1_toki",
+                "start": 0,
+                "url": "https://t.co/3TyEOPjoOr"
+              }
+            ]
+          }
+        },
+        "id": "1720575392371949568",
+        "is_identity_verified": false,
+        "location": "永昼事务所 ELA",
+        "most_recent_tweet_id": "2104180836635705382",
+        "name": "時越·霞|Tokikoshi Kasumi",
+        "pinned_tweet_id": "2099465411251282056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720575392371949568/1788138784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094088853871329280/mqNd3x5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 349,
+          "like_count": 2709,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/3TyEOPjoOr",
+        "username": "k4sum1_toki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

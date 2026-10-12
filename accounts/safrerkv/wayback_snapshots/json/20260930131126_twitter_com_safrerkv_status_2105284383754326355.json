@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2105212840428884450",
+    "created_at": "2026-09-30T13:11:26.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105284383754326355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992506703678705664",
+          "start": 0,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105284383754326355",
+    "in_reply_to_user_id": "1992506703678705664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105212840428884450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngyng64121 恭喜喵~🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉✨✨✨🧨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2105212824557674496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTc36PhbYAAXZj3.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105212840428884450",
+        "created_at": "2026-09-30T13:11:26.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105284383754326355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105284383754326355",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105212840428884450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 恭喜喵~🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉✨✨✨🧨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105212824557674496"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105212840428884450",
+        "created_at": "2026-09-30T08:27:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105212840428884450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHsW2DgfTL",
+              "end": 34,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2105212840428884450/photo/1",
+              "media_key": "3_2105212824557674496",
+              "start": 11,
+              "url": "https://t.co/gHsW2DgfTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105212840428884450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105212824557674496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "700fo感谢🥹！！ https://t.co/gHsW2DgfTL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105284383754326355",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1658,
+          "like_count": 6392,
+          "listed_count": 1,
+          "media_count": 604,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105282678459371852",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 511,
+          "like_count": 9934,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2103494786661732601",
+    "created_at": "2026-09-27T00:04:17.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T01:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103999130670617059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965679537242677248",
+          "start": 0,
+          "username": "lu___nyannyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103999130670617059",
+    "in_reply_to_user_id": "1965679537242677248",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103494786661732601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu___nyannyan DXM🥰😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2103494781011910656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEdW8kaYAA7R2b.jpg",
+        "width": 1109
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2103494780546400256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEdW61bQAAYneM.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2103494786661732601",
+        "created_at": "2026-09-27T00:04:17.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103999130670617059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965679537242677248",
+              "start": 0,
+              "username": "lu___nyannyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103999130670617059",
+        "in_reply_to_user_id": "1965679537242677248",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103494786661732601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu___nyannyan DXM🥰😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103494781011910656",
+            "3_2103494780546400256"
+          ]
+        },
+        "author_id": "1965679537242677248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103494786661732601",
+        "created_at": "2026-09-25T14:40:12.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103494786661732601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0IqCZMpk3",
+              "end": 40,
+              "expanded_url": "https://x.com/lu___nyannyan/status/2103494786661732601/photo/1",
+              "media_key": "3_2103494781011910656",
+              "start": 17,
+              "url": "https://t.co/w0IqCZMpk3"
+            },
+            {
+              "display_url": "pic.x.com/w0IqCZMpk3",
+              "end": 40,
+              "expanded_url": "https://x.com/lu___nyannyan/status/2103494786661732601/photo/1",
+              "media_key": "3_2103494780546400256",
+              "start": 17,
+              "url": "https://t.co/w0IqCZMpk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103494786661732601",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103494781011910656"
+          },
+          {
+            "media_key": "3_2103494780546400256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 19293,
+          "like_count": 793,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "友達が溜め込んでるめじの量やばい https://t.co/w0IqCZMpk3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2103999130670617059",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1490,
+          "like_count": 5618,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T07:32:45.000Z",
+        "description": "04 JP◎ EN△ 中性 \n精神手帳2級、療育手帳B1┃251♡▶︎@hera__mya￤惚気▶︎@itochandayou ￤ペア画/恋人▶︎ @As_if_dream ￤🗝▶︎ @reley__2￤避難▶︎ @u__nyoooon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "hera__mya"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "itochandayou"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "As_if_dream"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "reley__2"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "u__nyoooon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/lu___nyannyan",
+                "end": 23,
+                "expanded_url": "https://lit.link/lu___nyannyan",
+                "start": 0,
+                "url": "https://t.co/vvuoSr3MtY"
+              }
+            ]
+          }
+        },
+        "id": "1965679537242677248",
+        "is_identity_verified": false,
+        "location": "知障、不安障害、パニ障、鬱、人格障害:BPD、解離、ADHD",
+        "most_recent_tweet_id": "2103886099789865298",
+        "name": "るーにゃ",
+        "pinned_tweet_id": "2020899866084597781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965679537242677248/1757489787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965680009739468802/5TmQg8TL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 617,
+          "like_count": 16257,
+          "listed_count": 13,
+          "media_count": 650,
+          "tweet_count": 10357
+        },
+        "url": "https://t.co/vvuoSr3MtY",
+        "username": "lu___nyannyan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

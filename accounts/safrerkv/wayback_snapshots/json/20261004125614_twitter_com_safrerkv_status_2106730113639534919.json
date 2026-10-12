@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106728322030018560"
+      ],
+      "media_source_tweet_id": [
+        "2106728333979652599"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2106730113639534919",
+    "created_at": "2026-10-04T12:56:14.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106730113639534919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2089408201209102336",
+          "start": 3,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1Hjr11uob",
+          "end": 66,
+          "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2106728333979652599/photo/1",
+          "media_key": "3_2106728322030018560",
+          "start": 43,
+          "url": "https://t.co/K1Hjr11uob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106730113639534919",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106728322030018560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106728333979652599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuzhuzhuzhusiz: 腰带的位置好像有点太靠下了因为它一直往下滑 https://t.co/K1Hjr11uob"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_2106728322030018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyaPzjaoAAT7cr.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106728322030018560"
+          ],
+          "media_source_tweet_id": [
+            "2106728333979652599"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2106730113639534919",
+        "created_at": "2026-10-04T12:56:14.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106730113639534919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2089408201209102336",
+              "start": 3,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Hjr11uob",
+              "end": 66,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2106728333979652599/photo/1",
+              "media_key": "3_2106728322030018560",
+              "start": 43,
+              "url": "https://t.co/K1Hjr11uob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106730113639534919",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106728322030018560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106728333979652599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuzhuzhuzhusiz: 腰带的位置好像有点太靠下了因为它一直往下滑 https://t.co/K1Hjr11uob"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106728322030018560"
+          ]
+        },
+        "author_id": "2089408201209102336",
+        "conversation_id": "2106728333979652599",
+        "created_at": "2026-10-04T12:49:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106728333979652599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Hjr11uob",
+              "end": 45,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2106728333979652599/photo/1",
+              "media_key": "3_2106728322030018560",
+              "start": 22,
+              "url": "https://t.co/K1Hjr11uob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106728333979652599",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106728322030018560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "腰带的位置好像有点太靠下了因为它一直往下滑 https://t.co/K1Hjr11uob"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2106730113639534919",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1870,
+          "like_count": 7574,
+          "listed_count": 1,
+          "media_count": 687,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "@wbuzdwsmdoubzd\njj @shashatsi7\n防炸@zerooooouy69",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "wbuzdwsmdoubzd"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "shashatsi7"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "zerooooouy69"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106728977541042562",
+        "name": "炸炸的玉6.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103850772836519936/EBoWFVsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 319,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

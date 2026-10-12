@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099862502351978497"
+      ],
+      "media_source_tweet_id": [
+        "2104149056427884732"
+      ]
+    },
+    "author_id": "2070858923431825408",
+    "conversation_id": "2104219722309103870",
+    "created_at": "2026-09-27T14:40:50.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104219722309103870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397877045686771712",
+          "start": 3,
+          "username": "makeine0718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hu8kgAQnK8",
+          "end": 40,
+          "expanded_url": "https://x.com/makeine0718/status/2104149056427884732/photo/1",
+          "media_key": "3_2099862502351978497",
+          "start": 17,
+          "url": "https://t.co/Hu8kgAQnK8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104219722309103870",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2099862502351978497"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104149056427884732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makeine0718: https://t.co/Hu8kgAQnK8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099862502351978497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQ10gHaQAE-Flv.jpg",
+        "width": 2907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099862502351978497"
+          ],
+          "media_source_tweet_id": [
+            "2104149056427884732"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "conversation_id": "2104219722309103870",
+        "created_at": "2026-09-27T14:40:50.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104219722309103870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397877045686771712",
+              "start": 3,
+              "username": "makeine0718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hu8kgAQnK8",
+              "end": 40,
+              "expanded_url": "https://x.com/makeine0718/status/2104149056427884732/photo/1",
+              "media_key": "3_2099862502351978497",
+              "start": 17,
+              "url": "https://t.co/Hu8kgAQnK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104219722309103870",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099862502351978497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104149056427884732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makeine0718: https://t.co/Hu8kgAQnK8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099862502351978497"
+          ]
+        },
+        "author_id": "1397877045686771712",
+        "conversation_id": "2104149056427884732",
+        "created_at": "2026-09-27T10:00:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104149056427884732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hu8kgAQnK8",
+              "end": 23,
+              "expanded_url": "https://x.com/makeine0718/status/2104149056427884732/photo/1",
+              "media_key": "3_2099862502351978497",
+              "start": 0,
+              "url": "https://t.co/Hu8kgAQnK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104149056427884732",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099862502351978497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 48579,
+          "like_count": 6388,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hu8kgAQnK8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2104219722309103870",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1536,
+          "like_count": 5799,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-27T11:28:48.000Z",
+        "description": "『負けヒロインが多すぎる！』（雨森たきび×いみぎむる、ガガガ文庫より発売中！）原作公式アカウントです！略称は #マケイン！👉原作公式サイト→https://t.co/ahtaVrdDtj 👉アニメ公式アカウント@makeine_anime 🍙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "マケイン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "makeine_anime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gagagabunko.jp",
+                "end": 93,
+                "expanded_url": "https://gagagabunko.jp/",
+                "start": 70,
+                "url": "https://t.co/ahtaVrdDtj"
+              }
+            ]
+          }
+        },
+        "id": "1397877045686771712",
+        "is_identity_verified": false,
+        "location": "ツワブキ高校",
+        "most_recent_tweet_id": "2104149056427884732",
+        "name": "『負けヒロインが多すぎる！（マケイン）』原作1〜9巻＆コミック1〜6巻好評発売中！",
+        "pinned_tweet_id": "2095814509629944293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397877045686771712/1764416933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994735305866579970/gQM70BGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190128,
+          "following_count": 10,
+          "like_count": 51784,
+          "listed_count": 420,
+          "media_count": 1848,
+          "tweet_count": 15474
+        },
+        "url": "",
+        "username": "makeine0718",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

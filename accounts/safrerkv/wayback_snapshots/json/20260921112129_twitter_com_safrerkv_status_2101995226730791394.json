@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2070858923431825408",
+    "conversation_id": "2101899225055515121",
+    "created_at": "2026-09-21T11:21:29.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101995226730791394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1564613336045477898",
+          "start": 0,
+          "username": "XLJTB1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101995226730791394",
+    "in_reply_to_user_id": "1564613336045477898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101983643178770520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLJTB1231 本子软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2101899225055515121",
+        "created_at": "2026-09-21T11:21:29.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101995226730791394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1564613336045477898",
+              "start": 0,
+              "username": "XLJTB1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101995226730791394",
+        "in_reply_to_user_id": "1564613336045477898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101983643178770520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLJTB1231 本子软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564613336045477898",
+        "conversation_id": "2101899225055515121",
+        "created_at": "2026-09-21T10:35:28.000Z",
+        "display_text_range": [
+          10,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101983643178770520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101983643178770520",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101899225055515121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 这个Eh是啥？我知道很多哔咔是搬的禁漫天堂的，但是Eh真没听过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪/中国人/心理疾病/女/音游/gal/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur3nOF"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2101995226730791394",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2099054219856883717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1301,
+          "like_count": 4657,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/dP9tur3nOF",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-30T13:58:10.000Z",
+        "description": "爱吃大鸡腿",
+        "id": "1564613336045477898",
+        "is_identity_verified": false,
+        "location": "济南",
+        "most_recent_tweet_id": "2101985721838096882",
+        "name": "超级大鸡腿🍗",
+        "pinned_tweet_id": "1647591058178449408",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055144344621842432/ep_7k8TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 35,
+          "like_count": 26661,
+          "listed_count": 4,
+          "media_count": 1413,
+          "tweet_count": 21293
+        },
+        "url": "",
+        "username": "XLJTB1231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
